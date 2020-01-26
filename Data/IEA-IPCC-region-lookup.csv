@@ -1,0 +1,169 @@
+﻿IPCC REGION,IEA REGION
+World,World
+OECD90,Canada
+LAM,Chile
+LAM,Mexico
+OECD90,United States
+AG-NA,OECD Americas
+OECD90,Australia
+MAF,Israel
+OECD90,Japan
+ASIA,Korea
+OECD90,New Zealand
+AG-NA,OECD Asia Oceania
+OECD90,Austria
+OECD90,Belgium
+REF,Czech Republic
+OECD90,Denmark
+REF,Estonia
+OECD90,Finland
+OECD90,France
+OECD90,Germany
+OECD90,Greece
+REF,Hungary
+OECD90,Iceland
+OECD90,Ireland
+OECD90,Italy
+REF,Latvia
+REF,Lithuania
+OECD90,Luxembourg
+OECD90,Netherlands
+OECD90,Norway
+REF,Poland
+OECD90,Portugal
+REF,Slovak Republic
+REF,Slovenia
+OECD90,Spain
+OECD90,Sweden
+OECD90,Switzerland
+OECD90,Turkey
+OECD90,United Kingdom
+AG-NA,OECD Europe
+REF,Albania
+REF,Armenia
+REF,Azerbaijan
+REF,Belarus
+REF,Bosnia and Herzegovina
+REF,Bulgaria
+REF,Croatia
+REF,Cyprus
+REF,Georgia
+OECD90,Gibraltar
+REF,Kazakhstan
+REF,Kosovo
+REF,Kyrgyzstan
+REF,Malta
+REF,Republic of Moldova
+REF,Montenegro
+REF,Republic of North Macedonia
+REF,Romania
+REF,Russian Federation
+REF,Serbia
+REF,Tajikistan
+REF,Turkmenistan
+REF,Ukraine
+REF,Uzbekistan
+REF,Former Soviet Union (if no detail)
+REF,Former Yugoslavia (if no detail)
+AG-NA,Non-OECD Europe and Eurasia
+MAF,Algeria
+MAF,Angola
+MAF,Benin
+MAF,Botswana
+MAF,Cameroon
+MAF,Congo
+MAF,Côte d'Ivoire
+MAF,Dem. Rep. of Congo
+MAF,Egypt
+MAF,Eritrea
+MAF,Ethiopia
+MAF,Gabon
+MAF,Ghana
+MAF,Kenya
+MAF,Libya
+MAF,Mauritius
+MAF,Morocco
+MAF,Mozambique
+MAF,Namibia
+MAF,Niger
+MAF,Nigeria
+MAF,Senegal
+MAF,South Africa
+MAF,South Sudan
+MAF,Sudan
+MAF,United Rep. of Tanzania
+MAF,Togo
+MAF,Tunisia
+MAF,Zambia
+MAF,Zimbabwe
+MAF,Other Africa
+AG-NA,Africa
+ASIA,Bangladesh
+ASIA,Brunei Darussalam
+ASIA,Cambodia
+ASIA,DPR of Korea
+ASIA,India
+ASIA,Indonesia
+ASIA,Malaysia
+ASIA,Mongolia
+ASIA,Myanmar
+ASIA,Nepal
+ASIA,Pakistan
+ASIA,Philippines
+ASIA,Singapore
+ASIA,Sri Lanka
+ASIA,Chinese Taipei
+ASIA,Thailand
+ASIA,Viet Nam
+ASIA,Other Asia
+AG-NA,Asia (excl. China)
+ASIA,People's Rep. of China
+ASIA,"Hong Kong, China"
+AG-NA,"China (incl. Hong Kong, China)"
+LAM,Argentina
+LAM,Bolivia
+LAM,Brazil
+LAM,Colombia
+LAM,Costa Rica
+LAM,Cuba
+LAM,Curaçao
+LAM,Dominican Republic
+LAM,Ecuador
+LAM,El Salvador
+LAM,Guatemala
+LAM,Haiti
+LAM,Honduras
+LAM,Jamaica
+LAM,Nicaragua
+LAM,Panama
+LAM,Paraguay
+LAM,Peru
+LAM,Suriname
+LAM,Trinidad and Tobago
+LAM,Uruguay
+LAM,Venezuela
+LAM,Other Non-OECD Americas
+AG-NA,Non-OECD Americas
+MAF,Bahrain
+MAF,Islamic Rep. of Iran
+MAF,Iraq
+MAF,Jordan
+MAF,Kuwait
+MAF,Lebanon
+MAF,Oman
+MAF,Qatar
+MAF,Saudi Arabia
+MAF,Syrian Arab Republic 
+MAF,United Arab Emirates
+MAF,Yemen
+AG-NA,Middle East
+AG-NA,IEA/Accession/Association
+AG-NA,European Union - 28
+AG-NA,G7
+AG-NA,G8
+AG-NA,G20
+AG-NA,Africa
+AG-NA,Americas
+AG-NA,Asia
+AG-NA,Europe
+AG-NA,Oceania

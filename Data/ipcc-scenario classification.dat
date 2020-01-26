@@ -1,0 +1,1185 @@
+MODEL,SCENARIO,CLIMATE_METRIC,CLIMATE_VALUE,CLIMATE,BUDGET_2100,BUDGET_2050,OVERSHOOT,NEGATIVE_EMISSION,POLICY,TECHNOLOGY,BASELINE,Baseline Scenario
+AIM-Enduse 12.1,EMF27-Base-Conv,Carbon Budget 2050,1791364.1573536,Category 6,N/A,Category 6,N/A,N/A,P0,T2,EMF27-Base-Conv,Baseline
+AIM-Enduse 12.1,EMF27-Base-EERE,Carbon Budget 2050,1597849.3091639,Category 5 - 6,N/A,Category 5 - 6,N/A,N/A,P0,T3,EMF27-Base-EERE,Baseline
+AIM-Enduse 12.1,EMF27-Base-FullTech,Carbon Budget 2050,1789091.0351659,Category 6,N/A,Category 6,N/A,N/A,P0,T0,EMF27-Base-FullTech,Baseline
+AIM-Enduse 12.1,EMF27-Base-LimBio,Carbon Budget 2050,1789092.6785803,Category 6,N/A,Category 6,N/A,N/A,P0,T2,EMF27-Base-LimBio,Baseline
+AIM-Enduse 12.1,EMF27-Base-LimSW,Carbon Budget 2050,1791347.4142469,Category 6,N/A,Category 6,N/A,N/A,P0,T2,EMF27-Base-LimSW,Baseline
+AIM-Enduse 12.1,EMF27-Base-LimTech,Carbon Budget 2050,1842437.9132483,Category 6,N/A,Category 6,N/A,N/A,P0,T3,EMF27-Base-LimTech,Baseline
+AIM-Enduse 12.1,EMF27-Base-LowEI,Carbon Budget 2050,1546862.9763866,Category 4 - 6,N/A,Category 4 - 6,N/A,N/A,P0,T0,EMF27-Base-LowEI,Baseline
+AIM-Enduse 12.1,EMF27-Base-NucOff,Carbon Budget 2050,1840239.38839,Category 6,N/A,Category 6,N/A,N/A,P0,T2,EMF27-Base-NucOff,Baseline
+AIM-Enduse[Backcast] 1.0,LIMITS-Base,Carbon Budget 2050,1929534.8983976,Category 6,N/A,Category 6,N/A,N/A,P0,T0,LIMITS-Base,Baseline
+BET 1.5,EMF27-Base-Conv,Carbon Budget 2100,6612835.0885534,Category 7,Category 7,Category 7,N/A,N1,P0,T2,EMF27-Base-Conv,Baseline
+BET 1.5,EMF27-Base-EERE,Carbon Budget 2100,4554544.3579114,Category 6,Category 6,Category 6,N/A,N1,P0,T3,EMF27-Base-EERE,Baseline
+BET 1.5,EMF27-Base-FullTech,Carbon Budget 2100,6360981.5048164,Category 7,Category 7,Category 7,N/A,N1,P0,T0,EMF27-Base-FullTech,Baseline
+BET 1.5,EMF27-Base-LimBio,Carbon Budget 2100,6544137.9505397,Category 7,Category 7,Category 7,N/A,N1,P0,T2,EMF27-Base-LimBio,Baseline
+BET 1.5,EMF27-Base-LimSW,Carbon Budget 2100,6412275.1435256,Category 7,Category 7,Category 7,N/A,N1,P0,T2,EMF27-Base-LimSW,Baseline
+BET 1.5,EMF27-Base-LimTech,Carbon Budget 2100,4798820.6634985,Category 6,Category 6,Category 6,N/A,N1,P0,T3,EMF27-Base-LimTech,Baseline
+BET 1.5,EMF27-Base-LowEI,Carbon Budget 2100,4448796.2032257,Category 6,Category 6,Category 6,N/A,N1,P0,T0,EMF27-Base-LowEI,Baseline
+BET 1.5,EMF27-Base-NucOff,Carbon Budget 2100,6629808.8574157,Category 7,Category 7,Category 7,N/A,N1,P0,T2,EMF27-Base-NucOff,Baseline
+DNE21 V.11,AME Reference,Carbon Budget 2050,1931494.1041975,Category 6,N/A,Category 6,N/A,N/A,P0,T0,AME Reference,Baseline
+DNE21 V.12,AMPERE2-Base-FullTech-OPT,Carbon Budget 2050,2317491.7233873,Category 7,N/A,Category 7,N/A,N/A,P0,T0,AMPERE2-Base-FullTech-OPT,Baseline
+DNE21 V.12,AMPERE2-Base-LowEI-OPT,Carbon Budget 2050,2007118.6567206,Category 7,N/A,Category 7,N/A,N/A,P0,T0,AMPERE2-Base-LowEI-OPT,Baseline
+DNE21 V.12,AMPERE2-Base-NucOff-OPT,Carbon Budget 2050,2367316.9567206,Category 7,N/A,Category 7,N/A,N/A,P0,T2,AMPERE2-Base-NucOff-OPT,Baseline
+DNE21 V.12,AMPERE3-Base,Carbon Budget 2050,2159279.6400539,Category 7,N/A,Category 7,N/A,N/A,P0,T0,AMPERE3-Base,Baseline
+DNE21 V.12,Carbon tax 0,N/A,,N/A,N/A,N/A,N/A,N/A,P0,T0,Carbon tax 0,Baseline
+EC-IAM 2012,EMF27-Base-Conv,Forcing Kyoto Gases (MAGICC6),6.995634615775,Category 6,Category 6,Category 6,O1,N1,P0,T3,EMF27-Base-Conv,Baseline
+EC-IAM 2012,EMF27-Base-EERE,Forcing Kyoto Gases (MAGICC6),5.8624480281145,Category 6,Category 6,Category 4 - 5,O1,N1,P0,T3,EMF27-Base-EERE,Baseline
+EC-IAM 2012,EMF27-Base-FullTech,Forcing Kyoto Gases (MAGICC6),6.803849861858,Category 6,Category 6,Category 6,O1,N1,P0,T1,EMF27-Base-FullTech,Baseline
+EC-IAM 2012,EMF27-Base-LimBio,Forcing Kyoto Gases (MAGICC6),6.874066983222,Category 6,Category 6,Category 6,O1,N1,P0,T3,EMF27-Base-LimBio,Baseline
+EC-IAM 2012,EMF27-Base-LimSW,Forcing Kyoto Gases (MAGICC6),6.9296706825033,Category 6,Category 6,Category 6,O1,N1,P0,T3,EMF27-Base-LimSW,Baseline
+EC-IAM 2012,EMF27-Base-LimTech,Forcing Kyoto Gases (MAGICC6),7.0717236338381,Category 7,Category 6,Category 6,O1,N1,P0,T3,EMF27-Base-LimTech,Baseline
+EC-IAM 2012,EMF27-Base-LowEI,Forcing Kyoto Gases (MAGICC6),5.8589654171132,Category 6,Category 6,Category 4 - 5,O1,N1,P0,T1,EMF27-Base-LowEI,Baseline
+EC-IAM 2012,EMF27-Base-NucOff,Forcing Kyoto Gases (MAGICC6),6.83495371182,Category 6,Category 6,Category 6,O1,N1,P0,T3,EMF27-Base-NucOff,Baseline
+ENV-Linkages (WEO2012 calibration),EMF27-Base-Conv,Carbon Budget 2050,1884194,Category 6,N/A,Category 6,N/A,N/A,P0,T3,EMF27-Base-Conv,Baseline
+ENV-Linkages (WEO2012 calibration),EMF27-Base-FullTech,Carbon Budget 2050,1883389,Category 6,N/A,Category 6,N/A,N/A,P0,T1,EMF27-Base-FullTech,Baseline
+ENV-Linkages (WEO2012 calibration),EMF27-Base-LimBio,Carbon Budget 2050,1873668.5,Category 6,N/A,Category 6,N/A,N/A,P0,T3,EMF27-Base-LimBio,Baseline
+ENV-Linkages (WEO2012 calibration),EMF27-Base-LimSW,Carbon Budget 2050,1882667.5,Category 6,N/A,Category 6,N/A,N/A,P0,T3,EMF27-Base-LimSW,Baseline
+ENV-Linkages (WEO2012 calibration),EMF27-Base-NucOff,Carbon Budget 2050,1894335.5,Category 6,N/A,Category 6,N/A,N/A,P0,T3,EMF27-Base-NucOff,Baseline
+FARM_3.0,EMF27-Base-Conv,Carbon Budget 2100,5374120.8840398,Category 7,Category 7,Category 6,N/A,N1,P0,T2,EMF27-Base-Conv,Baseline
+FARM_3.0,EMF27-Base-EERE,Carbon Budget 2100,3739845.0449157,Category 6,Category 6,Category 5 - 6,N/A,N1,P0,T3,EMF27-Base-EERE,Baseline
+FARM_3.0,EMF27-Base-FullTech,Carbon Budget 2100,5333168.4958809,Category 7,Category 7,Category 6,N/A,N1,P0,T0,EMF27-Base-FullTech,Baseline
+FARM_3.0,EMF27-Base-LimBio,Carbon Budget 2100,5350150.5191791,Category 7,Category 7,Category 6,N/A,N1,P0,T2,EMF27-Base-LimBio,Baseline
+FARM_3.0,EMF27-Base-LowEI,Carbon Budget 2100,3634206.976731,Category 6,Category 6,Category 4 - 6,N/A,N1,P0,T0,EMF27-Base-LowEI,Baseline
+GCAM 2.0,AME Reference,Forcing (MAGICC6),6.9190227193151,Category 7,Category 7,Category 7,O1,N1,P0,T0,AME Reference,Baseline
+GCAM 3.0,AMPERE2-Base-Conv-OPT,Forcing (MAGICC6),7.8177666073614,Category 7,Category 7,Category 7,O1,N1,P0,T2,AMPERE2-Base-Conv-OPT,Baseline
+GCAM 3.0,AMPERE2-Base-EERE-OPT,Forcing (MAGICC6),6.7668995489485,Category 6,Category 6,Category 6,O1,N1,P0,T3,AMPERE2-Base-EERE-OPT,Baseline
+GCAM 3.0,AMPERE2-Base-FullTech-OPT,Forcing (MAGICC6),7.699817436525,Category 7,Category 7,Category 7,O1,N1,P0,T0,AMPERE2-Base-FullTech-OPT,Baseline
+GCAM 3.0,AMPERE2-Base-LimBio-OPT,Forcing (MAGICC6),7.7090593493404,Category 7,Category 7,Category 7,O1,N1,P0,T2,AMPERE2-Base-LimBio-OPT,Baseline
+GCAM 3.0,AMPERE2-Base-LimSW-OPT,Forcing (MAGICC6),7.8035821412542,Category 7,Category 7,Category 7,O1,N1,P0,T2,AMPERE2-Base-LimSW-OPT,Baseline
+GCAM 3.0,AMPERE2-Base-LowEI-OPT,Forcing (MAGICC6),6.6127968276378,Category 6,Category 6,Category 6,O1,N1,P0,T0,AMPERE2-Base-LowEI-OPT,Baseline
+GCAM 3.0,AMPERE2-Base-NucOff-OPT,Forcing (MAGICC6),7.922287715205,Category 7,Category 7,Category 7,O1,N1,P0,T2,AMPERE2-Base-NucOff-OPT,Baseline
+GCAM 3.0,AMPERE3-Base,Forcing (MAGICC6),8.0372174682526,Category 7,Category 7,Category 7,O1,N1,P0,T0,AMPERE3-Base,Baseline
+GCAM 3.0,EMF27-Base-Conv,Forcing (MAGICC6),7.3371428273839,Category 7,Category 7,Category 7,O1,N1,P0,T2,EMF27-Base-Conv,Baseline
+GCAM 3.0,EMF27-Base-EERE,Forcing (MAGICC6),6.3537160522536,Category 6,Category 6,Category 6,O1,N1,P0,T3,EMF27-Base-EERE,Baseline
+GCAM 3.0,EMF27-Base-FullTech,Forcing (MAGICC6),7.2276864599884,Category 7,Category 7,Category 7,O1,N1,P0,T0,EMF27-Base-FullTech,Baseline
+GCAM 3.0,EMF27-Base-LimBio,Forcing (MAGICC6),7.2414649197417,Category 7,Category 7,Category 7,O1,N1,P0,T2,EMF27-Base-LimBio,Baseline
+GCAM 3.0,EMF27-Base-LimSW,Forcing (MAGICC6),7.3167824633641,Category 7,Category 7,Category 7,O1,N1,P0,T2,EMF27-Base-LimSW,Baseline
+GCAM 3.0,EMF27-Base-LimTech,Forcing (MAGICC6),7.6374881560836,Category 7,Category 7,Category 7,O1,N1,P0,T3,EMF27-Base-LimTech,Baseline
+GCAM 3.0,EMF27-Base-LowEI,Forcing (MAGICC6),6.1569250924228,Category 6,Category 6,Category 6,O1,N1,P0,T0,EMF27-Base-LowEI,Baseline
+GCAM 3.0,EMF27-Base-NucOff,Forcing (MAGICC6),7.4683748383225,Category 7,Category 7,Category 7,O1,N1,P0,T2,EMF27-Base-NucOff,Baseline
+GCAM 3.0,ROSE BAU DEF,Forcing (MAGICC6),7.3024261808168,Category 7,Category 7,Category 7,O1,N1,P0,T2,ROSE BAU DEF,Baseline
+GCAM 3.0,ROSE BAU FS Gr,Forcing (MAGICC6),7.6095658162388,Category 7,Category 7,Category 7,O1,N1,P0,T2,ROSE BAU FS Gr,Baseline
+GCAM 3.0,ROSE BAU HI Coal,Forcing (MAGICC6),7.3426666438292,Category 7,Category 7,Category 7,O1,N1,P0,T2,ROSE BAU HI Coal,Baseline
+GCAM 3.0,ROSE BAU HI Fos,Forcing (MAGICC6),7.3486877303783,Category 7,Category 7,Category 7,O1,N1,P0,T2,ROSE BAU HI Fos,Baseline
+GCAM 3.0,ROSE BAU HI Gas,Forcing (MAGICC6),7.3317904201387,Category 7,Category 7,Category 7,O1,N1,P0,T2,ROSE BAU HI Gas,Baseline
+GCAM 3.0,ROSE BAU HI Pop,Forcing (MAGICC6),7.3256882129787,Category 7,Category 7,Category 7,O1,N1,P0,T2,ROSE BAU HI Pop,Baseline
+GCAM 3.0,ROSE BAU LO Fos,Forcing (MAGICC6),6.7273252533882,Category 6,Category 6,Category 7,O1,N1,P0,T2,ROSE BAU LO Fos,Baseline
+GCAM 3.0,ROSE BAU LO Oil,Forcing (MAGICC6),7.3673544813345,Category 7,Category 7,Category 7,O1,N1,P0,T2,ROSE BAU LO Oil,Baseline
+GCAM 3.0,ROSE BAU SL Gr,Forcing (MAGICC6),6.9232109992595,Category 7,Category 7,Category 7,O1,N1,P0,T2,ROSE BAU SL Gr,Baseline
+GCAM 3.1,LIMITS-Base,Forcing (MAGICC6),7.2250489367863,Category 7,Category 7,Category 7,O1,N1,P0,T0,LIMITS-Base,Baseline
+GEM-E3-ICCS,AMPERE3-Base,Carbon Budget 2050,2011032.92205,Category 7,N/A,Category 7,N/A,N/A,P0,T1,AMPERE3-Base,Baseline
+GRAPE ver2011,EMF27-Base-Conv,Forcing Kyoto Gases (MAGICC6),7.0355925021367,Category 7,Category 6,Category 6,O1,N1,P0,T2,EMF27-Base-Conv,Baseline
+GRAPE ver2011,EMF27-Base-EERE,Forcing Kyoto Gases (MAGICC6),6.1554385522266,Category 6,Category 6,Category 6,O1,N1,P0,T3,EMF27-Base-EERE,Baseline
+GRAPE ver2011,EMF27-Base-FullTech,Forcing Kyoto Gases (MAGICC6),6.9365318408317,Category 6,Category 6,Category 6,O1,N1,P0,T0,EMF27-Base-FullTech,Baseline
+GRAPE ver2011,EMF27-Base-LimBio,Forcing Kyoto Gases (MAGICC6),6.9771893357271,Category 6,Category 6,Category 6,O1,N1,P0,T2,EMF27-Base-LimBio,Baseline
+GRAPE ver2011,EMF27-Base-LowEI,Forcing Kyoto Gases (MAGICC6),5.8655925283798,Category 6,Category 6,Category 4 - 6,O1,N1,P0,T0,EMF27-Base-LowEI,Baseline
+GRAPE_ver1998,AME Reference,Forcing Kyoto Gases (MAGICC6),6.7127975532864,Category 6,Category 6,Category 6,O1,N1,P0,T0,AME Reference,Baseline
+GTEMREF32,AME Reference,Forcing Kyoto Gases (MAGICC6),8.2981337490682,Category 7,Category 7,Category 7,O1,N1,P0,T1,AME Reference,Baseline
+IEEJ ver.2011,Reference Scenario,Carbon Budget 2050,1601828.5060881,Category 4 - 6,N/A,Category 4 - 6,N/A,N/A,P0,T0,Reference Scenario,Baseline
+IGSM,REF,Carbon Budget 2100,5928876.2027991,Category 7,Category 7,Category 6,N/A,N1,P0,T1,REF,Baseline
+IMACLIM v1.1,AMPERE2-Base-Conv-OPT,Carbon Budget 2100,9089950,Category 7,Category 7,Category 7,N/A,N1,P0,T2,AMPERE2-Base-Conv-OPT,Baseline
+IMACLIM v1.1,AMPERE2-Base-EERE-OPT,Carbon Budget 2100,5399400,Category 7,Category 7,Category 7,N/A,N1,P0,T3,AMPERE2-Base-EERE-OPT,Baseline
+IMACLIM v1.1,AMPERE2-Base-FullTech-OPT,Carbon Budget 2100,8593800,Category 7,Category 7,Category 7,N/A,N1,P0,T0,AMPERE2-Base-FullTech-OPT,Baseline
+IMACLIM v1.1,AMPERE2-Base-LimBio-OPT,Carbon Budget 2100,8852150,Category 7,Category 7,Category 7,N/A,N1,P0,T2,AMPERE2-Base-LimBio-OPT,Baseline
+IMACLIM v1.1,AMPERE2-Base-LimSW-OPT,Carbon Budget 2100,8826650,Category 7,Category 7,Category 7,N/A,N1,P0,T2,AMPERE2-Base-LimSW-OPT,Baseline
+IMACLIM v1.1,AMPERE2-Base-LowEI-OPT,Carbon Budget 2100,5231350,Category 6,Category 6,Category 7,N/A,N1,P0,T0,AMPERE2-Base-LowEI-OPT,Baseline
+IMACLIM v1.1,AMPERE2-Base-NucOff-OPT,Carbon Budget 2100,8933450,Category 7,Category 7,Category 7,N/A,N1,P0,T2,AMPERE2-Base-NucOff-OPT,Baseline
+IMACLIM v1.1,AMPERE3-Base,Carbon Budget 2100,5050500,Category 6,Category 6,Category 7,N/A,N1,P0,T0,AMPERE3-Base,Baseline
+IMACLIM v1.1,EMF27-Base-Conv,Carbon Budget 2100,4809650,Category 6,Category 6,Category 6,N/A,N1,P0,T2,EMF27-Base-Conv,Baseline
+IMACLIM v1.1,EMF27-Base-EERE,Carbon Budget 2100,3620750,Category 6,Category 6,Category 5 - 6,N/A,N1,P0,T3,EMF27-Base-EERE,Baseline
+IMACLIM v1.1,EMF27-Base-FullTech,Carbon Budget 2100,4684100,Category 6,Category 6,Category 6,N/A,N1,P0,T0,EMF27-Base-FullTech,Baseline
+IMACLIM v1.1,EMF27-Base-LimBio,Carbon Budget 2100,4766150,Category 6,Category 6,Category 6,N/A,N1,P0,T2,EMF27-Base-LimBio,Baseline
+IMACLIM v1.1,EMF27-Base-LimSW,Carbon Budget 2100,4731600,Category 6,Category 6,Category 6,N/A,N1,P0,T2,EMF27-Base-LimSW,Baseline
+IMACLIM v1.1,EMF27-Base-LimTech,Carbon Budget 2100,5083000,Category 6,Category 6,Category 6,N/A,N1,P0,T3,EMF27-Base-LimTech,Baseline
+IMACLIM v1.1,EMF27-Base-LowEI,Carbon Budget 2100,3519500,Category 6,Category 6,Category 4 - 6,N/A,N1,P0,T0,EMF27-Base-LowEI,Baseline
+IMACLIM v1.1,EMF27-Base-NucOff,Carbon Budget 2100,4926050,Category 6,Category 6,Category 6,N/A,N1,P0,T2,EMF27-Base-NucOff,Baseline
+IMAGE 2.4,AME Reference,Forcing (MAGICC6),5.3235943373115,Category 6,Category 6,Category 6,O1,N1,P0,T0,AME Reference,Baseline
+IMAGE 2.4,AMPERE2-Base-Conv-OPT,Forcing (MAGICC6),7.7816093453551,Category 7,Category 7,Category 7,O1,N1,P0,T2,AMPERE2-Base-Conv-OPT,Baseline
+IMAGE 2.4,AMPERE2-Base-EERE-OPT,Forcing (MAGICC6),6.4360578255809,Category 6,Category 6,Category 6,O1,N1,P0,T3,AMPERE2-Base-EERE-OPT,Baseline
+IMAGE 2.4,AMPERE2-Base-FullTech-OPT,Forcing (MAGICC6),7.5452430011185,Category 7,Category 7,Category 7,O1,N1,P0,T0,AMPERE2-Base-FullTech-OPT,Baseline
+IMAGE 2.4,AMPERE2-Base-LimBio-OPT,Forcing (MAGICC6),7.7037476717051,Category 7,Category 7,Category 7,O1,N1,P0,T2,AMPERE2-Base-LimBio-OPT,Baseline
+IMAGE 2.4,AMPERE2-Base-LimSW-OPT,Forcing (MAGICC6),7.6542321278196,Category 7,Category 7,Category 7,O1,N1,P0,T2,AMPERE2-Base-LimSW-OPT,Baseline
+IMAGE 2.4,AMPERE2-Base-LowEI-OPT,Forcing (MAGICC6),6.3010849806612,Category 6,Category 6,Category 6,O1,N1,P0,T0,AMPERE2-Base-LowEI-OPT,Baseline
+IMAGE 2.4,AMPERE2-Base-NucOff-OPT,Forcing (MAGICC6),7.6450030073782,Category 7,Category 7,Category 7,O1,N1,P0,T2,AMPERE2-Base-NucOff-OPT,Baseline
+IMAGE 2.4,AMPERE3-Base,Forcing (MAGICC6),7.5452430011185,Category 7,Category 7,Category 7,O1,N1,P0,T0,AMPERE3-Base,Baseline
+IMAGE 2.4,EMF27-Base-Conv,Forcing (MAGICC6),7.4987959760251,Category 7,Category 7,Category 6,O1,N1,P0,T2,EMF27-Base-Conv,Baseline
+IMAGE 2.4,EMF27-Base-EERE,Forcing (MAGICC6),6.2946113335483,Category 6,Category 6,Category 5 - 6,O1,N1,P0,T3,EMF27-Base-EERE,Baseline
+IMAGE 2.4,EMF27-Base-FullTech,Forcing (MAGICC6),7.2680500605461,Category 7,Category 7,Category 6,O1,N1,P0,T0,EMF27-Base-FullTech,Baseline
+IMAGE 2.4,EMF27-Base-LimBio,Forcing (MAGICC6),7.4033563368303,Category 7,Category 7,Category 6,O1,N1,P0,T2,EMF27-Base-LimBio,Baseline
+IMAGE 2.4,EMF27-Base-LimSW,Forcing (MAGICC6),7.3720150012488,Category 7,Category 7,Category 6,O1,N1,P0,T2,EMF27-Base-LimSW,Baseline
+IMAGE 2.4,EMF27-Base-LimTech,Forcing (MAGICC6),7.6271038042041,Category 7,Category 7,Category 6,O1,N1,P0,T3,EMF27-Base-LimTech,Baseline
+IMAGE 2.4,EMF27-Base-LowEI,Forcing (MAGICC6),6.2428881979616,Category 6,Category 6,Category 4 - 6,O1,N1,P0,T0,EMF27-Base-LowEI,Baseline
+IMAGE 2.4,EMF27-Base-NucOff,Forcing (MAGICC6),7.3557962669331,Category 7,Category 7,Category 6,O1,N1,P0,T2,EMF27-Base-NucOff,Baseline
+IMAGE 2.4,LIMITS-Base,Forcing (MAGICC6),7.3132501224464,Category 7,Category 7,Category 6,O1,N1,P0,T0,LIMITS-Base,Baseline
+IMAGE 2.4,POEM_baseline,Carbon Budget 2100,2009431.1444092,Category 4,Category 4,Category 6,N/A,N1,P0,T0,POEM_baseline,Baseline
+IMAGE 2.4 EMF22,EMF22 Reference,Forcing Kyoto Gases (MAGICC6),6.9061863135843,Category 6,Category 6,Category 6,O1,N1,P0,T3,EMF22 Reference,Baseline
+KEI-Linkages,AME Reference,Carbon Budget 2050,1890783.286296,Category 6,N/A,Category 6,N/A,N/A,P0,T1,AME Reference,Baseline
+MARIA23_org,AME Reference,Carbon Budget 2100,4722584.7988251,Category 6,Category 6,Category 6,N/A,N1,P0,T1,AME Reference,Baseline
+MERGE-ETL_2011,AMPERE2-Base-Conv-OPT,Forcing (MAGICC6),9.2830920796531,Category 7,Category 7,Category 7,O1,N1,P0,T2,AMPERE2-Base-Conv-OPT,Baseline
+MERGE-ETL_2011,AMPERE2-Base-EERE-OPT,Forcing (MAGICC6),7.455808319892,Category 7,Category 7,Category 7,O1,N1,P0,T3,AMPERE2-Base-EERE-OPT,Baseline
+MERGE-ETL_2011,AMPERE2-Base-FullTech-OPT,Forcing (MAGICC6),8.8484194438036,Category 7,Category 7,Category 7,O1,N1,P0,T0,AMPERE2-Base-FullTech-OPT,Baseline
+MERGE-ETL_2011,AMPERE2-Base-LimBio-OPT,Forcing (MAGICC6),8.8490161167964,Category 7,Category 7,Category 7,O1,N1,P0,T2,AMPERE2-Base-LimBio-OPT,Baseline
+MERGE-ETL_2011,AMPERE2-Base-LimSW-OPT,Forcing (MAGICC6),9.2805515286271,Category 7,Category 7,Category 7,O1,N1,P0,T2,AMPERE2-Base-LimSW-OPT,Baseline
+MERGE-ETL_2011,AMPERE2-Base-LowEI-OPT,Forcing (MAGICC6),7.2895630131062,Category 7,Category 7,Category 7,O1,N1,P0,T0,AMPERE2-Base-LowEI-OPT,Baseline
+MERGE-ETL_2011,AMPERE2-Base-NucOff-OPT,Forcing (MAGICC6),8.9924475799686,Category 7,Category 7,Category 7,O1,N1,P0,T2,AMPERE2-Base-NucOff-OPT,Baseline
+MERGE-ETL_2011,AMPERE3-Base,Forcing (MAGICC6),8.84657677411,Category 7,Category 7,Category 7,O1,N1,P0,T0,AMPERE3-Base,Baseline
+MERGE_AME,AME Reference,Forcing (MAGICC6),7.1648249800183,Category 7,Category 7,Category 6,O1,N1,P0,T1,AME Reference,Baseline
+MERGE_EMF22,EMF22 Reference,Forcing Kyoto Gases (MAGICC6),8.0774865499022,Category 7,Category 7,Category 6,O1,N1,P0,T1,EMF22 Reference,Baseline
+MERGE_EMF22,EMF22 Reference Pessimistic Growth,Forcing Kyoto Gases (MAGICC6),7.0573204562269,Category 7,Category 6,Category 5 - 6,O1,N1,P0,T1,EMF22 Reference Pessimistic Growth,Baseline
+MERGE_EMF27,EMF27-Base-Conv,Forcing (MAGICC6),7.4257627304906,Category 7,Category 7,Category 7,O1,N1,P0,T2,EMF27-Base-Conv,Baseline
+MERGE_EMF27,EMF27-Base-EERE,Forcing (MAGICC6),6.4486156089476,Category 6,Category 7,Category 7,O1,N1,P0,T3,EMF27-Base-EERE,Baseline
+MERGE_EMF27,EMF27-Base-FullTech,Forcing (MAGICC6),7.4422514820172,Category 7,Category 7,Category 7,O1,N1,P0,T0,EMF27-Base-FullTech,Baseline
+MERGE_EMF27,EMF27-Base-LimBio,Forcing (MAGICC6),7.4453949374546,Category 7,Category 7,Category 7,O1,N1,P0,T2,EMF27-Base-LimBio,Baseline
+MERGE_EMF27,EMF27-Base-LimSW,Forcing (MAGICC6),7.4211159047414,Category 7,Category 7,Category 7,O1,N1,P0,T2,EMF27-Base-LimSW,Baseline
+MERGE_EMF27,EMF27-Base-LimTech,Forcing (MAGICC6),7.4381756781682,Category 7,Category 7,Category 7,O1,N1,P0,T3,EMF27-Base-LimTech,Baseline
+MERGE_EMF27,EMF27-Base-LowEI,Forcing (MAGICC6),6.4204309122479,Category 6,Category 7,Category 7,O1,N1,P0,T0,EMF27-Base-LowEI,Baseline
+MERGE_EMF27,EMF27-Base-NucOff,Forcing (MAGICC6),7.4618931136645,Category 7,Category 7,Category 7,O1,N1,P0,T2,EMF27-Base-NucOff,Baseline
+MESSAGE V.1,EMF22 Reference,Forcing Kyoto Gases (MAGICC6),5.9594459556244,Category 6,Category 6,Category 6,O1,N1,P0,T0,EMF22 Reference,Baseline
+MESSAGE V.2,RCP 8.5,Forcing (MAGICC6),8.681735747323,Category 7,Category 7,Category 7,O1,N1,P0,T0,RCP 8.5,Baseline
+MESSAGE V.3,AME Reference,Forcing (MAGICC6),7.3839039206712,Category 7,Category 7,Category 7,O1,N1,P0,T0,AME Reference,Baseline
+MESSAGE V.3,GEA Counterfactual,Forcing (MAGICC6),8.1623446105423,Category 7,Category 7,Category 7,O1,N1,P0,T0,GEA Counterfactual,Baseline
+MESSAGE V.4,AMPERE2-Base-Conv-OPT,Forcing (MAGICC6),7.8928224229186,Category 7,Category 7,Category 7,O1,N1,P0,T2,AMPERE2-Base-Conv-OPT,Baseline
+MESSAGE V.4,AMPERE2-Base-EERE-OPT,Forcing (MAGICC6),6.0692568702206,Category 6,Category 6,Category 6,O1,N1,P0,T3,AMPERE2-Base-EERE-OPT,Baseline
+MESSAGE V.4,AMPERE2-Base-FullTech-OPT,Forcing (MAGICC6),7.5165069681167,Category 7,Category 7,Category 7,O1,N1,P0,T0,AMPERE2-Base-FullTech-OPT,Baseline
+MESSAGE V.4,AMPERE2-Base-LimBio-OPT,Forcing (MAGICC6),7.6458740253636,Category 7,Category 7,Category 7,O1,N1,P0,T2,AMPERE2-Base-LimBio-OPT,Baseline
+MESSAGE V.4,AMPERE2-Base-LimSW-OPT,Forcing (MAGICC6),7.7748501532229,Category 7,Category 7,Category 7,O1,N1,P0,T2,AMPERE2-Base-LimSW-OPT,Baseline
+MESSAGE V.4,AMPERE2-Base-LowEI-OPT,Forcing (MAGICC6),6.0702647883286,Category 6,Category 6,Category 6,O1,N1,P0,T0,AMPERE2-Base-LowEI-OPT,Baseline
+MESSAGE V.4,AMPERE2-Base-NucOff-OPT,Forcing (MAGICC6),7.5114699899636,Category 7,Category 7,Category 7,O1,N1,P0,T2,AMPERE2-Base-NucOff-OPT,Baseline
+MESSAGE V.4,AMPERE3-Base,Forcing (MAGICC6),7.5165069681167,Category 7,Category 7,Category 7,O1,N1,P0,T0,AMPERE3-Base,Baseline
+MESSAGE V.4,EMF27-Base-Conv,Forcing (MAGICC6),7.6707650257375,Category 7,Category 7,Category 7,O1,N1,P0,T2,EMF27-Base-Conv,Baseline
+MESSAGE V.4,EMF27-Base-EERE,Forcing (MAGICC6),6.114767923733,Category 6,Category 6,Category 5 - 6,O1,N1,P0,T3,EMF27-Base-EERE,Baseline
+MESSAGE V.4,EMF27-Base-FullTech,Forcing (MAGICC6),7.3150423581526,Category 7,Category 7,Category 7,O1,N1,P0,T0,EMF27-Base-FullTech,Baseline
+MESSAGE V.4,EMF27-Base-LimBio,Forcing (MAGICC6),7.4138353343064,Category 7,Category 7,Category 7,O1,N1,P0,T2,EMF27-Base-LimBio,Baseline
+MESSAGE V.4,EMF27-Base-LimSW,Forcing (MAGICC6),7.6219440902081,Category 7,Category 7,Category 7,O1,N1,P0,T2,EMF27-Base-LimSW,Baseline
+MESSAGE V.4,EMF27-Base-LimTech,Forcing (MAGICC6),7.6700155603227,Category 7,Category 7,Category 7,O1,N1,P0,T3,EMF27-Base-LimTech,Baseline
+MESSAGE V.4,EMF27-Base-LowEI,Forcing (MAGICC6),6.1142256455608,Category 6,Category 6,Category 4 - 6,O1,N1,P0,T0,EMF27-Base-LowEI,Baseline
+MESSAGE V.4,EMF27-Base-NucOff,Forcing (MAGICC6),7.3155323949145,Category 7,Category 7,Category 7,O1,N1,P0,T2,EMF27-Base-NucOff,Baseline
+MESSAGE V.4,LIMITS-Base,Forcing (MAGICC6),7.341686895305,Category 7,Category 7,Category 7,O1,N1,P0,T0,LIMITS-Base,Baseline
+MiniCAM_EMF22,EMF22 Reference,Forcing Kyoto Gases (MAGICC6),7.0869440806746,Category 7,Category 7,Category 6,O1,N1,P0,T0,EMF22 Reference,Baseline
+POLES AMPERE,AMPERE2-Base-Conv-OPT,Carbon Budget 2100,6118310.42,Category 7,Category 7,Category 7,N/A,N1,P0,T2,AMPERE2-Base-Conv-OPT,Baseline
+POLES AMPERE,AMPERE2-Base-EERE-OPT,Carbon Budget 2100,3996388.56,Category 6,Category 6,Category 6,N/A,N1,P0,T3,AMPERE2-Base-EERE-OPT,Baseline
+POLES AMPERE,AMPERE2-Base-FullTech-OPT,Carbon Budget 2100,5517922.92,Category 7,Category 7,Category 7,N/A,N1,P0,T0,AMPERE2-Base-FullTech-OPT,Baseline
+POLES AMPERE,AMPERE2-Base-LimBio-OPT,Carbon Budget 2100,5701889.24,Category 7,Category 7,Category 7,N/A,N1,P0,T2,AMPERE2-Base-LimBio-OPT,Baseline
+POLES AMPERE,AMPERE2-Base-LimSW-OPT,Carbon Budget 2100,5926663.61,Category 7,Category 7,Category 7,N/A,N1,P0,T2,AMPERE2-Base-LimSW-OPT,Baseline
+POLES AMPERE,AMPERE2-Base-LowEI-OPT,Carbon Budget 2100,3811197.98,Category 6,Category 6,Category 6,N/A,N1,P0,T0,AMPERE2-Base-LowEI-OPT,Baseline
+POLES AMPERE,AMPERE2-Base-NucOff-OPT,Carbon Budget 2100,5851403.45,Category 7,Category 7,Category 7,N/A,N1,P0,T2,AMPERE2-Base-NucOff-OPT,Baseline
+POLES AMPERE,AMPERE3-Base,Carbon Budget 2100,5591835.7,Category 7,Category 7,Category 7,N/A,N1,P0,T0,AMPERE3-Base,Baseline
+POLES EMF27,EMF27-Base-Conv,Carbon Budget 2100,6162916.34,Category 7,Category 7,Category 7,N/A,N1,P0,T2,EMF27-Base-Conv,Baseline
+POLES EMF27,EMF27-Base-EERE,Carbon Budget 2100,4166464.63,Category 6,Category 6,Category 6,N/A,N1,P0,T3,EMF27-Base-EERE,Baseline
+POLES EMF27,EMF27-Base-FullTech,Carbon Budget 2100,5592440.66,Category 7,Category 7,Category 7,N/A,N1,P0,T0,EMF27-Base-FullTech,Baseline
+POLES EMF27,EMF27-Base-LimBio,Carbon Budget 2100,5757156.12,Category 7,Category 7,Category 7,N/A,N1,P0,T2,EMF27-Base-LimBio,Baseline
+POLES EMF27,EMF27-Base-LimSW,Carbon Budget 2100,5980838.41,Category 7,Category 7,Category 7,N/A,N1,P0,T2,EMF27-Base-LimSW,Baseline
+POLES EMF27,EMF27-Base-LimTech,Carbon Budget 2100,6101299.64,Category 7,Category 7,Category 7,N/A,N1,P0,T3,EMF27-Base-LimTech,Baseline
+POLES EMF27,EMF27-Base-LowEI,Carbon Budget 2100,3830937.62,Category 6,Category 6,Category 6,N/A,N1,P0,T0,EMF27-Base-LowEI,Baseline
+POLES EMF27,EMF27-Base-NucOff,Carbon Budget 2100,5941145.26,Category 7,Category 7,Category 7,N/A,N1,P0,T2,EMF27-Base-NucOff,Baseline
+POLES-AME,AME Reference,Carbon Budget 2050,1641254.5,Category 6,N/A,Category 6,N/A,N/A,P0,T0,AME Reference,Baseline
+Phoenix 2012.4,AME Reference,Carbon Budget 2050,1732155.2010732,Category 6,N/A,Category 6,N/A,N/A,P0,T1,AME Reference,Baseline
+Phoenix 2012.4,EMF27-Base-Conv,Carbon Budget 2050,1741312.5973088,Category 6,N/A,Category 6,N/A,N/A,P0,T3,EMF27-Base-Conv,Baseline
+Phoenix 2012.4,EMF27-Base-EERE,Carbon Budget 2050,1359024.5776528,Category 4 - 5,N/A,Category 4 - 5,N/A,N/A,P0,T3,EMF27-Base-EERE,Baseline
+Phoenix 2012.4,EMF27-Base-FullTech,Carbon Budget 2050,1741312.5973088,Category 6,N/A,Category 6,N/A,N/A,P0,T1,EMF27-Base-FullTech,Baseline
+Phoenix 2012.4,EMF27-Base-LimBio,Carbon Budget 2050,1741312.5973088,Category 6,N/A,Category 6,N/A,N/A,P0,T3,EMF27-Base-LimBio,Baseline
+Phoenix 2012.4,EMF27-Base-LimSW,Carbon Budget 2050,1741312.5973088,Category 6,N/A,Category 6,N/A,N/A,P0,T3,EMF27-Base-LimSW,Baseline
+Phoenix 2012.4,EMF27-Base-LimTech,Carbon Budget 2050,1780800.5792427,Category 6,N/A,Category 6,N/A,N/A,P0,T3,EMF27-Base-LimTech,Baseline
+Phoenix 2012.4,EMF27-Base-LowEI,Carbon Budget 2050,1327444.0646582,Category 4 - 5,N/A,Category 4 - 5,N/A,N/A,P0,T1,EMF27-Base-LowEI,Baseline
+Phoenix 2012.4,EMF27-Base-NucOff,Carbon Budget 2050,1779987.7756912,Category 6,N/A,Category 6,N/A,N/A,P0,T3,EMF27-Base-NucOff,Baseline
+REMIND 1.1,baseline,Carbon Budget 2100,4371655.8865833,Category 6,Category 6,Category 6,N/A,N1,P0,T0,baseline,Baseline
+REMIND 1.1,baselinebiomax,Carbon Budget 2100,4245773.93185,Category 6,Category 6,Category 6,N/A,N1,P0,T0,baselinebiomax,Baseline
+REMIND 1.1,baselinebiomin,Carbon Budget 2100,4503071.9943,Category 6,Category 6,Category 6,N/A,N1,P0,T2,baselinebiomin,Baseline
+REMIND 1.2,Baseline,Carbon Budget 2100,6149228.063,Category 7,Category 7,Category 7,N/A,N1,P0,T0,Baseline,Baseline
+REMIND 1.3,AME Reference,Forcing Kyoto Gases (MAGICC6),7.6929819961735,Category 7,Category 7,Category 7,O1,N1,P0,T0,AME Reference,Baseline
+REMIND 1.4,ROSE BAU DEF,Forcing (MAGICC6),7.2800565618853,Category 7,Category 7,Category 7,O1,N1,P0,T0,ROSE BAU DEF,Baseline
+REMIND 1.4,ROSE BAU FS Gr,Forcing (MAGICC6),7.5586673520678,Category 7,Category 7,Category 7,O1,N1,P0,T0,ROSE BAU FS Gr,Baseline
+REMIND 1.4,ROSE BAU FS Gr SL Con,Forcing (MAGICC6),7.3329935839589,Category 7,Category 7,Category 7,O1,N1,P0,T0,ROSE BAU FS Gr SL Con,Baseline
+REMIND 1.4,ROSE BAU HI Coal,Forcing (MAGICC6),7.7049722206068,Category 7,Category 7,Category 7,O1,N1,P0,T0,ROSE BAU HI Coal,Baseline
+REMIND 1.4,ROSE BAU HI Fos,Forcing (MAGICC6),7.6686710442471,Category 7,Category 7,Category 7,O1,N1,P0,T0,ROSE BAU HI Fos,Baseline
+REMIND 1.4,ROSE BAU HI Gas,Forcing (MAGICC6),7.5741546540715,Category 7,Category 7,Category 7,O1,N1,P0,T0,ROSE BAU HI Gas,Baseline
+REMIND 1.4,ROSE BAU HI Pop,Forcing (MAGICC6),7.0560352671977,Category 7,Category 7,Category 7,O1,N1,P0,T0,ROSE BAU HI Pop,Baseline
+REMIND 1.4,ROSE BAU LO Fos,Forcing (MAGICC6),6.4079268737332,Category 6,Category 6,Category 6,O1,N1,P0,T0,ROSE BAU LO Fos,Baseline
+REMIND 1.4,ROSE BAU LO Oil,Forcing (MAGICC6),8.0145346430469,Category 7,Category 7,Category 7,O1,N1,P0,T0,ROSE BAU LO Oil,Baseline
+REMIND 1.4,ROSE BAU SL Gr,Forcing (MAGICC6),6.955410837269,Category 7,Category 6,Category 7,O1,N1,P0,T0,ROSE BAU SL Gr,Baseline
+REMIND 1.5,AMPERE2-Base-Conv-OPT,Forcing (MAGICC6),7.6005885392186,Category 7,Category 7,Category 7,O1,N1,P0,T2,AMPERE2-Base-Conv-OPT,Baseline
+REMIND 1.5,AMPERE2-Base-EERE-OPT,Forcing (MAGICC6),6.833865248081,Category 7,Category 6,Category 6,O1,N1,P0,T3,AMPERE2-Base-EERE-OPT,Baseline
+REMIND 1.5,AMPERE2-Base-FullTech-OPT,Forcing (MAGICC6),7.5642685475361,Category 7,Category 7,Category 7,O1,N1,P0,T0,AMPERE2-Base-FullTech-OPT,Baseline
+REMIND 1.5,AMPERE2-Base-LimBio-OPT,Forcing (MAGICC6),7.5985452774952,Category 7,Category 7,Category 7,O1,N1,P0,T2,AMPERE2-Base-LimBio-OPT,Baseline
+REMIND 1.5,AMPERE2-Base-LimSW-OPT,Forcing (MAGICC6),7.5633593763245,Category 7,Category 7,Category 7,O1,N1,P0,T2,AMPERE2-Base-LimSW-OPT,Baseline
+REMIND 1.5,AMPERE2-Base-LowEI-OPT,Forcing (MAGICC6),6.8262893956241,Category 7,Category 6,Category 6,O1,N1,P0,T0,AMPERE2-Base-LowEI-OPT,Baseline
+REMIND 1.5,AMPERE2-Base-NucOff-OPT,Forcing (MAGICC6),7.6302170617012,Category 7,Category 7,Category 7,O1,N1,P0,T2,AMPERE2-Base-NucOff-OPT,Baseline
+REMIND 1.5,AMPERE3-Base,Forcing (MAGICC6),7.645845032723,Category 7,Category 7,Category 7,O1,N1,P0,T0,AMPERE3-Base,Baseline
+REMIND 1.5,EMF27-Base-Conv,Forcing (MAGICC6),7.571128319917,Category 7,Category 7,Category 7,O1,N1,P0,T2,EMF27-Base-Conv,Baseline
+REMIND 1.5,EMF27-Base-EERE,Forcing (MAGICC6),6.8433572324501,Category 7,Category 6,Category 6,O1,N1,P0,T3,EMF27-Base-EERE,Baseline
+REMIND 1.5,EMF27-Base-FullTech,Forcing (MAGICC6),7.6060218229714,Category 7,Category 7,Category 7,O1,N1,P0,T0,EMF27-Base-FullTech,Baseline
+REMIND 1.5,EMF27-Base-LimBio,Forcing (MAGICC6),7.6209406659862,Category 7,Category 7,Category 7,O1,N1,P0,T2,EMF27-Base-LimBio,Baseline
+REMIND 1.5,EMF27-Base-LimSW,Forcing (MAGICC6),7.5399276247263,Category 7,Category 7,Category 7,O1,N1,P0,T2,EMF27-Base-LimSW,Baseline
+REMIND 1.5,EMF27-Base-LimTech,Forcing (MAGICC6),7.6132790477584,Category 7,Category 7,Category 7,O1,N1,P0,T3,EMF27-Base-LimTech,Baseline
+REMIND 1.5,EMF27-Base-LowEI,Forcing (MAGICC6),6.8182300552188,Category 7,Category 6,Category 6,O1,N1,P0,T0,EMF27-Base-LowEI,Baseline
+REMIND 1.5,EMF27-Base-NucOff,Forcing (MAGICC6),7.6131070204077,Category 7,Category 7,Category 7,O1,N1,P0,T2,EMF27-Base-NucOff,Baseline
+REMIND 1.5,LIMITS-Base,Forcing (MAGICC6),7.6070674399723,Category 7,Category 7,Category 7,O1,N1,P0,T0,LIMITS-Base,Baseline
+SGM_EMF22,EMF22 Reference,Forcing Kyoto Gases (MAGICC6),7.3149318273508,Category 7,Category 6,Category 6,O1,N1,P0,T1,EMF22 Reference,Baseline
+TIAM-ECN,LIMITS-Base,Forcing Kyoto Gases (MAGICC6),6.6852172521679,Category 6,Category 6,Category 6,O1,N1,P0,T0,LIMITS-Base,Baseline
+TIAM-WORLD 2012.2,EMF27-Base-Conv,Forcing Kyoto Gases (MAGICC6),7.1524573413001,Category 7,Category 7,Category 6,O1,N1,P0,T2,EMF27-Base-Conv,Baseline
+TIAM-WORLD 2012.2,EMF27-Base-EERE,Forcing Kyoto Gases (MAGICC6),6.1177985635512,Category 6,Category 6,Category 5 - 6,O1,N1,P0,T3,EMF27-Base-EERE,Baseline
+TIAM-WORLD 2012.2,EMF27-Base-FullTech,Forcing Kyoto Gases (MAGICC6),7.0065767532614,Category 7,Category 7,Category 6,O1,N1,P0,T0,EMF27-Base-FullTech,Baseline
+TIAM-WORLD 2012.2,EMF27-Base-LimBio,Forcing Kyoto Gases (MAGICC6),7.0063189278178,Category 7,Category 7,Category 6,O1,N1,P0,T2,EMF27-Base-LimBio,Baseline
+TIAM-WORLD 2012.2,EMF27-Base-LimSW,Forcing Kyoto Gases (MAGICC6),7.1522926647725,Category 7,Category 7,Category 6,O1,N1,P0,T2,EMF27-Base-LimSW,Baseline
+TIAM-WORLD 2012.2,EMF27-Base-LimTech,Forcing Kyoto Gases (MAGICC6),7.2504964236372,Category 7,Category 7,Category 6,O1,N1,P0,T3,EMF27-Base-LimTech,Baseline
+TIAM-WORLD 2012.2,EMF27-Base-LowEI,Forcing Kyoto Gases (MAGICC6),5.9649269014523,Category 6,Category 6,Category 4 - 6,O1,N1,P0,T0,EMF27-Base-LowEI,Baseline
+TIAM-WORLD 2012.2,EMF27-Base-NucOff,Forcing Kyoto Gases (MAGICC6),7.1154695167054,Category 7,Category 7,Category 6,O1,N1,P0,T2,EMF27-Base-NucOff,Baseline
+TIAM-World_2007_version,EMF22 Reference,Forcing Kyoto Gases (MAGICC6),7.4681905165739,Category 7,Category 6,Category 6,O1,N1,P0,T0,EMF22 Reference,Baseline
+TIAM-World_Mar2012,AME Reference,Forcing Kyoto Gases (MAGICC6),7.1752026063813,Category 7,Category 7,Category 6,O1,N1,P0,T0,AME Reference,Baseline
+TIMES-VTT-2011,AME Reference,Forcing Kyoto Gases (MAGICC6),6.9311625018005,Category 6,Category 6,Category 6,O1,N1,P0,T0,AME Reference,Baseline
+WITCH_AME,AME Reference,Forcing Kyoto Gases (MAGICC6),7.2042928293267,Category 7,Category 7,Category 6,O1,N1,P0,T0,AME Reference,Baseline
+WITCH_AMPERE,AMPERE2-Base-FullTech-OPT,Forcing Kyoto Gases (MAGICC6),7.9404632219921,Category 7,Category 7,Category 7,O1,N1,P0,T0,AMPERE2-Base-FullTech-OPT,Baseline
+WITCH_AMPERE,AMPERE2-Base-LowEI-OPT,Forcing Kyoto Gases (MAGICC6),6.7629067292899,Category 6,Category 6,Category 6,O1,N1,P0,T0,AMPERE2-Base-LowEI-OPT,Baseline
+WITCH_AMPERE,AMPERE2-Base-NucOff-OPT,Forcing Kyoto Gases (MAGICC6),7.8947598253934,Category 7,Category 7,Category 7,O1,N1,P0,T2,AMPERE2-Base-NucOff-OPT,Baseline
+WITCH_AMPERE,AMPERE3-Base,Forcing Kyoto Gases (MAGICC6),7.9416461373166,Category 7,Category 7,Category 7,O1,N1,P0,T0,AMPERE3-Base,Baseline
+WITCH_EMF22,EMF22 Reference,Forcing Kyoto Gases (MAGICC6),7.4560175254823,Category 7,Category 7,Category 7,O1,N1,P0,T1,EMF22 Reference,Baseline
+WITCH_EMF27,EMF27-Base-Conv,Forcing Kyoto Gases (MAGICC6),7.9911237483656,Category 7,Category 7,Category 7,O1,N1,P0,T2,EMF27-Base-Conv,Baseline
+WITCH_EMF27,EMF27-Base-EERE,Forcing Kyoto Gases (MAGICC6),6.7651513290596,Category 6,Category 6,Category 6,O1,N1,P0,T3,EMF27-Base-EERE,Baseline
+WITCH_EMF27,EMF27-Base-FullTech,Forcing Kyoto Gases (MAGICC6),7.9230334871099,Category 7,Category 7,Category 7,O1,N1,P0,T0,EMF27-Base-FullTech,Baseline
+WITCH_EMF27,EMF27-Base-LimBio,Forcing Kyoto Gases (MAGICC6),7.9721916921971,Category 7,Category 7,Category 7,O1,N1,P0,T2,EMF27-Base-LimBio,Baseline
+WITCH_EMF27,EMF27-Base-LimSW,Forcing Kyoto Gases (MAGICC6),7.9383510871621,Category 7,Category 7,Category 7,O1,N1,P0,T2,EMF27-Base-LimSW,Baseline
+WITCH_EMF27,EMF27-Base-LimTech,Forcing Kyoto Gases (MAGICC6),7.9503378187086,Category 7,Category 7,Category 7,O1,N1,P0,T3,EMF27-Base-LimTech,Baseline
+WITCH_EMF27,EMF27-Base-LowEI,Forcing Kyoto Gases (MAGICC6),6.7699253766663,Category 6,Category 6,Category 6,O1,N1,P0,T0,EMF27-Base-LowEI,Baseline
+WITCH_EMF27,EMF27-Base-NucOff,Forcing Kyoto Gases (MAGICC6),7.8831325949561,Category 7,Category 7,Category 7,O1,N1,P0,T2,EMF27-Base-NucOff,Baseline
+WITCH_LIMITS,LIMITS-Base,Forcing Kyoto Gases (MAGICC6),7.9378023761965,Category 7,Category 7,Category 7,O1,N1,P0,T0,LIMITS-Base,Baseline
+WITCH_ROSE,ROSE BAU DEF,Forcing Kyoto Gases (MAGICC6),7.4305978705724,Category 7,Category 7,Category 7,O1,N1,P0,T0,ROSE BAU DEF,Baseline
+WITCH_ROSE,ROSE BAU FS Gr,Forcing Kyoto Gases (MAGICC6),7.772075220279,Category 7,Category 7,Category 7,O1,N1,P0,T0,ROSE BAU FS Gr,Baseline
+WITCH_ROSE,ROSE BAU FS Gr SL Con,Forcing Kyoto Gases (MAGICC6),7.5002314029878,Category 7,Category 7,Category 7,O1,N1,P0,T0,ROSE BAU FS Gr SL Con,Baseline
+WITCH_ROSE,ROSE BAU HI Coal,Forcing Kyoto Gases (MAGICC6),7.0160342560753,Category 7,Category 7,Category 7,O1,N1,P0,T0,ROSE BAU HI Coal,Baseline
+WITCH_ROSE,ROSE BAU HI Fos,Forcing Kyoto Gases (MAGICC6),7.606202215769,Category 7,Category 7,Category 7,O1,N1,P0,T0,ROSE BAU HI Fos,Baseline
+WITCH_ROSE,ROSE BAU HI Gas,Forcing Kyoto Gases (MAGICC6),7.4481961175025,Category 7,Category 7,Category 7,O1,N1,P0,T0,ROSE BAU HI Gas,Baseline
+WITCH_ROSE,ROSE BAU HI Pop,Forcing Kyoto Gases (MAGICC6),7.2581532201399,Category 7,Category 7,Category 6,O1,N1,P0,T0,ROSE BAU HI Pop,Baseline
+WITCH_ROSE,ROSE BAU LO Fos,Forcing Kyoto Gases (MAGICC6),6.7334665733845,Category 6,Category 6,Category 6,O1,N1,P0,T0,ROSE BAU LO Fos,Baseline
+WITCH_ROSE,ROSE BAU LO Oil,Forcing Kyoto Gases (MAGICC6),7.062801969728,Category 7,Category 7,Category 7,O1,N1,P0,T0,ROSE BAU LO Oil,Baseline
+WITCH_ROSE,ROSE BAU LO Oil HI Gas,Forcing Kyoto Gases (MAGICC6),7.0491096330929,Category 7,Category 7,Category 7,O1,N1,P0,T0,ROSE BAU LO Oil HI Gas,Baseline
+WITCH_ROSE,ROSE BAU SL Gr,Forcing Kyoto Gases (MAGICC6),7.1145989561445,Category 7,Category 7,Category 7,O1,N1,P0,T0,ROSE BAU SL Gr,Baseline
+WITCH_ROSE,ROSE BAU SL Gr SL Con,Forcing Kyoto Gases (MAGICC6),6.8864573171513,Category 6,Category 6,Category 6,O1,N1,P0,T0,ROSE BAU SL Gr SL Con,Baseline
+WorldScan2,AMPERE3-Base,Carbon Budget 2050,1899908.2482757,Category 6,N/A,Category 6,N/A,N/A,P0,T1,AMPERE3-Base,Baseline
+iPETS_1.2.0,AME Reference,Carbon Budget 2050,1683770.9859589,Category 6,N/A,Category 6,N/A,N/A,P0,T1,AME Reference,Baseline
+AIM-Enduse 12.1,EMF27-450-Conv,Carbon Budget 2050,1102523.1582284,Category 1 - 2,N/A,Category 1 - 2,N/A,N/A,P1,T2,EMF27-Base-Conv,Policy
+AIM-Enduse 12.1,EMF27-450-EERE,Carbon Budget 2050,1103752.1346892,Category 2,N/A,Category 2,N/A,N/A,P1,T3,EMF27-Base-EERE,Policy
+AIM-Enduse 12.1,EMF27-450-FullTech,Carbon Budget 2050,1072236.1265989,Category 1 - 2,N/A,Category 1 - 2,N/A,N/A,P1,T0,EMF27-Base-FullTech,Policy
+AIM-Enduse 12.1,EMF27-450-LimBio,Carbon Budget 2050,1099345.5624425,Category 1 - 2,N/A,Category 1 - 2,N/A,N/A,P1,T2,EMF27-Base-LimBio,Policy
+AIM-Enduse 12.1,EMF27-450-LimSW,Carbon Budget 2050,1101569.4113275,Category 1 - 2,N/A,Category 1 - 2,N/A,N/A,P1,T2,EMF27-Base-LimSW,Policy
+AIM-Enduse 12.1,EMF27-450-LowEI,Carbon Budget 2050,1097450.0375428,Category 1 - 2,N/A,Category 1 - 2,N/A,N/A,P1,T0,EMF27-Base-LowEI,Policy
+AIM-Enduse 12.1,EMF27-450-NoCCS,Carbon Budget 2050,1106634.8324663,Category 2,N/A,Category 2,N/A,N/A,P1,T3,EMF27-Base-FullTech,Policy
+AIM-Enduse 12.1,EMF27-450-NucOff,Carbon Budget 2050,1100728.4597783,Category 1 - 2,N/A,Category 1 - 2,N/A,N/A,P1,T2,EMF27-Base-NucOff,Policy
+AIM-Enduse 12.1,EMF27-550-Conv,Carbon Budget 2050,1449091.3991523,Category 3 - 5,N/A,Category 3 - 5,N/A,N/A,P1,T2,EMF27-Base-Conv,Policy
+AIM-Enduse 12.1,EMF27-550-EERE,Carbon Budget 2050,1434510.2666733,Category 4 - 5,N/A,Category 4 - 5,N/A,N/A,P1,T3,EMF27-Base-EERE,Policy
+AIM-Enduse 12.1,EMF27-550-FullTech,Carbon Budget 2050,1448267.4330973,Category 3 - 5,N/A,Category 3 - 5,N/A,N/A,P1,T0,EMF27-Base-FullTech,Policy
+AIM-Enduse 12.1,EMF27-550-LimBio,Carbon Budget 2050,1448279.7343532,Category 3 - 5,N/A,Category 3 - 5,N/A,N/A,P1,T2,EMF27-Base-LimBio,Policy
+AIM-Enduse 12.1,EMF27-550-LimSW,Carbon Budget 2050,1449095.4985239,Category 3 - 5,N/A,Category 3 - 5,N/A,N/A,P1,T2,EMF27-Base-LimSW,Policy
+AIM-Enduse 12.1,EMF27-550-LimTech,Carbon Budget 2050,1461419.4529633,Category 4 - 5,N/A,Category 4 - 5,N/A,N/A,P1,T3,EMF27-Base-LimTech,Policy
+AIM-Enduse 12.1,EMF27-550-LowEI,Carbon Budget 2050,1414752.9315105,Category 3 - 5,N/A,Category 3 - 5,N/A,N/A,P1,T0,EMF27-Base-LowEI,Policy
+AIM-Enduse 12.1,EMF27-550-NoCCS,Carbon Budget 2050,1455224.426368,Category 4 - 5,N/A,Category 4 - 5,N/A,N/A,P1,T3,EMF27-Base-FullTech,Policy
+AIM-Enduse 12.1,EMF27-550-NucOff,Carbon Budget 2050,1452785.0466805,Category 3 - 5,N/A,Category 3 - 5,N/A,N/A,P1,T2,EMF27-Base-NucOff,Policy
+AIM-Enduse 12.1,EMF27-FP-EERE,Carbon Budget 2050,1448460.288665,Category 4 - 5,N/A,Category 4 - 5,N/A,N/A,P6,T3,EMF27-Base-EERE,Policy
+AIM-Enduse 12.1,EMF27-FP-FullTech,Carbon Budget 2050,1480109.6202743,Category 4 - 6,N/A,Category 4 - 6,N/A,N/A,P6,T0,EMF27-Base-FullTech,Policy
+AIM-Enduse 12.1,EMF27-G8-EERE,N/A,,N/A,N/A,N/A,N/A,N/A,P7,T3,EMF27-Base-EERE,Policy
+AIM-Enduse 12.1,EMF27-G8-FullTech,N/A,,N/A,N/A,N/A,N/A,N/A,P7,T0,EMF27-Base-FullTech,Policy
+AIM-Enduse[Backcast] 1.0,LIMITS-450,Carbon Budget 2050,1180313.8043255,Category 2 - 4,N/A,Category 2 - 4,N/A,N/A,P1,T0,LIMITS-Base,Policy
+AIM-Enduse[Backcast] 1.0,LIMITS-500,Carbon Budget 2050,1454520.3551073,Category 3 - 5,N/A,Category 3 - 5,N/A,N/A,P1,T0,LIMITS-Base,Policy
+AIM-Enduse[Backcast] 1.0,LIMITS-RefPol,Carbon Budget 2050,1718611.3405941,Category 6,N/A,Category 6,N/A,N/A,P6,T0,LIMITS-Base,Policy
+AIM-Enduse[Backcast] 1.0,LIMITS-RefPol-450,Carbon Budget 2050,1160386.0454995,Category 2 - 4,N/A,Category 2 - 4,N/A,N/A,P2,T0,LIMITS-Base,Policy
+AIM-Enduse[Backcast] 1.0,LIMITS-RefPol-450-EE,Carbon Budget 2050,1159686.681187,Category 2 - 4,N/A,Category 2 - 4,N/A,N/A,P2,T0,LIMITS-Base,Policy
+AIM-Enduse[Backcast] 1.0,LIMITS-RefPol-450-PC,Carbon Budget 2050,1160299.2490255,Category 2 - 4,N/A,Category 2 - 4,N/A,N/A,P2,T0,LIMITS-Base,Policy
+AIM-Enduse[Backcast] 1.0,LIMITS-RefPol-500,Carbon Budget 2050,1433740.5143947,Category 3 - 5,N/A,Category 3 - 5,N/A,N/A,P2,T0,LIMITS-Base,Policy
+AIM-Enduse[Backcast] 1.0,LIMITS-RefPol2030-500,N/A,,N/A,N/A,N/A,N/A,N/A,P3,T0,LIMITS-Base,Policy
+AIM-Enduse[Backcast] 1.0,LIMITS-StrPol,Carbon Budget 2050,1581619.4834534,Category 4 - 6,N/A,Category 4 - 6,N/A,N/A,P6,T0,LIMITS-Base,Policy
+AIM-Enduse[Backcast] 1.0,LIMITS-StrPol-450,Carbon Budget 2050,1158110.8228473,Category 2 - 4,N/A,Category 2 - 4,N/A,N/A,P2,T0,LIMITS-Base,Policy
+AIM-Enduse[Backcast] 1.0,LIMITS-StrPol-500,Carbon Budget 2050,1431188.8614724,Category 3 - 5,N/A,Category 3 - 5,N/A,N/A,P2,T0,LIMITS-Base,Policy
+BET 1.5,EMF27-450-Conv,Carbon Budget 2100,1042351.9564342,Category 2,Category 2,Category 1,N/A,N1,P1,T2,EMF27-Base-Conv,Policy
+BET 1.5,EMF27-450-FullTech,Carbon Budget 2100,1045336.1244139,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T0,EMF27-Base-FullTech,Policy
+BET 1.5,EMF27-450-LimBio,Carbon Budget 2100,1042335.1763389,Category 2,Category 2,Category 1,N/A,N1,P1,T2,EMF27-Base-LimBio,Policy
+BET 1.5,EMF27-450-LimSW,Carbon Budget 2100,1045277.2432081,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T2,EMF27-Base-LimSW,Policy
+BET 1.5,EMF27-450-LowEI,Carbon Budget 2100,1047202.6844096,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T0,EMF27-Base-LowEI,Policy
+BET 1.5,EMF27-450-NucOff,Carbon Budget 2100,1045806.0292101,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T2,EMF27-Base-NucOff,Policy
+BET 1.5,EMF27-550-Conv,Carbon Budget 2100,1794475.1857236,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T2,EMF27-Base-Conv,Policy
+BET 1.5,EMF27-550-EERE,Carbon Budget 2100,1798738.8195506,Category 3,Category 3,Category 3 - 4,N/A,N1,P1,T3,EMF27-Base-EERE,Policy
+BET 1.5,EMF27-550-FullTech,Carbon Budget 2100,1814161.3595907,Category 3,Category 3,Category 2 - 4,N/A,N1,P1,T0,EMF27-Base-FullTech,Policy
+BET 1.5,EMF27-550-LimBio,Carbon Budget 2100,1795126.0033857,Category 3,Category 3,Category 2 - 4,N/A,N1,P1,T2,EMF27-Base-LimBio,Policy
+BET 1.5,EMF27-550-LimSW,Carbon Budget 2100,1814932.2919805,Category 3,Category 3,Category 2 - 4,N/A,N1,P1,T2,EMF27-Base-LimSW,Policy
+BET 1.5,EMF27-550-LimTech,Carbon Budget 2100,1794236.7090477,Category 3,Category 3,Category 2,N/A,N1,P1,T3,EMF27-Base-LimTech,Policy
+BET 1.5,EMF27-550-LowEI,Carbon Budget 2100,1824193.562202,Category 3,Category 3,Category 2 - 4,N/A,N1,P1,T0,EMF27-Base-LowEI,Policy
+BET 1.5,EMF27-550-NoCCS,Carbon Budget 2100,1793687.6973667,Category 3,Category 3,Category 2,N/A,N1,P1,T3,EMF27-Base-FullTech,Policy
+BET 1.5,EMF27-550-NucOff,Carbon Budget 2100,1812542.0435815,Category 3,Category 3,Category 2 - 4,N/A,N1,P1,T2,EMF27-Base-NucOff,Policy
+DNE21 V.11,AME 2.6 W/m2 OS,Carbon Budget 2050,1176294.7875308,Category 2 - 4,N/A,Category 2 - 4,N/A,N/A,P1,T0,AME Reference,Policy
+DNE21 V.11,AME 3.7 W/m2 NTE,Carbon Budget 2050,1372422.5875308,Category 3 - 5,N/A,Category 3 - 5,N/A,N/A,P1,T0,AME Reference,Policy
+DNE21 V.11,AME CO2 price $10 (5% p.a.),Carbon Budget 2050,1597881.8875308,Category 4 - 6,N/A,Category 4 - 6,N/A,N/A,P1,T0,AME Reference,Policy
+DNE21 V.11,AME CO2 price $30 (5% p.a.),Carbon Budget 2050,1301954.3875308,Category 2 - 4,N/A,Category 2 - 4,N/A,N/A,P1,T0,AME Reference,Policy
+DNE21 V.11,AME CO2 price $50 (5% p.a.),Carbon Budget 2050,1186028.1375308,Category 2 - 4,N/A,Category 2 - 4,N/A,N/A,P1,T0,AME Reference,Policy
+DNE21 V.12,AMPERE2-450-FullTech-HST,N/A,,N/A,N/A,N/A,N/A,N/A,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+DNE21 V.12,AMPERE2-450-FullTech-LST,N/A,,N/A,N/A,N/A,N/A,N/A,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+DNE21 V.12,AMPERE2-450-FullTech-OPT,Carbon Budget 2050,1143384.5448749,Category 2 - 4,N/A,Category 2 - 4,N/A,N/A,P1,T0,AMPERE2-Base-FullTech-OPT,Policy
+DNE21 V.12,AMPERE2-450-LowEI-HST,N/A,,N/A,N/A,N/A,N/A,N/A,P3,T0,AMPERE2-Base-LowEI-OPT,Policy
+DNE21 V.12,AMPERE2-450-LowEI-LST,N/A,,N/A,N/A,N/A,N/A,N/A,P3,T0,AMPERE2-Base-LowEI-OPT,Policy
+DNE21 V.12,AMPERE2-450-LowEI-OPT,Carbon Budget 2050,1143377.2115415,Category 2 - 4,N/A,Category 2 - 4,N/A,N/A,P1,T0,AMPERE2-Base-LowEI-OPT,Policy
+DNE21 V.12,AMPERE2-450-NoCCS-HST,N/A,,N/A,N/A,N/A,N/A,N/A,P3,T3,AMPERE2-Base-FullTech-OPT,Policy
+DNE21 V.12,AMPERE2-450-NoCCS-LST,N/A,,N/A,N/A,N/A,N/A,N/A,P3,T3,AMPERE2-Base-FullTech-OPT,Policy
+DNE21 V.12,AMPERE2-450-NoCCS-OPT,Carbon Budget 2050,1143381.4282082,Category 3 - 4,N/A,Category 3 - 4,N/A,N/A,P1,T3,AMPERE2-Base-FullTech-OPT,Policy
+DNE21 V.12,AMPERE2-450-NucOff-HST,N/A,,N/A,N/A,N/A,N/A,N/A,P3,T2,AMPERE2-Base-NucOff-OPT,Policy
+DNE21 V.12,AMPERE2-450-NucOff-LST,N/A,,N/A,N/A,N/A,N/A,N/A,P3,T2,AMPERE2-Base-NucOff-OPT,Policy
+DNE21 V.12,AMPERE2-450-NucOff-OPT,Carbon Budget 2050,1143384.5448749,Category 2 - 4,N/A,Category 2 - 4,N/A,N/A,P1,T2,AMPERE2-Base-NucOff-OPT,Policy
+DNE21 V.12,AMPERE2-550-FullTech-HST,N/A,,N/A,N/A,N/A,N/A,N/A,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+DNE21 V.12,AMPERE2-550-FullTech-LST,N/A,,N/A,N/A,N/A,N/A,N/A,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+DNE21 V.12,AMPERE2-550-FullTech-OPT,Carbon Budget 2050,1430740.2587832,Category 3 - 5,N/A,Category 3 - 5,N/A,N/A,P1,T0,AMPERE2-Base-FullTech-OPT,Policy
+DNE21 V.12,AMPERE3-450,Carbon Budget 2050,1039538.3115415,Category 1 - 2,N/A,Category 1 - 2,N/A,N/A,P1,T0,AMPERE3-Base,Policy
+DNE21 V.12,AMPERE3-450P-EU,N/A,,N/A,N/A,N/A,N/A,N/A,P4,T0,AMPERE3-Base,Policy
+DNE21 V.12,AMPERE3-550,Carbon Budget 2050,1336134.2087832,Category 3 - 5,N/A,Category 3 - 5,N/A,N/A,P1,T0,AMPERE3-Base,Policy
+DNE21 V.12,AMPERE3-CF450,Carbon Budget 2050,1039544.5448749,Category 1 - 2,N/A,Category 1 - 2,N/A,N/A,P1,T0,AMPERE3-Base,Policy
+DNE21 V.12,AMPERE3-CF550,Carbon Budget 2050,1336136.5921166,Category 3 - 5,N/A,Category 3 - 5,N/A,N/A,P1,T0,AMPERE3-Base,Policy
+DNE21 V.12,AMPERE3-RefP-EUback,Carbon Budget 2050,1834333.3877481,Category 6,N/A,Category 6,N/A,N/A,P6,T0,AMPERE3-Base,Policy
+DNE21 V.12,AMPERE3-RefPol,Carbon Budget 2050,1835292.6067206,Category 6,N/A,Category 6,N/A,N/A,P6,T0,AMPERE3-Base,Policy
+DNE21 V.12,Carbon tax 100,N/A,,N/A,N/A,N/A,N/A,N/A,P1,T0,Carbon tax 0,Policy
+DNE21 V.12,Carbon tax 150,N/A,,N/A,N/A,N/A,N/A,N/A,P1,T0,Carbon tax 0,Policy
+DNE21 V.12,Carbon tax 200,N/A,,N/A,N/A,N/A,N/A,N/A,P1,T0,Carbon tax 0,Policy
+DNE21 V.12,Carbon tax 250,N/A,,N/A,N/A,N/A,N/A,N/A,P1,T0,Carbon tax 0,Policy
+DNE21 V.12,Carbon tax 300,N/A,,N/A,N/A,N/A,N/A,N/A,P1,T0,Carbon tax 0,Policy
+DNE21 V.12,Carbon tax 350,N/A,,N/A,N/A,N/A,N/A,N/A,P1,T0,Carbon tax 0,Policy
+DNE21 V.12,Carbon tax 400,N/A,,N/A,N/A,N/A,N/A,N/A,P1,T0,Carbon tax 0,Policy
+DNE21 V.12,Carbon tax 450,N/A,,N/A,N/A,N/A,N/A,N/A,P1,T0,Carbon tax 0,Policy
+DNE21 V.12,Carbon tax 50,N/A,,N/A,N/A,N/A,N/A,N/A,P1,T0,Carbon tax 0,Policy
+DNE21 V.12,Carbon tax 500,N/A,,N/A,N/A,N/A,N/A,N/A,P1,T0,Carbon tax 0,Policy
+EC-IAM 2012,EMF27-550-Conv,Forcing Kyoto Gases (MAGICC6),3.9276449350746,Category 3,Category 3,Category 2,O1,N1,P1,T3,EMF27-Base-Conv,Policy
+EC-IAM 2012,EMF27-550-EERE,Forcing Kyoto Gases (MAGICC6),3.9282939368425,Category 3,Category 3,Category 2,O1,N1,P1,T3,EMF27-Base-EERE,Policy
+EC-IAM 2012,EMF27-550-FullTech,Forcing Kyoto Gases (MAGICC6),3.9299641372334,Category 3,Category 3,Category 2,O1,N1,P1,T1,EMF27-Base-FullTech,Policy
+EC-IAM 2012,EMF27-550-LimBio,Forcing Kyoto Gases (MAGICC6),3.9284204569677,Category 3,Category 3,Category 2,O1,N1,P1,T3,EMF27-Base-LimBio,Policy
+EC-IAM 2012,EMF27-550-LimSW,Forcing Kyoto Gases (MAGICC6),3.9304827324668,Category 3,Category 3,Category 2,O1,N1,P1,T3,EMF27-Base-LimSW,Policy
+EC-IAM 2012,EMF27-550-LimTech,Forcing Kyoto Gases (MAGICC6),3.9235202110578,Category 3,Category 3,Category 3 - 4,O1,N1,P1,T3,EMF27-Base-LimTech,Policy
+EC-IAM 2012,EMF27-550-LowEI,Forcing Kyoto Gases (MAGICC6),3.9363760289701,Category 3,Category 3,Category 2,O1,N1,P1,T1,EMF27-Base-LowEI,Policy
+EC-IAM 2012,EMF27-550-NoCCS,Forcing Kyoto Gases (MAGICC6),3.9288069906518,Category 3,Category 3,Category 2,O1,N1,P1,T3,EMF27-Base-FullTech,Policy
+EC-IAM 2012,EMF27-550-NucOff,Forcing Kyoto Gases (MAGICC6),3.9256732225481,Category 3,Category 3,Category 2,O1,N1,P1,T3,EMF27-Base-NucOff,Policy
+EC-IAM 2012,EMF27-FP-EERE,Forcing Kyoto Gases (MAGICC6),4.8203552509513,Category 5,Category 4,Category 3 - 4,O1,N1,P6,T3,EMF27-Base-EERE,Policy
+EC-IAM 2012,EMF27-FP-FullTech,Forcing Kyoto Gases (MAGICC6),5.2525263881986,Category 5,Category 5,Category 3 - 4,O1,N1,P6,T1,EMF27-Base-FullTech,Policy
+EC-IAM 2012,EMF27-G8-EERE,Forcing Kyoto Gases (MAGICC6),4.0716549138332,Category 3,Category 3,N/A,O1,N1,P7,T3,EMF27-Base-EERE,Policy
+EC-IAM 2012,EMF27-G8-FullTech,Forcing Kyoto Gases (MAGICC6),4.4319127603626,Category 4,Category 4,N/A,O1,N1,P7,T1,EMF27-Base-FullTech,Policy
+ENV-Linkages (WEO2012 calibration),EMF27-450-Conv,Carbon Budget 2050,1252532,Category 3 - 4,N/A,Category 3 - 4,N/A,N/A,P1,T3,EMF27-Base-Conv,Policy
+ENV-Linkages (WEO2012 calibration),EMF27-450-FullTech,Carbon Budget 2050,1251596.5,Category 3 - 4,N/A,Category 3 - 4,N/A,N/A,P1,T1,EMF27-Base-FullTech,Policy
+ENV-Linkages (WEO2012 calibration),EMF27-450-LimBio,Carbon Budget 2050,1251818.5,Category 3 - 4,N/A,Category 3 - 4,N/A,N/A,P1,T3,EMF27-Base-LimBio,Policy
+ENV-Linkages (WEO2012 calibration),EMF27-450-LimSW,Carbon Budget 2050,1252307.5,Category 3 - 4,N/A,Category 3 - 4,N/A,N/A,P1,T3,EMF27-Base-LimSW,Policy
+ENV-Linkages (WEO2012 calibration),EMF27-450-NucOff,Carbon Budget 2050,1255397,Category 3 - 4,N/A,Category 3 - 4,N/A,N/A,P1,T3,EMF27-Base-NucOff,Policy
+ENV-Linkages (WEO2012 calibration),EMF27-550-Conv,Carbon Budget 2050,1591713.5,Category 5 - 6,N/A,Category 5 - 6,N/A,N/A,P1,T3,EMF27-Base-Conv,Policy
+ENV-Linkages (WEO2012 calibration),EMF27-550-FullTech,Carbon Budget 2050,1590248,Category 5 - 6,N/A,Category 5 - 6,N/A,N/A,P1,T1,EMF27-Base-FullTech,Policy
+ENV-Linkages (WEO2012 calibration),EMF27-550-LimBio,Carbon Budget 2050,1590513,Category 5 - 6,N/A,Category 5 - 6,N/A,N/A,P1,T3,EMF27-Base-LimBio,Policy
+ENV-Linkages (WEO2012 calibration),EMF27-550-LimSW,Carbon Budget 2050,1591466.5,Category 5 - 6,N/A,Category 5 - 6,N/A,N/A,P1,T3,EMF27-Base-LimSW,Policy
+ENV-Linkages (WEO2012 calibration),EMF27-550-NucOff,Carbon Budget 2050,1594212.5,Category 5 - 6,N/A,Category 5 - 6,N/A,N/A,P1,T3,EMF27-Base-NucOff,Policy
+ENV-Linkages (WEO2012 calibration),EMF27-FP-FullTech,Carbon Budget 2050,1539866,Category 5 - 6,N/A,Category 5 - 6,N/A,N/A,P6,T1,EMF27-Base-FullTech,Policy
+ENV-Linkages (WEO2012 calibration),EMF27-G8-FullTech,N/A,,N/A,N/A,N/A,N/A,N/A,P7,T1,EMF27-Base-FullTech,Policy
+Ecofys Energy Model,TER2011,N/A,,N/A,N/A,N/A,N/A,N/A,P1,N/A,N/A,Policy
+FARM_3.0,EMF27-550-Conv,Carbon Budget 2100,1755515.0208314,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T2,EMF27-Base-Conv,Policy
+FARM_3.0,EMF27-550-EERE,Carbon Budget 2100,1747785.4137528,Category 3,Category 3,Category 2,N/A,N1,P1,T3,EMF27-Base-EERE,Policy
+FARM_3.0,EMF27-550-FullTech,Carbon Budget 2100,1755308.4761152,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T0,EMF27-Base-FullTech,Policy
+FARM_3.0,EMF27-550-LimBio,Carbon Budget 2100,1755490.5472046,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T2,EMF27-Base-LimBio,Policy
+FARM_3.0,EMF27-550-LowEI,Carbon Budget 2100,1747582.9215983,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T0,EMF27-Base-LowEI,Policy
+FARM_3.0,EMF27-550-NoCCS,Carbon Budget 2100,1755308.4205451,Category 3,Category 3,Category 2,N/A,N1,P1,T3,EMF27-Base-FullTech,Policy
+FARM_3.0,EMF27-FP-FullTech,Carbon Budget 2100,3465846.4306125,Category 6,Category 6,Category 3 - 5,N/A,N1,P6,T0,EMF27-Base-FullTech,Policy
+GCAM 2.0,AME 2.6 W/m2 OS,Forcing (MAGICC6),2.9639675681554,Category 2,Category 2,Category 2 - 4,O2,N1,P1,T0,AME Reference,Policy
+GCAM 2.0,AME 3.7 W/m2 NTE,Forcing (MAGICC6),3.989750459445,Category 4,Category 4,Category 3 - 5,O1,N1,P1,T0,AME Reference,Policy
+GCAM 2.0,AME CO2 price $10 (5% p.a.),Forcing (MAGICC6),4.027667002257,Category 4,Category 4,Category 6,O1,N1,P1,T0,AME Reference,Policy
+GCAM 2.0,AME CO2 price $30 (5% p.a.),Forcing (MAGICC6),2.8864889059549,Category 1,Category 2,Category 2 - 4,O2,N1,P1,T0,AME Reference,Policy
+GCAM 2.0,AME CO2 price $50 (5% p.a.),Forcing (MAGICC6),2.429463450825,Category 1,Category 1,Category 1 - 2,O2,N1,P1,T0,AME Reference,Policy
+GCAM 3.0,AMPERE2-450-Conv-HST,Forcing (MAGICC6),3.7281058531056,Category 3,Category 2,N/A,O1,N1,P3,T2,AMPERE2-Base-Conv-OPT,Policy
+GCAM 3.0,AMPERE2-450-Conv-LST,Forcing (MAGICC6),3.7341878379329,Category 3,Category 2,N/A,O1,N1,P3,T2,AMPERE2-Base-Conv-OPT,Policy
+GCAM 3.0,AMPERE2-450-Conv-OPT,Forcing (MAGICC6),3.7511479644779,Category 3,Category 2,Category 1 - 2,O1,N1,P1,T2,AMPERE2-Base-Conv-OPT,Policy
+GCAM 3.0,AMPERE2-450-EERE-HST,Forcing (MAGICC6),3.5965880924929,Category 3,Category 2,N/A,O1,N1,P3,T3,AMPERE2-Base-EERE-OPT,Policy
+GCAM 3.0,AMPERE2-450-EERE-LST,Forcing (MAGICC6),3.5978088368449,Category 3,Category 2,N/A,O1,N1,P3,T3,AMPERE2-Base-EERE-OPT,Policy
+GCAM 3.0,AMPERE2-450-EERE-OPT,Forcing (MAGICC6),3.6212011445949,Category 3,Category 2,Category 2,O1,N1,P1,T3,AMPERE2-Base-EERE-OPT,Policy
+GCAM 3.0,AMPERE2-450-FullTech-HST,Forcing (MAGICC6),3.4322998073345,Category 2,Category 2,N/A,O2,N2,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+GCAM 3.0,AMPERE2-450-FullTech-LST,Forcing (MAGICC6),3.4492415055868,Category 2,Category 2,N/A,O2,N2,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+GCAM 3.0,AMPERE2-450-FullTech-OPT,Forcing (MAGICC6),3.4441301971146,Category 2,Category 2,Category 4 - 6,O2,N2,P1,T0,AMPERE2-Base-FullTech-OPT,Policy
+GCAM 3.0,AMPERE2-450-LimBio-HST,Forcing (MAGICC6),3.7080426882632,Category 3,Category 2,N/A,O1,N1,P3,T2,AMPERE2-Base-LimBio-OPT,Policy
+GCAM 3.0,AMPERE2-450-LimBio-LST,Forcing (MAGICC6),3.7146468685075,Category 3,Category 2,N/A,O1,N1,P3,T2,AMPERE2-Base-LimBio-OPT,Policy
+GCAM 3.0,AMPERE2-450-LimBio-OPT,Forcing (MAGICC6),3.7309188324277,Category 3,Category 2,Category 1 - 2,O1,N1,P1,T2,AMPERE2-Base-LimBio-OPT,Policy
+GCAM 3.0,AMPERE2-450-LimSW-HST,Forcing (MAGICC6),3.4354532263046,Category 2,Category 2,N/A,O2,N2,P3,T2,AMPERE2-Base-LimSW-OPT,Policy
+GCAM 3.0,AMPERE2-450-LimSW-LST,Forcing (MAGICC6),3.4514250063155,Category 3,Category 2,N/A,O2,N2,P3,T2,AMPERE2-Base-LimSW-OPT,Policy
+GCAM 3.0,AMPERE2-450-LimSW-OPT,Forcing (MAGICC6),3.4457774063332,Category 2,Category 2,Category 4 - 6,O2,N2,P1,T2,AMPERE2-Base-LimSW-OPT,Policy
+GCAM 3.0,AMPERE2-450-LowEI-HST,Forcing (MAGICC6),3.4512905586488,Category 3,Category 2,N/A,O2,N2,P3,T0,AMPERE2-Base-LowEI-OPT,Policy
+GCAM 3.0,AMPERE2-450-LowEI-LST,Forcing (MAGICC6),3.4654580263389,Category 3,Category 2,N/A,O2,N2,P3,T0,AMPERE2-Base-LowEI-OPT,Policy
+GCAM 3.0,AMPERE2-450-LowEI-OPT,Forcing (MAGICC6),3.4686906619165,Category 3,Category 2,Category 4 - 6,O2,N2,P1,T0,AMPERE2-Base-LowEI-OPT,Policy
+GCAM 3.0,AMPERE2-450-NoCCS-HST,Forcing (MAGICC6),3.5992202552661,Category 3,Category 2,N/A,O1,N1,P3,T3,AMPERE2-Base-FullTech-OPT,Policy
+GCAM 3.0,AMPERE2-450-NoCCS-LST,Forcing (MAGICC6),3.6006793448677,Category 3,Category 2,N/A,O1,N1,P3,T3,AMPERE2-Base-FullTech-OPT,Policy
+GCAM 3.0,AMPERE2-450-NoCCS-OPT,Forcing (MAGICC6),3.611818148206,Category 3,Category 2,Category 3 - 4,O1,N1,P1,T3,AMPERE2-Base-FullTech-OPT,Policy
+GCAM 3.0,AMPERE2-450-NucOff-HST,Forcing (MAGICC6),3.4389449731291,Category 2,Category 2,N/A,O2,N2,P3,T2,AMPERE2-Base-NucOff-OPT,Policy
+GCAM 3.0,AMPERE2-450-NucOff-LST,Forcing (MAGICC6),3.457754246714,Category 3,Category 2,N/A,O2,N2,P3,T2,AMPERE2-Base-NucOff-OPT,Policy
+GCAM 3.0,AMPERE2-450-NucOff-OPT,Forcing (MAGICC6),3.4514999990774,Category 3,Category 2,Category 6,O2,N2,P1,T2,AMPERE2-Base-NucOff-OPT,Policy
+GCAM 3.0,AMPERE2-550-Conv-OPT,Forcing (MAGICC6),4.5064096140625,Category 5,Category 4,Category 4 - 6,O1,N1,P1,T2,AMPERE2-Base-Conv-OPT,Policy
+GCAM 3.0,AMPERE2-550-EERE-OPT,Forcing (MAGICC6),4.3676647387409,Category 4,Category 4,Category 5 - 6,O1,N1,P1,T3,AMPERE2-Base-EERE-OPT,Policy
+GCAM 3.0,AMPERE2-550-FullTech-HST,Forcing (MAGICC6),4.3221563678685,Category 4,Category 4,N/A,O2,N2,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+GCAM 3.0,AMPERE2-550-FullTech-LST,Forcing (MAGICC6),4.3389109918186,Category 4,Category 4,N/A,O2,N2,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+GCAM 3.0,AMPERE2-550-FullTech-OPT,Forcing (MAGICC6),4.32846309004,Category 4,Category 4,Category 6,O2,N2,P1,T0,AMPERE2-Base-FullTech-OPT,Policy
+GCAM 3.0,AMPERE2-550-LimBio-OPT,Forcing (MAGICC6),4.4911054599195,Category 4,Category 4,Category 4 - 6,O1,N1,P1,T2,AMPERE2-Base-LimBio-OPT,Policy
+GCAM 3.0,AMPERE2-550-LimSW-OPT,Forcing (MAGICC6),4.3293822510466,Category 4,Category 4,Category 6,O2,N2,P1,T2,AMPERE2-Base-LimSW-OPT,Policy
+GCAM 3.0,AMPERE2-550-LowEI-OPT,Forcing (MAGICC6),4.3421379633354,Category 4,Category 4,Category 4 - 6,O2,N2,P1,T0,AMPERE2-Base-LowEI-OPT,Policy
+GCAM 3.0,AMPERE2-550-NoCCS-OPT,Forcing (MAGICC6),4.3544277433312,Category 4,Category 4,Category 5 - 6,O1,N1,P1,T3,AMPERE2-Base-FullTech-OPT,Policy
+GCAM 3.0,AMPERE2-550-NucOff-OPT,Forcing (MAGICC6),4.3360408784685,Category 4,Category 4,Category 6,O2,N2,P1,T2,AMPERE2-Base-NucOff-OPT,Policy
+GCAM 3.0,AMPERE3-450,Forcing (MAGICC6),3.464237208369,Category 3,Category 2,Category 4 - 6,O2,N2,P1,T0,AMPERE3-Base,Policy
+GCAM 3.0,AMPERE3-450P-CE,Forcing (MAGICC6),3.4499647298711,Category 2,Category 2,N/A,O2,N2,P4,T0,AMPERE3-Base,Policy
+GCAM 3.0,AMPERE3-450P-EU,Forcing (MAGICC6),3.4816284110257,Category 3,Category 2,N/A,O2,N2,P4,T0,AMPERE3-Base,Policy
+GCAM 3.0,AMPERE3-550,Forcing (MAGICC6),4.3693662109373,Category 4,Category 4,Category 6,O2,N2,P1,T0,AMPERE3-Base,Policy
+GCAM 3.0,AMPERE3-Base-EUback,Forcing (MAGICC6),7.9945920720134,Category 7,Category 7,Category 7,O1,N1,P0,T0,AMPERE3-Base,Policy
+GCAM 3.0,AMPERE3-CF450,Forcing (MAGICC6),3.4624119815547,Category 3,Category 2,Category 6,O2,N2,P1,T0,AMPERE3-Base,Policy
+GCAM 3.0,AMPERE3-CF450P-EU,Forcing (MAGICC6),3.6104722989885,Category 3,Category 2,N/A,O2,N2,P4,T0,AMPERE3-Base,Policy
+GCAM 3.0,AMPERE3-CF550,Forcing (MAGICC6),4.3669117979696,Category 4,Category 4,Category 6,O2,N2,P1,T0,AMPERE3-Base,Policy
+GCAM 3.0,AMPERE3-RefP-CEback,Forcing (MAGICC6),6.4325583695311,Category 6,Category 6,Category 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+GCAM 3.0,AMPERE3-RefP-EUback,Forcing (MAGICC6),6.4805240517596,Category 6,Category 6,Category 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+GCAM 3.0,AMPERE3-RefPol,Forcing (MAGICC6),6.4862010277027,Category 6,Category 6,Category 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+GCAM 3.0,EMF27-450-Conv,Forcing (MAGICC6),2.5267315676441,Category 1,Category 1,Category 1,O1,N1,P1,T2,EMF27-Base-Conv,Policy
+GCAM 3.0,EMF27-450-EERE,Forcing (MAGICC6),2.5715987011249,Category 1,Category 1,Category 1,O1,N1,P1,T3,EMF27-Base-EERE,Policy
+GCAM 3.0,EMF27-450-FullTech,Forcing (MAGICC6),2.6316141771777,Category 1,Category 1,Category 1 - 2,O2,N2,P1,T0,EMF27-Base-FullTech,Policy
+GCAM 3.0,EMF27-450-LimBio,Forcing (MAGICC6),2.5383577294093,Category 1,Category 1,Category 1,O1,N1,P1,T2,EMF27-Base-LimBio,Policy
+GCAM 3.0,EMF27-450-NoCCS,Forcing (MAGICC6),2.5623118296794,Category 1,Category 1,Category 1,O1,N1,P1,T3,EMF27-Base-FullTech,Policy
+GCAM 3.0,EMF27-550-Conv,Forcing (MAGICC6),3.3890251436555,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,EMF27-Base-Conv,Policy
+GCAM 3.0,EMF27-550-EERE,Forcing (MAGICC6),3.3472587019555,Category 2,Category 2,Category 2,O1,N1,P1,T3,EMF27-Base-EERE,Policy
+GCAM 3.0,EMF27-550-FullTech,Forcing (MAGICC6),3.3445932439511,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T0,EMF27-Base-FullTech,Policy
+GCAM 3.0,EMF27-550-LimBio,Forcing (MAGICC6),3.378685192677,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,EMF27-Base-LimBio,Policy
+GCAM 3.0,EMF27-550-LimSW,Forcing (MAGICC6),3.3585337534416,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,EMF27-Base-LimSW,Policy
+GCAM 3.0,EMF27-550-LowEI,Forcing (MAGICC6),3.378970753498,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T0,EMF27-Base-LowEI,Policy
+GCAM 3.0,EMF27-550-NoCCS,Forcing (MAGICC6),3.2911672002489,Category 2,Category 2,Category 2,O1,N1,P1,T3,EMF27-Base-FullTech,Policy
+GCAM 3.0,EMF27-550-NucOff,Forcing (MAGICC6),3.370386767411,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,EMF27-Base-NucOff,Policy
+GCAM 3.0,EMF27-FP-FullTech,Forcing (MAGICC6),5.0202647645316,Category 5,Category 5,Category 4 - 6,O1,N1,P6,T0,EMF27-Base-FullTech,Policy
+GCAM 3.0,EMF27-G8-FullTech,Forcing (MAGICC6),3.7558420542839,Category 3,Category 3,N/A,O1,N1,P7,T0,EMF27-Base-FullTech,Policy
+GCAM 3.0,ROSE 450 DEF,Forcing (MAGICC6),3.4008868774003,Category 2,Category 2,Category 2 - 4,O1,N1,P1,T2,ROSE BAU DEF,Policy
+GCAM 3.0,ROSE 450 FS Gr,Forcing (MAGICC6),3.3833376471973,Category 2,Category 1,Category 1 - 2,O1,N1,P1,T2,ROSE BAU FS Gr,Policy
+GCAM 3.0,ROSE 450 HI Coal,Forcing (MAGICC6),3.3985623245361,Category 2,Category 2,Category 2 - 4,O1,N1,P1,T2,ROSE BAU HI Coal,Policy
+GCAM 3.0,ROSE 450 HI Fos,Forcing (MAGICC6),3.3992114408109,Category 2,Category 2,Category 2 - 4,O1,N1,P1,T2,ROSE BAU HI Fos,Policy
+GCAM 3.0,ROSE 450 HI Gas,Forcing (MAGICC6),3.399562320441,Category 2,Category 2,Category 2 - 4,O1,N1,P1,T2,ROSE BAU HI Gas,Policy
+GCAM 3.0,ROSE 450 HI Pop,Forcing (MAGICC6),3.436060484004,Category 2,Category 1,Category 1 - 2,O1,N1,P1,T2,ROSE BAU HI Pop,Policy
+GCAM 3.0,ROSE 450 LO Fos,Forcing (MAGICC6),3.4047382490417,Category 2,Category 2,Category 2 - 4,O1,N1,P1,T2,ROSE BAU LO Fos,Policy
+GCAM 3.0,ROSE 450 LO Oil,Forcing (MAGICC6),3.3941947431622,Category 2,Category 2,Category 2 - 4,O1,N1,P1,T2,ROSE BAU LO Oil,Policy
+GCAM 3.0,ROSE 450 SL Gr,Forcing (MAGICC6),3.3952201755644,Category 2,Category 2,Category 2 - 4,O1,N1,P1,T2,ROSE BAU SL Gr,Policy
+GCAM 3.0,ROSE 550 DEF,Forcing (MAGICC6),4.2056029797667,Category 4,Category 3,Category 3 - 5,O1,N1,P1,T2,ROSE BAU DEF,Policy
+GCAM 3.0,ROSE 550 FS Gr,Forcing (MAGICC6),4.2118771896293,Category 4,Category 3,Category 3 - 5,O1,N1,P1,T2,ROSE BAU FS Gr,Policy
+GCAM 3.0,ROSE 550 HI Coal,Forcing (MAGICC6),4.1919605371384,Category 4,Category 3,Category 3 - 5,O1,N1,P1,T2,ROSE BAU HI Coal,Policy
+GCAM 3.0,ROSE 550 HI Fos,Forcing (MAGICC6),4.1958243211217,Category 4,Category 3,Category 3 - 5,O1,N1,P1,T2,ROSE BAU HI Fos,Policy
+GCAM 3.0,ROSE 550 HI Gas,Forcing (MAGICC6),4.2018598576466,Category 4,Category 3,Category 3 - 5,O1,N1,P1,T2,ROSE BAU HI Gas,Policy
+GCAM 3.0,ROSE 550 HI Pop,Forcing (MAGICC6),4.2250901023246,Category 4,Category 3,Category 3 - 5,O1,N1,P1,T2,ROSE BAU HI Pop,Policy
+GCAM 3.0,ROSE 550 LO Fos,Forcing (MAGICC6),4.1881397490794,Category 4,Category 3,Category 3 - 5,O1,N1,P1,T2,ROSE BAU LO Fos,Policy
+GCAM 3.0,ROSE 550 LO Oil,Forcing (MAGICC6),4.1815030511822,Category 4,Category 3,Category 3 - 5,O1,N1,P1,T2,ROSE BAU LO Oil,Policy
+GCAM 3.0,ROSE 550 SL Gr,Forcing (MAGICC6),4.1931640627667,Category 4,Category 3,Category 3 - 5,O1,N1,P1,T2,ROSE BAU SL Gr,Policy
+GCAM 3.0,ROSE WEAK-2020 DEF,Forcing (MAGICC6),3.4088731814892,Category 2,Category 2,Category 2 - 4,O1,N1,P2,T2,ROSE BAU DEF,Policy
+GCAM 3.0,ROSE WEAK-2030 DEF,Forcing (MAGICC6),3.3735346912629,Category 2,Category 2,N/A,O2,N1,P3,T2,ROSE BAU DEF,Policy
+GCAM 3.0,ROSE WEAK-POL DEF,Forcing (MAGICC6),6.1731972283482,Category 6,Category 6,Category 7,O1,N1,P6,T2,ROSE BAU DEF,Policy
+GCAM 3.1,LIMITS-450,Forcing (MAGICC6),2.5505580794248,Category 1,Category 1,Category 1,O2,N2,P1,T0,LIMITS-Base,Policy
+GCAM 3.1,LIMITS-500,Forcing (MAGICC6),2.8922007559692,Category 1,Category 2,Category 1 - 2,O2,N1,P1,T0,LIMITS-Base,Policy
+GCAM 3.1,LIMITS-RefPol,Forcing (MAGICC6),5.7821148084516,Category 6,Category 6,Category 6,O1,N1,P6,T0,LIMITS-Base,Policy
+GCAM 3.1,LIMITS-RefPol-450,Forcing (MAGICC6),2.5803570835836,Category 1,Category 1,Category 1 - 2,O2,N2,P2,T0,LIMITS-Base,Policy
+GCAM 3.1,LIMITS-RefPol-450-EE,Forcing (MAGICC6),2.5803570835836,Category 1,Category 1,Category 1 - 2,O2,N2,P2,T0,LIMITS-Base,Policy
+GCAM 3.1,LIMITS-RefPol-450-PC,Forcing (MAGICC6),2.5803570835836,Category 1,Category 1,Category 1 - 2,O2,N2,P2,T0,LIMITS-Base,Policy
+GCAM 3.1,LIMITS-RefPol-500,Forcing (MAGICC6),2.9157479560748,Category 2,Category 2,Category 1 - 2,O2,N1,P2,T0,LIMITS-Base,Policy
+GCAM 3.1,LIMITS-RefPol2030-500,Forcing (MAGICC6),2.9864322376314,Category 2,Category 2,N/A,O2,N1,P3,T0,LIMITS-Base,Policy
+GCAM 3.1,LIMITS-StrPol,Forcing (MAGICC6),4.6992602027093,Category 5,Category 5,Category 3 - 5,O1,N1,P6,T0,LIMITS-Base,Policy
+GCAM 3.1,LIMITS-StrPol-450,Forcing (MAGICC6),2.5717749366847,Category 1,Category 1,Category 1 - 2,O2,N2,P2,T0,LIMITS-Base,Policy
+GCAM 3.1,LIMITS-StrPol-500,Forcing (MAGICC6),2.8978895948593,Category 1,Category 2,Category 1 - 2,O2,N1,P2,T0,LIMITS-Base,Policy
+GEM-E3-ICCS,AMPERE3-450,Carbon Budget 2050,1004135.82685,Category 2,N/A,Category 2,N/A,N/A,P1,T1,AMPERE3-Base,Policy
+GEM-E3-ICCS,AMPERE3-450P-CE,N/A,,N/A,N/A,N/A,N/A,N/A,P4,T1,AMPERE3-Base,Policy
+GEM-E3-ICCS,AMPERE3-450P-EU,N/A,,N/A,N/A,N/A,N/A,N/A,P4,T1,AMPERE3-Base,Policy
+GEM-E3-ICCS,AMPERE3-550,Carbon Budget 2050,1292127.80545,Category 3 - 4,N/A,Category 3 - 4,N/A,N/A,P1,T1,AMPERE3-Base,Policy
+GEM-E3-ICCS,AMPERE3-Base-EUback,Carbon Budget 2050,1963667.39655,Category 7,N/A,Category 7,N/A,N/A,P0,T1,AMPERE3-Base,Policy
+GEM-E3-ICCS,AMPERE3-CF450,Carbon Budget 2050,1004086.0719,Category 2,N/A,Category 2,N/A,N/A,P1,T1,AMPERE3-Base,Policy
+GEM-E3-ICCS,AMPERE3-CF550,Carbon Budget 2050,1292083.88105,Category 3 - 4,N/A,Category 3 - 4,N/A,N/A,P1,T1,AMPERE3-Base,Policy
+GEM-E3-ICCS,AMPERE3-RefP-CEback,Carbon Budget 2050,1371376.8351,Category 4 - 5,N/A,Category 4 - 5,N/A,N/A,P6,T1,AMPERE3-Base,Policy
+GEM-E3-ICCS,AMPERE3-RefP-EUback,Carbon Budget 2050,1597578.568,Category 5 - 6,N/A,Category 5 - 6,N/A,N/A,P6,T1,AMPERE3-Base,Policy
+GEM-E3-ICCS,AMPERE3-RefPol,Carbon Budget 2050,1602700.66595,Category 5 - 6,N/A,Category 5 - 6,N/A,N/A,P6,T1,AMPERE3-Base,Policy
+GRAPE ver2011,EMF27-550-Conv,Forcing Kyoto Gases (MAGICC6),4.0481947277103,Category 3,Category 2,Category 1 - 2,O1,N1,P1,T2,EMF27-Base-Conv,Policy
+GRAPE ver2011,EMF27-550-FullTech,Forcing Kyoto Gases (MAGICC6),4.0534361757609,Category 3,Category 2,Category 2 - 4,O1,N1,P1,T0,EMF27-Base-FullTech,Policy
+GRAPE ver2011,EMF27-550-LimBio,Forcing Kyoto Gases (MAGICC6),4.0424308021336,Category 3,Category 2,Category 1 - 2,O1,N1,P1,T2,EMF27-Base-LimBio,Policy
+GRAPE ver2011,EMF27-550-LowEI,Forcing Kyoto Gases (MAGICC6),3.9416624957929,Category 3,Category 2,Category 1 - 2,O1,N1,P1,T0,EMF27-Base-LowEI,Policy
+GRAPE_ver1998,AME 3.7 W/m2 NTE,Forcing Kyoto Gases (MAGICC6),3.7584486329226,Category 3,Category 2,Category 1 - 2,O1,N1,P1,T0,AME Reference,Policy
+GRAPE_ver1998,AME CO2 price $10 (5% p.a.),Forcing Kyoto Gases (MAGICC6),5.0212818168305,Category 5,Category 5,Category 4 - 6,O1,N1,P1,T0,AME Reference,Policy
+GRAPE_ver1998,AME CO2 price $30 (5% p.a.),Forcing Kyoto Gases (MAGICC6),4.6385902295457,Category 4,Category 4,Category 2 - 4,O1,N1,P1,T0,AME Reference,Policy
+GRAPE_ver1998,AME CO2 price $50 (5% p.a.),Forcing Kyoto Gases (MAGICC6),4.033963827462,Category 3,Category 3,Category 2 - 4,O1,N1,P1,T0,AME Reference,Policy
+GTEMREF32,AME CO2 price $10 (5% p.a.),Forcing Kyoto Gases (MAGICC6),4.6901629043906,Category 4,Category 5,Category 6,O1,N1,P1,T1,AME Reference,Policy
+GTEMREF32,AME CO2 price $30 (5% p.a.),Forcing Kyoto Gases (MAGICC6),3.1980931079243,Category 2,Category 3,Category 4 - 5,O1,N1,P1,T1,AME Reference,Policy
+GTEMREF32,AME CO2 price $50 (5% p.a.),Forcing Kyoto Gases (MAGICC6),2.5540630189765,Category 1,Category 1,Category 2,O2,N1,P1,T1,AME Reference,Policy
+IEEJ ver.2011,Advanced Technology Scenario,Carbon Budget 2050,1070312.9795325,Category 1 - 2,N/A,Category 1 - 2,N/A,N/A,P0,T0,Reference Scenario,Policy
+IGSM,Level1,Carbon Budget 2100,1558473.4976325,Category 3,Category 3,Category 2,N/A,N1,P1,T1,REF,Policy
+IGSM,Level2,Carbon Budget 2100,2458589.9804658,Category 4,Category 4,Category 3 - 4,N/A,N1,P1,T1,REF,Policy
+IGSM,Level3,Carbon Budget 2100,3442310.5827991,Category 6,Category 6,Category 5 - 6,N/A,N1,P1,T1,REF,Policy
+IGSM,Level4,Carbon Budget 2100,4202019.4282991,Category 6,Category 6,Category 6,N/A,N1,P1,T1,REF,Policy
+IMACLIM v1.1,AMPERE2-450-FullTech-LST,Carbon Budget 2100,1106638,Category 2,Category 2,N/A,N/A,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+IMACLIM v1.1,AMPERE2-450-FullTech-OPT,Carbon Budget 2100,1108830,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T0,AMPERE2-Base-FullTech-OPT,Policy
+IMACLIM v1.1,AMPERE2-450-LowEI-LST,Carbon Budget 2100,1109350,Category 2,Category 2,N/A,N/A,N1,P3,T0,AMPERE2-Base-LowEI-OPT,Policy
+IMACLIM v1.1,AMPERE2-450-LowEI-OPT,Carbon Budget 2100,1106480,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T0,AMPERE2-Base-LowEI-OPT,Policy
+IMACLIM v1.1,AMPERE2-450-NucOff-LST,Carbon Budget 2100,1116580,Category 2,Category 2,N/A,N/A,N1,P3,T2,AMPERE2-Base-NucOff-OPT,Policy
+IMACLIM v1.1,AMPERE2-450-NucOff-OPT,Carbon Budget 2100,1109080,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T2,AMPERE2-Base-NucOff-OPT,Policy
+IMACLIM v1.1,AMPERE2-550-FullTech-HST,Carbon Budget 2100,2112245,Category 4,Category 4,N/A,N/A,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+IMACLIM v1.1,AMPERE2-550-FullTech-LST,Carbon Budget 2100,2126963.3333333,Category 4,Category 4,N/A,N/A,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+IMACLIM v1.1,AMPERE2-550-FullTech-OPT,Carbon Budget 2100,2092200,Category 4,Category 4,Category 2 - 4,N/A,N1,P1,T0,AMPERE2-Base-FullTech-OPT,Policy
+IMACLIM v1.1,AMPERE3-450,Carbon Budget 2100,1128350,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T0,AMPERE3-Base,Policy
+IMACLIM v1.1,AMPERE3-450P-CE,Carbon Budget 2100,1314900,Category 2,Category 2,N/A,N/A,N1,P4,T0,AMPERE3-Base,Policy
+IMACLIM v1.1,AMPERE3-550,Carbon Budget 2100,2155350,Category 4,Category 4,Category 2 - 4,N/A,N1,P1,T0,AMPERE3-Base,Policy
+IMACLIM v1.1,AMPERE3-550P-EU,Carbon Budget 2100,2509880,Category 4,Category 4,N/A,N/A,N1,P4,T0,AMPERE3-Base,Policy
+IMACLIM v1.1,AMPERE3-Base-EUback,Carbon Budget 2100,4782000,Category 6,Category 6,Category 6,N/A,N1,P0,T0,AMPERE3-Base,Policy
+IMACLIM v1.1,AMPERE3-CF450,Carbon Budget 2100,1128700,Category 2,Category 2,Category 2 - 4,N/A,N1,P1,T0,AMPERE3-Base,Policy
+IMACLIM v1.1,AMPERE3-CF550,Carbon Budget 2100,2150800,Category 4,Category 4,Category 2 - 4,N/A,N1,P1,T0,AMPERE3-Base,Policy
+IMACLIM v1.1,AMPERE3-RefP-CEback,Carbon Budget 2100,4094000,Category 6,Category 6,Category 4 - 6,N/A,N1,P6,T0,AMPERE3-Base,Policy
+IMACLIM v1.1,AMPERE3-RefP-EUback,Carbon Budget 2100,4018000,Category 6,Category 6,Category 6,N/A,N1,P6,T0,AMPERE3-Base,Policy
+IMACLIM v1.1,AMPERE3-RefPol,Carbon Budget 2100,4009000,Category 6,Category 6,Category 6,N/A,N1,P6,T0,AMPERE3-Base,Policy
+IMACLIM v1.1,EMF27-450-Conv,Carbon Budget 2100,916934,Category 1,Category 1,Category 1,N/A,N1,P1,T2,EMF27-Base-Conv,Policy
+IMACLIM v1.1,EMF27-450-FullTech,Carbon Budget 2100,924150,Category 1,Category 1,Category 1 - 2,N/A,N1,P1,T0,EMF27-Base-FullTech,Policy
+IMACLIM v1.1,EMF27-450-LimBio,Carbon Budget 2100,915633,Category 1,Category 1,Category 1,N/A,N1,P1,T2,EMF27-Base-LimBio,Policy
+IMACLIM v1.1,EMF27-450-LimSW,Carbon Budget 2100,923905,Category 1,Category 1,Category 1 - 2,N/A,N1,P1,T2,EMF27-Base-LimSW,Policy
+IMACLIM v1.1,EMF27-450-LowEI,Carbon Budget 2100,927465,Category 1,Category 1,Category 1,N/A,N1,P1,T0,EMF27-Base-LowEI,Policy
+IMACLIM v1.1,EMF27-450-NucOff,Carbon Budget 2100,922650,Category 1,Category 1,Category 1 - 2,N/A,N1,P1,T2,EMF27-Base-NucOff,Policy
+IMACLIM v1.1,EMF27-550-Conv,Carbon Budget 2100,1672660,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T2,EMF27-Base-Conv,Policy
+IMACLIM v1.1,EMF27-550-EERE,Carbon Budget 2100,1671025,Category 3,Category 3,Category 2,N/A,N1,P1,T3,EMF27-Base-EERE,Policy
+IMACLIM v1.1,EMF27-550-FullTech,Carbon Budget 2100,1669810,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T0,EMF27-Base-FullTech,Policy
+IMACLIM v1.1,EMF27-550-LimBio,Carbon Budget 2100,1669090,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T2,EMF27-Base-LimBio,Policy
+IMACLIM v1.1,EMF27-550-LimSW,Carbon Budget 2100,1669860,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T2,EMF27-Base-LimSW,Policy
+IMACLIM v1.1,EMF27-550-LowEI,Carbon Budget 2100,1663630,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T0,EMF27-Base-LowEI,Policy
+IMACLIM v1.1,EMF27-550-NoCCS,Carbon Budget 2100,1674700,Category 3,Category 3,Category 2,N/A,N1,P1,T3,EMF27-Base-FullTech,Policy
+IMACLIM v1.1,EMF27-550-NucOff,Carbon Budget 2100,1668290,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T2,EMF27-Base-NucOff,Policy
+IMACLIM v1.1,EMF27-FP-EERE,Carbon Budget 2100,2473650,Category 4,Category 4,Category 3 - 4,N/A,N1,P6,T3,EMF27-Base-EERE,Policy
+IMACLIM v1.1,EMF27-FP-FullTech,Carbon Budget 2100,2915100,Category 5,Category 5,Category 3 - 5,N/A,N1,P6,T0,EMF27-Base-FullTech,Policy
+IMACLIM v1.1,EMF27-G8-EERE,Carbon Budget 2100,1650445,Category 3,Category 3,N/A,N/A,N1,P7,T3,EMF27-Base-EERE,Policy
+IMACLIM v1.1,EMF27-G8-FullTech,Carbon Budget 2100,2051050,Category 4,Category 4,N/A,N/A,N1,P7,T0,EMF27-Base-FullTech,Policy
+IMAGE 2.4,AME 2.6 W/m2 OS,Forcing (MAGICC6),2.5283062974915,Category 1,Category 1,Category 1 - 2,O2,N1,P1,T0,AME Reference,Policy
+IMAGE 2.4,AME 3.7 W/m2 NTE,Forcing (MAGICC6),3.6862495194654,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,AME Reference,Policy
+IMAGE 2.4,AME CO2 price $10 (5% p.a.),Forcing (MAGICC6),3.7808816882213,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,AME Reference,Policy
+IMAGE 2.4,AME CO2 price $30 (5% p.a.),Forcing (MAGICC6),3.1342645447656,Category 2,Category 3,Category 2 - 4,O1,N1,P1,T0,AME Reference,Policy
+IMAGE 2.4,AME CO2 price $50 (5% p.a.),Forcing (MAGICC6),2.9644820777679,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T0,AME Reference,Policy
+IMAGE 2.4,AMPERE2-450-FullTech-OPT,Forcing (MAGICC6),2.8676861431192,Category 1,Category 2,Category 2 - 4,O2,N1,P1,T0,AMPERE2-Base-FullTech-OPT,Policy
+IMAGE 2.4,AMPERE2-450-LimSW-OPT,Forcing (MAGICC6),2.8854978749923,Category 1,Category 2,Category 2 - 4,O2,N1,P1,T2,AMPERE2-Base-LimSW-OPT,Policy
+IMAGE 2.4,AMPERE2-450-LowEI-HST,Forcing (MAGICC6),2.8870432582445,Category 1,Category 2,N/A,O2,N1,P3,T0,AMPERE2-Base-LowEI-OPT,Policy
+IMAGE 2.4,AMPERE2-450-LowEI-LST,Forcing (MAGICC6),2.8865386442246,Category 1,Category 2,N/A,O2,N1,P3,T0,AMPERE2-Base-LowEI-OPT,Policy
+IMAGE 2.4,AMPERE2-450-LowEI-OPT,Forcing (MAGICC6),2.9112051295916,Category 2,Category 2,Category 2 - 4,O2,N1,P1,T0,AMPERE2-Base-LowEI-OPT,Policy
+IMAGE 2.4,AMPERE2-450-NucOff-OPT,Forcing (MAGICC6),2.9133028256207,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,AMPERE2-Base-NucOff-OPT,Policy
+IMAGE 2.4,AMPERE2-550-FullTech-HST,Forcing (MAGICC6),3.764946290701,Category 3,Category 4,N/A,O1,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+IMAGE 2.4,AMPERE2-550-FullTech-LST,Forcing (MAGICC6),3.8050883719222,Category 3,Category 4,N/A,O1,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+IMAGE 2.4,AMPERE2-550-FullTech-OPT,Forcing (MAGICC6),3.8197968816938,Category 3,Category 4,Category 4 - 6,O1,N1,P1,T0,AMPERE2-Base-FullTech-OPT,Policy
+IMAGE 2.4,AMPERE3-450,Forcing (MAGICC6),2.8897299998266,Category 1,Category 2,Category 2 - 4,O2,N1,P1,T0,AMPERE3-Base,Policy
+IMAGE 2.4,AMPERE3-450P-CE,Forcing (MAGICC6),3.3169164984313,Category 2,Category 3,N/A,O1,N1,P4,T0,AMPERE3-Base,Policy
+IMAGE 2.4,AMPERE3-450P-EU,Forcing (MAGICC6),3.5216665733445,Category 3,Category 3,N/A,O1,N1,P4,T0,AMPERE3-Base,Policy
+IMAGE 2.4,AMPERE3-550,Forcing (MAGICC6),3.8310188989944,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,AMPERE3-Base,Policy
+IMAGE 2.4,AMPERE3-CF450,Forcing (MAGICC6),2.8676861431192,Category 1,Category 2,Category 2 - 4,O2,N1,P1,T0,AMPERE3-Base,Policy
+IMAGE 2.4,AMPERE3-CF550,Forcing (MAGICC6),3.8197968816938,Category 3,Category 4,Category 4 - 6,O1,N1,P1,T0,AMPERE3-Base,Policy
+IMAGE 2.4,AMPERE3-RefP-CEback,Forcing (MAGICC6),5.4226474499713,Category 6,Category 6,Category 4 - 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+IMAGE 2.4,AMPERE3-RefP-EUback,Forcing (MAGICC6),5.6029556230449,Category 6,Category 6,Category 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+IMAGE 2.4,AMPERE3-RefPol,Forcing (MAGICC6),5.6193964570326,Category 6,Category 6,Category 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+IMAGE 2.4,EMF27-450-FullTech,Forcing (MAGICC6),2.7426112220846,Category 1,Category 2,Category 1 - 2,O2,N1,P1,T0,EMF27-Base-FullTech,Policy
+IMAGE 2.4,EMF27-450-LimSW,Forcing (MAGICC6),2.7831354576733,Category 1,Category 2,Category 1 - 2,O2,N1,P1,T2,EMF27-Base-LimSW,Policy
+IMAGE 2.4,EMF27-450-LowEI,Forcing (MAGICC6),2.8536809831165,Category 1,Category 2,Category 2 - 4,O2,N1,P1,T0,EMF27-Base-LowEI,Policy
+IMAGE 2.4,EMF27-450-NucOff,Forcing (MAGICC6),2.7273632720317,Category 1,Category 2,Category 1 - 2,O2,N1,P1,T2,EMF27-Base-NucOff,Policy
+IMAGE 2.4,EMF27-550-Conv,Forcing (MAGICC6),3.7314307096866,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T2,EMF27-Base-Conv,Policy
+IMAGE 2.4,EMF27-550-EERE,Forcing (MAGICC6),3.7507160964519,Category 3,Category 4,Category 3 - 4,O1,N1,P1,T3,EMF27-Base-EERE,Policy
+IMAGE 2.4,EMF27-550-FullTech,Forcing (MAGICC6),3.7641764530916,Category 3,Category 3,Category 3 - 5,O1,N1,P1,T0,EMF27-Base-FullTech,Policy
+IMAGE 2.4,EMF27-550-LimBio,Forcing (MAGICC6),3.7356043291739,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T2,EMF27-Base-LimBio,Policy
+IMAGE 2.4,EMF27-550-LimSW,Forcing (MAGICC6),3.7613637435879,Category 3,Category 3,Category 3 - 5,O1,N1,P1,T2,EMF27-Base-LimSW,Policy
+IMAGE 2.4,EMF27-550-LowEI,Forcing (MAGICC6),3.7157930351592,Category 3,Category 3,Category 2 - 4,O1,N1,P1,T0,EMF27-Base-LowEI,Policy
+IMAGE 2.4,EMF27-550-NoCCS,Forcing (MAGICC6),3.6420344612345,Category 3,Category 4,Category 3 - 4,O1,N1,P1,T3,EMF27-Base-FullTech,Policy
+IMAGE 2.4,EMF27-550-NucOff,Forcing (MAGICC6),3.7087312482803,Category 3,Category 3,Category 3 - 5,O1,N1,P1,T2,EMF27-Base-NucOff,Policy
+IMAGE 2.4,EMF27-FP-EERE,Forcing (MAGICC6),5.1229159662329,Category 6,Category 5,Category 4 - 5,O1,N1,P6,T3,EMF27-Base-EERE,Policy
+IMAGE 2.4,EMF27-FP-FullTech,Forcing (MAGICC6),5.2684230475731,Category 6,Category 6,Category 4 - 6,O1,N1,P6,T0,EMF27-Base-FullTech,Policy
+IMAGE 2.4,EMF27-G8-FullTech,Forcing (MAGICC6),3.120545272648,Category 2,Category 2,N/A,O1,N1,P7,T0,EMF27-Base-FullTech,Policy
+IMAGE 2.4,LIMITS-450,Forcing (MAGICC6),2.8446209175167,Category 1,Category 2,Category 1 - 2,O2,N1,P1,T0,LIMITS-Base,Policy
+IMAGE 2.4,LIMITS-500,Forcing (MAGICC6),3.3851795368635,Category 2,Category 3,Category 3 - 5,O1,N1,P1,T0,LIMITS-Base,Policy
+IMAGE 2.4,LIMITS-RefPol,Forcing (MAGICC6),5.7565721411531,Category 6,Category 6,Category 6,O1,N1,P6,T0,LIMITS-Base,Policy
+IMAGE 2.4,LIMITS-RefPol-450,Forcing (MAGICC6),2.8890420533842,Category 1,Category 2,Category 2 - 4,O2,N1,P2,T0,LIMITS-Base,Policy
+IMAGE 2.4,LIMITS-RefPol-450-EE,Forcing (MAGICC6),2.8960649624367,Category 1,Category 2,Category 2 - 4,O2,N1,P2,T0,LIMITS-Base,Policy
+IMAGE 2.4,LIMITS-RefPol-450-PC,Forcing (MAGICC6),2.8890602775795,Category 1,Category 2,Category 2 - 4,O2,N1,P2,T0,LIMITS-Base,Policy
+IMAGE 2.4,LIMITS-RefPol-500,Forcing (MAGICC6),3.3665700057903,Category 2,Category 3,Category 3 - 5,O1,N1,P2,T0,LIMITS-Base,Policy
+IMAGE 2.4,LIMITS-RefPol2030-500,Forcing (MAGICC6),3.344275249453,Category 2,Category 3,N/A,O2,N1,P3,T0,LIMITS-Base,Policy
+IMAGE 2.4,LIMITS-StrPol,Forcing (MAGICC6),4.6993374992399,Category 5,Category 5,Category 3 - 5,O1,N1,P6,T0,LIMITS-Base,Policy
+IMAGE 2.4,LIMITS-StrPol-450,Forcing (MAGICC6),2.9401721944878,Category 2,Category 2,Category 2 - 4,O1,N1,P2,T0,LIMITS-Base,Policy
+IMAGE 2.4,LIMITS-StrPol-500,Forcing (MAGICC6),3.3778473696657,Category 2,Category 3,Category 2 - 4,O1,N1,P2,T0,LIMITS-Base,Policy
+IMAGE 2.4,POEM_ScenarioA,Carbon Budget 2100,1154481.1766815,Category 2,Category 2,Category 2,N/A,N1,P1,T3,POEM_baseline,Policy
+IMAGE 2.4,POEM_ScenarioA_CPH,Carbon Budget 2100,1179756.7478943,Category 2,Category 2,Category 2,N/A,N1,P1,T3,POEM_baseline,Policy
+IMAGE 2.4,POEM_ScenarioB_CPH_early,Carbon Budget 2100,1179756.7478943,Category 2,Category 2,Category 2,N/A,N1,P1,T3,POEM_baseline,Policy
+IMAGE 2.4 EMF22,EMF22 2.6 OS BECCS,Forcing Kyoto Gases (MAGICC6),2.8571787824295,Category 1,Category 2,Category 1 - 2,O1,N1,P1,T0,EMF22 Reference,Policy
+IMAGE 2.4 EMF22,EMF22 3.7 NTE,Forcing Kyoto Gases (MAGICC6),3.9223189371437,Category 3,Category 4,Category 3 - 4,O1,N1,P1,T3,EMF22 Reference,Policy
+IMAGE 2.4 EMF22,EMF22 3.7 NTE w Delay,Forcing Kyoto Gases (MAGICC6),3.9238193574026,Category 3,Category 4,N/A,O1,N1,P5,T3,EMF22 Reference,Policy
+IMAGE 2.4 EMF22,EMF22 3.7 OS,Forcing Kyoto Gases (MAGICC6),3.9119591618838,Category 3,Category 4,Category 5 - 6,O1,N1,P1,T3,EMF22 Reference,Policy
+IMAGE 2.4 EMF22,EMF22 3.7 OS w Delay,Forcing Kyoto Gases (MAGICC6),3.9922341237202,Category 3,Category 4,N/A,O1,N1,P5,T3,EMF22 Reference,Policy
+IMAGE 2.4 EMF22,EMF22 4.5 NTE,Forcing Kyoto Gases (MAGICC6),4.618881796637,Category 4,Category 5,Category 5 - 6,O1,N1,P1,T3,EMF22 Reference,Policy
+IMAGE 2.4 EMF22,EMF22 4.5 NTE w Delay,Forcing Kyoto Gases (MAGICC6),4.7672447998625,Category 5,Category 5,N/A,O1,N1,P5,T3,EMF22 Reference,Policy
+KEI-Linkages,AME CO2 price $10 (5% p.a.),Carbon Budget 2050,1573018.0506645,Category 5 - 6,N/A,Category 5 - 6,N/A,N/A,P1,T1,AME Reference,Policy
+KEI-Linkages,AME CO2 price $30 (5% p.a.),Carbon Budget 2050,1305199.7543235,Category 3 - 4,N/A,Category 3 - 4,N/A,N/A,P1,T1,AME Reference,Policy
+KEI-Linkages,AME CO2 price $50 (5% p.a.),Carbon Budget 2050,1163263.4271455,Category 3 - 4,N/A,Category 3 - 4,N/A,N/A,P1,T1,AME Reference,Policy
+MARIA23_org,AME 3.7 W/m2 NTE,Carbon Budget 2100,1504892.5618542,Category 3,Category 3,Category 1,N/A,N1,P1,T1,AME Reference,Policy
+MARIA23_org,AME CO2 price $10 (5% p.a.),Carbon Budget 2100,2172196.5397774,Category 4,Category 4,Category 3 - 4,N/A,N1,P1,T1,AME Reference,Policy
+MARIA23_org,AME CO2 price $30 (5% p.a.),Carbon Budget 2100,1506785.3308578,Category 3,Category 3,Category 2,N/A,N1,P1,T1,AME Reference,Policy
+MARIA23_org,AME CO2 price $50 (5% p.a.),Carbon Budget 2100,1293076.4873254,Category 2,Category 2,Category 1,N/A,N1,P1,T1,AME Reference,Policy
+MERGE-ETL_2011,AMPERE2-450-Conv-OPT,Forcing (MAGICC6),2.8613600281763,Category 1,Category 2,Category 1 - 2,O1,N1,P1,T2,AMPERE2-Base-Conv-OPT,Policy
+MERGE-ETL_2011,AMPERE2-450-EERE-OPT,Forcing (MAGICC6),2.7975100955474,Category 1,Category 2,Category 2,O1,N1,P1,T3,AMPERE2-Base-EERE-OPT,Policy
+MERGE-ETL_2011,AMPERE2-450-FullTech-HST,Forcing (MAGICC6),2.7859652199427,Category 1,Category 2,N/A,O2,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+MERGE-ETL_2011,AMPERE2-450-FullTech-LST,Forcing (MAGICC6),2.8157683557919,Category 1,Category 2,N/A,O2,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+MERGE-ETL_2011,AMPERE2-450-FullTech-OPT,Forcing (MAGICC6),2.7945126023199,Category 1,Category 2,Category 2 - 4,O2,N1,P1,T0,AMPERE2-Base-FullTech-OPT,Policy
+MERGE-ETL_2011,AMPERE2-450-LimBio-OPT,Forcing (MAGICC6),2.8170457584296,Category 1,Category 2,Category 2 - 4,O2,N1,P1,T2,AMPERE2-Base-LimBio-OPT,Policy
+MERGE-ETL_2011,AMPERE2-450-LimSW-HST,Forcing (MAGICC6),2.7897163007911,Category 1,Category 2,N/A,O2,N1,P3,T2,AMPERE2-Base-LimSW-OPT,Policy
+MERGE-ETL_2011,AMPERE2-450-LimSW-LST,Forcing (MAGICC6),2.834078048472,Category 1,Category 2,N/A,O2,N1,P3,T2,AMPERE2-Base-LimSW-OPT,Policy
+MERGE-ETL_2011,AMPERE2-450-LimSW-OPT,Forcing (MAGICC6),2.8500472141195,Category 1,Category 2,Category 1 - 2,O1,N1,P1,T2,AMPERE2-Base-LimSW-OPT,Policy
+MERGE-ETL_2011,AMPERE2-450-LowEI-HST,Forcing (MAGICC6),2.7797835635276,Category 1,Category 2,N/A,O2,N1,P3,T0,AMPERE2-Base-LowEI-OPT,Policy
+MERGE-ETL_2011,AMPERE2-450-LowEI-LST,Forcing (MAGICC6),2.7936875792804,Category 1,Category 2,N/A,O2,N1,P3,T0,AMPERE2-Base-LowEI-OPT,Policy
+MERGE-ETL_2011,AMPERE2-450-LowEI-OPT,Forcing (MAGICC6),2.787278417991,Category 1,Category 2,Category 2 - 4,O2,N1,P1,T0,AMPERE2-Base-LowEI-OPT,Policy
+MERGE-ETL_2011,AMPERE2-450-NoCCS-OPT,Forcing (MAGICC6),2.7956393190963,Category 1,Category 2,Category 2,O1,N1,P1,T3,AMPERE2-Base-FullTech-OPT,Policy
+MERGE-ETL_2011,AMPERE2-450-NucOff-LST,Forcing (MAGICC6),2.8152091056685,Category 1,Category 2,N/A,O2,N1,P3,T2,AMPERE2-Base-NucOff-OPT,Policy
+MERGE-ETL_2011,AMPERE2-450-NucOff-OPT,Forcing (MAGICC6),2.7923617407984,Category 1,Category 2,Category 2 - 4,O2,N1,P1,T2,AMPERE2-Base-NucOff-OPT,Policy
+MERGE-ETL_2011,AMPERE2-550-Conv-OPT,Forcing (MAGICC6),3.6814523942097,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T2,AMPERE2-Base-Conv-OPT,Policy
+MERGE-ETL_2011,AMPERE2-550-EERE-OPT,Forcing (MAGICC6),3.5878100810261,Category 3,Category 4,Category 5 - 6,O1,N1,P1,T3,AMPERE2-Base-EERE-OPT,Policy
+MERGE-ETL_2011,AMPERE2-550-FullTech-HST,Forcing (MAGICC6),3.6283771300186,Category 3,Category 4,N/A,O2,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+MERGE-ETL_2011,AMPERE2-550-FullTech-LST,Forcing (MAGICC6),3.6336218833721,Category 3,Category 4,N/A,O2,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+MERGE-ETL_2011,AMPERE2-550-FullTech-OPT,Forcing (MAGICC6),3.6001665753815,Category 3,Category 4,Category 6,O2,N1,P1,T0,AMPERE2-Base-FullTech-OPT,Policy
+MERGE-ETL_2011,AMPERE2-550-LimBio-OPT,Forcing (MAGICC6),3.6207172045031,Category 3,Category 4,Category 4 - 6,O1,N1,P1,T2,AMPERE2-Base-LimBio-OPT,Policy
+MERGE-ETL_2011,AMPERE2-550-LimSW-OPT,Forcing (MAGICC6),3.6541542790375,Category 3,Category 4,Category 4 - 6,O1,N1,P1,T2,AMPERE2-Base-LimSW-OPT,Policy
+MERGE-ETL_2011,AMPERE2-550-LowEI-OPT,Forcing (MAGICC6),3.6177264332556,Category 3,Category 4,Category 4 - 6,O2,N1,P1,T0,AMPERE2-Base-LowEI-OPT,Policy
+MERGE-ETL_2011,AMPERE2-550-NoCCS-OPT,Forcing (MAGICC6),3.5947797195271,Category 3,Category 4,Category 4 - 5,O1,N1,P1,T3,AMPERE2-Base-FullTech-OPT,Policy
+MERGE-ETL_2011,AMPERE2-550-NucOff-OPT,Forcing (MAGICC6),3.5968395171465,Category 3,Category 4,Category 6,O2,N1,P1,T2,AMPERE2-Base-NucOff-OPT,Policy
+MERGE-ETL_2011,AMPERE3-450,Forcing (MAGICC6),2.7946421621075,Category 1,Category 2,Category 2 - 4,O2,N1,P1,T0,AMPERE3-Base,Policy
+MERGE-ETL_2011,AMPERE3-450P-CE,Forcing (MAGICC6),3.1463608836547,Category 2,Category 3,N/A,O2,N1,P4,T0,AMPERE3-Base,Policy
+MERGE-ETL_2011,AMPERE3-450P-EU,Forcing (MAGICC6),3.2549437139017,Category 2,Category 3,N/A,O2,N1,P4,T0,AMPERE3-Base,Policy
+MERGE-ETL_2011,AMPERE3-550,Forcing (MAGICC6),3.6014609568773,Category 3,Category 4,Category 6,O2,N1,P1,T0,AMPERE3-Base,Policy
+MERGE-ETL_2011,AMPERE3-550P-EU,Forcing (MAGICC6),3.7334333437179,Category 3,Category 4,N/A,O2,N1,P4,T0,AMPERE3-Base,Policy
+MERGE-ETL_2011,AMPERE3-Base-EU,Forcing (MAGICC6),8.5334690539364,Category 7,Category 7,Category 7,O1,N1,P0,T0,AMPERE3-Base,Policy
+MERGE-ETL_2011,AMPERE3-Base-EUback,Forcing (MAGICC6),8.767297018927,Category 7,Category 7,Category 7,O1,N1,P0,T0,AMPERE3-Base,Policy
+MERGE-ETL_2011,AMPERE3-CF450,Forcing (MAGICC6),2.7940230252014,Category 1,Category 2,Category 2 - 4,O2,N1,P1,T0,AMPERE3-Base,Policy
+MERGE-ETL_2011,AMPERE3-CF450P-EU,Forcing (MAGICC6),3.5239360444133,Category 3,Category 4,N/A,O2,N1,P4,T0,AMPERE3-Base,Policy
+MERGE-ETL_2011,AMPERE3-CF550,Forcing (MAGICC6),3.599247948637,Category 3,Category 4,Category 6,O2,N1,P1,T0,AMPERE3-Base,Policy
+MERGE-ETL_2011,AMPERE3-RefP-CE,Forcing (MAGICC6),5.6196838639724,Category 6,Category 6,Category 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+MERGE-ETL_2011,AMPERE3-RefP-CEback,Forcing (MAGICC6),6.0286759475719,Category 6,Category 6,Category 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+MERGE-ETL_2011,AMPERE3-RefP-EU,Forcing (MAGICC6),6.0475642469495,Category 6,Category 6,Category 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+MERGE-ETL_2011,AMPERE3-RefP-EUback,Forcing (MAGICC6),6.0770263380687,Category 6,Category 6,Category 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+MERGE-ETL_2011,AMPERE3-RefPol,Forcing (MAGICC6),6.1947026965085,Category 6,Category 6,Category 7,O1,N1,P6,T0,AMPERE3-Base,Policy
+MERGE_AME,AME 3.7 W/m2 NTE,Forcing (MAGICC6),4.1137164675893,Category 4,Category 4,Category 3 - 4,O1,N1,P1,T1,AME Reference,Policy
+MERGE_AME,AME CO2 price $10 (5% p.a.),Forcing (MAGICC6),4.6906906652849,Category 5,Category 5,Category 5 - 6,O1,N1,P1,T1,AME Reference,Policy
+MERGE_AME,AME CO2 price $30 (5% p.a.),Forcing (MAGICC6),4.0452962590664,Category 4,Category 3,Category 3 - 4,O1,N1,P1,T1,AME Reference,Policy
+MERGE_AME,AME CO2 price $50 (5% p.a.),Forcing (MAGICC6),3.8678367145482,Category 3,Category 3,Category 3 - 4,O1,N1,P1,T1,AME Reference,Policy
+MERGE_EMF22,EMF22 3.7 NTE,Forcing Kyoto Gases (MAGICC6),3.9755295651253,Category 3,Category 3,Category 3 - 4,O1,N1,P1,T1,EMF22 Reference,Policy
+MERGE_EMF22,EMF22 3.7 NTE Pessimistic Growth,Forcing Kyoto Gases (MAGICC6),4.0832868908499,Category 3,Category 3,Category 2,O1,N1,P1,T1,EMF22 Reference Pessimistic Growth,Policy
+MERGE_EMF22,EMF22 3.7 NTE w Delay Pessimistic Growth,Forcing Kyoto Gases (MAGICC6),3.9773400288678,Category 3,Category 3,N/A,O1,N1,P5,T1,EMF22 Reference Pessimistic Growth,Policy
+MERGE_EMF22,EMF22 3.7 OS,Forcing Kyoto Gases (MAGICC6),4.0028663979831,Category 3,Category 3,Category 3 - 4,O1,N1,P1,T1,EMF22 Reference,Policy
+MERGE_EMF22,EMF22 3.7 OS Pessimistic Growth,Forcing Kyoto Gases (MAGICC6),3.9972724222144,Category 3,Category 3,Category 2,O1,N1,P1,T1,EMF22 Reference Pessimistic Growth,Policy
+MERGE_EMF22,EMF22 3.7 OS w Delay Pessimistic Growth,Carbon Budget 2100,1767472.0486758,Category 3,Category 3,N/A,N/A,N1,P5,T1,EMF22 Reference Pessimistic Growth,Policy
+MERGE_EMF22,EMF22 4.5 NTE,Forcing Kyoto Gases (MAGICC6),4.7816983064481,Category 5,Category 5,Category 5 - 6,O1,N1,P1,T1,EMF22 Reference,Policy
+MERGE_EMF22,EMF22 4.5 NTE Pessimistic Growth,Forcing Kyoto Gases (MAGICC6),4.8783596929512,Category 5,Category 4,Category 4 - 5,O1,N1,P1,T1,EMF22 Reference Pessimistic Growth,Policy
+MERGE_EMF22,EMF22 4.5 NTE w Delay,Forcing Kyoto Gases (MAGICC6),4.7840919781162,Category 5,Category 5,N/A,O1,N1,P5,T1,EMF22 Reference,Policy
+MERGE_EMF22,EMF22 4.5 NTE w Delay Pessimistic Growth,Forcing Kyoto Gases (MAGICC6),4.7883016554275,Category 5,Category 5,N/A,O1,N1,P5,T1,EMF22 Reference Pessimistic Growth,Policy
+MERGE_EMF27,EMF27-450-Conv,Forcing (MAGICC6),2.8508214424651,Category 1,Category 1,Category 1 - 2,O1,N1,P1,T2,EMF27-Base-Conv,Policy
+MERGE_EMF27,EMF27-450-FullTech,Forcing (MAGICC6),2.8963106699956,Category 1,Category 1,Category 2 - 4,O2,N1,P1,T0,EMF27-Base-FullTech,Policy
+MERGE_EMF27,EMF27-450-LimBio,Forcing (MAGICC6),2.8503826021875,Category 1,Category 1,Category 1 - 2,O1,N1,P1,T2,EMF27-Base-LimBio,Policy
+MERGE_EMF27,EMF27-450-LimSW,Forcing (MAGICC6),2.8966817860597,Category 1,Category 1,Category 2 - 4,O2,N1,P1,T2,EMF27-Base-LimSW,Policy
+MERGE_EMF27,EMF27-450-LowEI,Forcing (MAGICC6),2.8908371901713,Category 1,Category 1,Category 2 - 4,O2,N1,P1,T0,EMF27-Base-LowEI,Policy
+MERGE_EMF27,EMF27-450-NucOff,Forcing (MAGICC6),2.8963675189656,Category 1,Category 1,Category 2 - 4,O2,N1,P1,T2,EMF27-Base-NucOff,Policy
+MERGE_EMF27,EMF27-550-Conv,Forcing (MAGICC6),3.6487763939132,Category 3,Category 3,Category 2 - 4,O1,N1,P1,T2,EMF27-Base-Conv,Policy
+MERGE_EMF27,EMF27-550-EERE,Forcing (MAGICC6),3.6425701726942,Category 3,Category 3,Category 3 - 4,O1,N1,P1,T3,EMF27-Base-EERE,Policy
+MERGE_EMF27,EMF27-550-FullTech,Forcing (MAGICC6),3.644384253133,Category 3,Category 3,Category 2 - 4,O1,N1,P1,T0,EMF27-Base-FullTech,Policy
+MERGE_EMF27,EMF27-550-LimBio,Forcing (MAGICC6),3.6491550587013,Category 3,Category 3,Category 2 - 4,O1,N1,P1,T2,EMF27-Base-LimBio,Policy
+MERGE_EMF27,EMF27-550-LimSW,Forcing (MAGICC6),3.6434796948765,Category 3,Category 3,Category 2 - 4,O1,N1,P1,T2,EMF27-Base-LimSW,Policy
+MERGE_EMF27,EMF27-550-LimTech,Forcing (MAGICC6),3.6468315752037,Category 3,Category 3,Category 3 - 4,O1,N1,P1,T3,EMF27-Base-LimTech,Policy
+MERGE_EMF27,EMF27-550-LowEI,Forcing (MAGICC6),3.6324347934998,Category 3,Category 3,Category 2 - 4,O1,N1,P1,T0,EMF27-Base-LowEI,Policy
+MERGE_EMF27,EMF27-550-NoCCS,Forcing (MAGICC6),3.642558235892,Category 3,Category 3,Category 3 - 4,O1,N1,P1,T3,EMF27-Base-FullTech,Policy
+MERGE_EMF27,EMF27-550-NucOff,Forcing (MAGICC6),3.6448021396477,Category 3,Category 3,Category 2 - 4,O1,N1,P1,T2,EMF27-Base-NucOff,Policy
+MERGE_EMF27,EMF27-FP-EERE,Forcing (MAGICC6),4.9870762547908,Category 5,Category 6,Category 5 - 6,O1,N1,P6,T3,EMF27-Base-EERE,Policy
+MERGE_EMF27,EMF27-FP-FullTech,Forcing (MAGICC6),5.1800240760269,Category 6,Category 6,Category 6,O1,N1,P6,T0,EMF27-Base-FullTech,Policy
+MERGE_EMF27,EMF27-G8-EERE,Forcing (MAGICC6),3.4677463676069,Category 3,Category 3,N/A,O1,N1,P7,T3,EMF27-Base-EERE,Policy
+MERGE_EMF27,EMF27-G8-FullTech,Forcing (MAGICC6),3.6587516486584,Category 3,Category 3,N/A,O1,N1,P7,T0,EMF27-Base-FullTech,Policy
+MESSAGE V.1,EMF22 2.6 OS,Forcing Kyoto Gases (MAGICC6),2.841357370301,Category 1,Category 1,Category 3 - 5,O2,N2,P1,T0,EMF22 Reference,Policy
+MESSAGE V.1,EMF22 2.6 OS No BECCS,Forcing Kyoto Gases (MAGICC6),2.7259799968335,Category 1,Category 1,Category 2,O2,N1,P1,T3,EMF22 Reference,Policy
+MESSAGE V.1,EMF22 3.7 NTE,Forcing Kyoto Gases (MAGICC6),3.7324346559507,Category 3,Category 3,Category 2 - 4,O1,N1,P1,T0,EMF22 Reference,Policy
+MESSAGE V.1,EMF22 3.7 NTE No BECCS,Forcing Kyoto Gases (MAGICC6),3.7313771850459,Category 3,Category 3,Category 3 - 4,O1,N1,P1,T3,EMF22 Reference,Policy
+MESSAGE V.1,EMF22 3.7 OS,Forcing Kyoto Gases (MAGICC6),3.802910082464,Category 3,Category 4,Category 4 - 6,O2,N2,P1,T0,EMF22 Reference,Policy
+MESSAGE V.1,EMF22 3.7 OS No BECCS,Forcing Kyoto Gases (MAGICC6),3.8009676695854,Category 3,Category 3,Category 5 - 6,O1,N1,P1,T3,EMF22 Reference,Policy
+MESSAGE V.1,EMF22 3.7 OS w Delay,Forcing Kyoto Gases (MAGICC6),3.8134346801418,Category 3,Category 3,N/A,O2,N2,P5,T0,EMF22 Reference,Policy
+MESSAGE V.1,EMF22 4.5 NTE,Forcing Kyoto Gases (MAGICC6),4.4797551424031,Category 4,Category 5,Category 4 - 6,O1,N1,P1,T0,EMF22 Reference,Policy
+MESSAGE V.1,EMF22 4.5 NTE No BECCS,Forcing Kyoto Gases (MAGICC6),4.4795374472033,Category 4,Category 5,Category 5 - 6,O1,N1,P1,T3,EMF22 Reference,Policy
+MESSAGE V.1,EMF22 4.5 NTE w Delay,Forcing Kyoto Gases (MAGICC6),4.4832516690252,Category 4,Category 4,N/A,O1,N1,P5,T0,EMF22 Reference,Policy
+MESSAGE V.2,RCP 8.5_MIT_2.6W,Forcing (MAGICC6),3.0868192863415,Category 2,Category 1,Category 1 - 2,O1,N2,P1,T0,RCP 8.5,Policy
+MESSAGE V.2,RCP 8.5_MIT_4.5W,Forcing (MAGICC6),4.9818525987579,Category 5,Category 5,Category 6,O1,N1,P1,T0,RCP 8.5,Policy
+MESSAGE V.2,RCP 8.5_MIT_6W,Forcing (MAGICC6),6.379854855499,Category 6,Category 6,Category 6,O1,N1,P1,T0,RCP 8.5,Policy
+MESSAGE V.3,AME 2.6 W/m2 OS,Forcing (MAGICC6),3.1097840481528,Category 2,Category 2,Category 1 - 2,O2,N1,P1,T0,AME Reference,Policy
+MESSAGE V.3,AME 3.7 W/m2 NTE,Forcing (MAGICC6),4.0486693042512,Category 4,Category 3,Category 3 - 5,O1,N1,P1,T0,AME Reference,Policy
+MESSAGE V.3,AME CO2 price $10 (5% p.a.),Forcing (MAGICC6),4.0841635506808,Category 4,Category 4,Category 4 - 6,O1,N1,P1,T0,AME Reference,Policy
+MESSAGE V.3,AME CO2 price $30 (5% p.a.),Forcing (MAGICC6),3.1691438128132,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T0,AME Reference,Policy
+MESSAGE V.3,AME CO2 price $50 (5% p.a.),Forcing (MAGICC6),2.8607718084449,Category 1,Category 1,Category 1 - 2,O2,N1,P1,T0,AME Reference,Policy
+MESSAGE V.3,GEA Efficiency_450_Illustrative,Forcing (MAGICC6),3.0272376351761,Category 2,Category 2,Category 2 - 4,O2,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Efficiency_450_adv.transp_full,Forcing (MAGICC6),3.0311137102074,Category 2,Category 2,Category 2 - 4,O2,N1,P1,T0,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Efficiency_450_adv.transp_limbe,Forcing (MAGICC6),2.9986042444665,Category 2,Category 2,Category 2 - 4,O1,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Efficiency_450_adv.transp_limbe_limir,Forcing (MAGICC6),2.9859288702102,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Efficiency_450_adv.transp_limir,Forcing (MAGICC6),3.0229534985679,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Efficiency_450_adv.transp_nbecs,Forcing (MAGICC6),3.0161501661789,Category 2,Category 2,Category 2,O1,N1,P1,T3,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Efficiency_450_adv.transp_nbecs_nsink_limbe,Forcing (MAGICC6),3.0017890450707,Category 2,Category 2,Category 2,O1,N1,P1,T3,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Efficiency_450_adv.transp_noccs,Forcing (MAGICC6),3.0097262741475,Category 2,Category 2,Category 2,O1,N1,P1,T3,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Efficiency_450_adv.transp_noccs_nonuc,Forcing (MAGICC6),3.0072826296268,Category 2,Category 2,Category 2,O1,N1,P1,T3,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Efficiency_450_adv.transp_nsink,Forcing (MAGICC6),3.0120521852575,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Efficiency_450_conv.transp_full,Forcing (MAGICC6),3.0246502640362,Category 2,Category 2,Category 2 - 4,O2,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Efficiency_450_conv.transp_limbe,Forcing (MAGICC6),3.0405099021847,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Efficiency_450_conv.transp_limbe_limir,Forcing (MAGICC6),2.9760620610074,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Efficiency_450_conv.transp_limir,Forcing (MAGICC6),3.0109275433019,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Efficiency_450_conv.transp_nbecs,Forcing (MAGICC6),3.0086031368242,Category 2,Category 2,Category 2,O1,N1,P1,T3,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Efficiency_450_conv.transp_nbecs_nsink_limbe,Forcing (MAGICC6),3.0256634321777,Category 2,Category 2,Category 2,O1,N1,P1,T3,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Efficiency_450_conv.transp_noccs,Forcing (MAGICC6),3.0001792870242,Category 2,Category 2,Category 2,O1,N1,P1,T3,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Efficiency_450_conv.transp_noccs_nonuc,Forcing (MAGICC6),2.9964246916415,Category 2,Category 2,Category 2,O1,N1,P1,T3,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Efficiency_450_conv.transp_nonuc,Forcing (MAGICC6),3.0232718707538,Category 2,Category 2,Category 2 - 4,O1,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Efficiency_450_conv.transp_nsink,Forcing (MAGICC6),3.0648581362877,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Mix_450_Illustrative,Forcing (MAGICC6),3.0000427332141,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Mix_450_adv.transp_full,Forcing (MAGICC6),3.0207201898117,Category 2,Category 2,Category 2 - 4,O2,N1,P1,T0,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Mix_450_adv.transp_limbe,Forcing (MAGICC6),2.9738101336512,Category 2,Category 2,Category 1 - 2,O2,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Mix_450_adv.transp_limir,Forcing (MAGICC6),3.0222506228858,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Mix_450_adv.transp_nbecs,Forcing (MAGICC6),2.9946251712634,Category 2,Category 2,Category 2,O1,N1,P1,T3,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Mix_450_adv.transp_noccs,Forcing (MAGICC6),2.9913046203353,Category 2,Category 2,Category 2,O1,N1,P1,T3,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Mix_450_adv.transp_nonuc,Forcing (MAGICC6),3.0291609196919,Category 2,Category 2,Category 2 - 4,O2,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Mix_450_adv.transp_nsink,Forcing (MAGICC6),3.0046215839168,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Mix_450_conv.transp_limbe,Forcing (MAGICC6),2.9946909422864,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Mix_450_conv.transp_limir,Forcing (MAGICC6),3.0332872520249,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Mix_450_conv.transp_nbecs,Forcing (MAGICC6),2.9680377631699,Category 2,Category 2,Category 2,O1,N1,P1,T3,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Mix_450_conv.transp_nonuc,Forcing (MAGICC6),3.0126111850873,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Mix_450_conv.transp_nsink,Forcing (MAGICC6),3.0448165499423,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Supply_450_Illustrative,Forcing (MAGICC6),2.986522224735,Category 2,Category 2,Category 2 - 4,O2,N1,P1,T0,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Supply_450_adv.transp_limbe,Forcing (MAGICC6),2.9741615345091,Category 2,Category 2,Category 1 - 2,O2,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Supply_450_adv.transp_limir,Forcing (MAGICC6),3.0255565188142,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Supply_450_adv.transp_nbecs,Forcing (MAGICC6),2.978308849349,Category 2,Category 2,Category 2,O1,N1,P1,T3,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Supply_450_adv.transp_nonuc,Forcing (MAGICC6),3.0111799152994,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Supply_450_adv.transp_nsink,Forcing (MAGICC6),3.0240158602963,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Supply_450_conv.transp_full,Forcing (MAGICC6),2.9931322161192,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.3,GEA Supply_450_conv.transp_nonuc,Forcing (MAGICC6),3.0067666349178,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,GEA Counterfactual,Policy
+MESSAGE V.4,AMPERE2-450-Conv-OPT,Forcing (MAGICC6),3.3639880231767,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,AMPERE2-Base-Conv-OPT,Policy
+MESSAGE V.4,AMPERE2-450-EERE-OPT,Forcing (MAGICC6),3.1816687766071,Category 2,Category 2,Category 2,O1,N1,P1,T3,AMPERE2-Base-EERE-OPT,Policy
+MESSAGE V.4,AMPERE2-450-FullTech-HST,Forcing (MAGICC6),3.2241937795674,Category 2,Category 2,N/A,O2,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+MESSAGE V.4,AMPERE2-450-FullTech-LST,Forcing (MAGICC6),3.2875997562077,Category 2,Category 2,N/A,O2,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+MESSAGE V.4,AMPERE2-450-FullTech-OPT,Forcing (MAGICC6),3.3105922957883,Category 2,Category 2,Category 2 - 4,O2,N1,P1,T0,AMPERE2-Base-FullTech-OPT,Policy
+MESSAGE V.4,AMPERE2-450-LimBio-LST,Forcing (MAGICC6),3.2505366757877,Category 2,Category 2,N/A,O1,N1,P3,T2,AMPERE2-Base-LimBio-OPT,Policy
+MESSAGE V.4,AMPERE2-450-LimBio-OPT,Forcing (MAGICC6),3.3187158913494,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,AMPERE2-Base-LimBio-OPT,Policy
+MESSAGE V.4,AMPERE2-450-LimSW-HST,Forcing (MAGICC6),3.2694232351006,Category 2,Category 2,N/A,O2,N1,P3,T2,AMPERE2-Base-LimSW-OPT,Policy
+MESSAGE V.4,AMPERE2-450-LimSW-LST,Forcing (MAGICC6),3.3209583901852,Category 2,Category 2,N/A,O2,N1,P3,T2,AMPERE2-Base-LimSW-OPT,Policy
+MESSAGE V.4,AMPERE2-450-LimSW-OPT,Forcing (MAGICC6),3.3784383874471,Category 2,Category 2,Category 2 - 4,O1,N1,P1,T2,AMPERE2-Base-LimSW-OPT,Policy
+MESSAGE V.4,AMPERE2-450-LowEI-HST,Forcing (MAGICC6),3.2075596797106,Category 2,Category 2,N/A,O2,N1,P3,T0,AMPERE2-Base-LowEI-OPT,Policy
+MESSAGE V.4,AMPERE2-450-LowEI-LST,Forcing (MAGICC6),3.1710065841435,Category 2,Category 2,N/A,O2,N1,P3,T0,AMPERE2-Base-LowEI-OPT,Policy
+MESSAGE V.4,AMPERE2-450-LowEI-OPT,Forcing (MAGICC6),3.2011942170962,Category 2,Category 2,Category 2 - 4,O2,N1,P1,T0,AMPERE2-Base-LowEI-OPT,Policy
+MESSAGE V.4,AMPERE2-450-NoCCS-OPT,Forcing (MAGICC6),3.2590559260264,Category 2,Category 2,Category 2,O1,N1,P1,T3,AMPERE2-Base-FullTech-OPT,Policy
+MESSAGE V.4,AMPERE2-450-NucOff-HST,Forcing (MAGICC6),3.2265879563773,Category 2,Category 2,N/A,O2,N1,P3,T2,AMPERE2-Base-NucOff-OPT,Policy
+MESSAGE V.4,AMPERE2-450-NucOff-LST,Forcing (MAGICC6),3.2991486133435,Category 2,Category 2,N/A,O2,N1,P3,T2,AMPERE2-Base-NucOff-OPT,Policy
+MESSAGE V.4,AMPERE2-450-NucOff-OPT,Forcing (MAGICC6),3.3222072971126,Category 2,Category 2,Category 2 - 4,O2,N1,P1,T2,AMPERE2-Base-NucOff-OPT,Policy
+MESSAGE V.4,AMPERE2-550-Conv-OPT,Forcing (MAGICC6),4.2749128205767,Category 4,Category 4,Category 3 - 5,O1,N1,P1,T2,AMPERE2-Base-Conv-OPT,Policy
+MESSAGE V.4,AMPERE2-550-EERE-OPT,Forcing (MAGICC6),4.0333986174036,Category 4,Category 4,Category 4 - 5,O1,N1,P1,T3,AMPERE2-Base-EERE-OPT,Policy
+MESSAGE V.4,AMPERE2-550-FullTech-HST,Forcing (MAGICC6),4.1990445674774,Category 4,Category 4,N/A,O1,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+MESSAGE V.4,AMPERE2-550-FullTech-LST,Forcing (MAGICC6),4.2403707332904,Category 4,Category 4,N/A,O1,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+MESSAGE V.4,AMPERE2-550-FullTech-OPT,Forcing (MAGICC6),4.2138615169841,Category 4,Category 4,Category 4 - 6,O1,N1,P1,T0,AMPERE2-Base-FullTech-OPT,Policy
+MESSAGE V.4,AMPERE2-550-LimBio-OPT,Forcing (MAGICC6),4.2145276839112,Category 4,Category 4,Category 4 - 6,O1,N1,P1,T2,AMPERE2-Base-LimBio-OPT,Policy
+MESSAGE V.4,AMPERE2-550-LimSW-OPT,Forcing (MAGICC6),4.2643552270847,Category 4,Category 4,Category 4 - 6,O1,N1,P1,T2,AMPERE2-Base-LimSW-OPT,Policy
+MESSAGE V.4,AMPERE2-550-LowEI-OPT,Forcing (MAGICC6),4.0570601167711,Category 4,Category 4,Category 4 - 6,O1,N1,P1,T0,AMPERE2-Base-LowEI-OPT,Policy
+MESSAGE V.4,AMPERE2-550-NoCCS-OPT,Forcing (MAGICC6),4.0732282363369,Category 4,Category 4,Category 4 - 5,O1,N1,P1,T3,AMPERE2-Base-FullTech-OPT,Policy
+MESSAGE V.4,AMPERE2-550-NucOff-OPT,Forcing (MAGICC6),4.2335180875779,Category 4,Category 4,Category 4 - 6,O1,N1,P1,T2,AMPERE2-Base-NucOff-OPT,Policy
+MESSAGE V.4,AMPERE3-450,Forcing (MAGICC6),3.3161595377008,Category 2,Category 2,Category 2 - 4,O2,N1,P1,T0,AMPERE3-Base,Policy
+MESSAGE V.4,AMPERE3-450P-EU,Forcing (MAGICC6),3.8214525267377,Category 3,Category 3,N/A,O1,N1,P4,T0,AMPERE3-Base,Policy
+MESSAGE V.4,AMPERE3-550,Forcing (MAGICC6),4.1919796394663,Category 4,Category 4,Category 4 - 6,O1,N1,P1,T0,AMPERE3-Base,Policy
+MESSAGE V.4,AMPERE3-CF450,Forcing (MAGICC6),3.3105922957883,Category 2,Category 2,Category 2 - 4,O2,N1,P1,T0,AMPERE3-Base,Policy
+MESSAGE V.4,AMPERE3-CF550,Forcing (MAGICC6),4.2138615169841,Category 4,Category 4,Category 4 - 6,O1,N1,P1,T0,AMPERE3-Base,Policy
+MESSAGE V.4,AMPERE3-RefP-EU,Forcing (MAGICC6),5.9142805528236,Category 6,Category 6,Category 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+MESSAGE V.4,AMPERE3-RefP-EUback,Forcing (MAGICC6),5.8448431952473,Category 6,Category 6,Category 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+MESSAGE V.4,AMPERE3-RefPol,Forcing (MAGICC6),6.1062123281231,Category 6,Category 6,Category 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+MESSAGE V.4,EMF27-450-EERE,Forcing (MAGICC6),2.949028706631,Category 2,Category 1,Category 2,O1,N1,P1,T3,EMF27-Base-EERE,Policy
+MESSAGE V.4,EMF27-450-FullTech,Forcing (MAGICC6),2.9944079726199,Category 2,Category 1,Category 2 - 4,O2,N1,P1,T0,EMF27-Base-FullTech,Policy
+MESSAGE V.4,EMF27-450-LimBio,Forcing (MAGICC6),2.9433526954667,Category 2,Category 1,Category 1 - 2,O1,N1,P1,T2,EMF27-Base-LimBio,Policy
+MESSAGE V.4,EMF27-450-LimSW,Forcing (MAGICC6),2.9921035514053,Category 2,Category 1,Category 1 - 2,O2,N1,P1,T2,EMF27-Base-LimSW,Policy
+MESSAGE V.4,EMF27-450-LowEI,Forcing (MAGICC6),3.0289049614343,Category 2,Category 2,Category 2 - 4,O2,N1,P1,T0,EMF27-Base-LowEI,Policy
+MESSAGE V.4,EMF27-450-NucOff,Forcing (MAGICC6),3.0026150784831,Category 2,Category 1,Category 2 - 4,O2,N1,P1,T2,EMF27-Base-NucOff,Policy
+MESSAGE V.4,EMF27-550-Conv,Forcing (MAGICC6),3.7935789856474,Category 3,Category 2,Category 1 - 2,O1,N1,P1,T2,EMF27-Base-Conv,Policy
+MESSAGE V.4,EMF27-550-EERE,Forcing (MAGICC6),3.7301820015145,Category 3,Category 3,Category 3 - 4,O1,N1,P1,T3,EMF27-Base-EERE,Policy
+MESSAGE V.4,EMF27-550-FullTech,Forcing (MAGICC6),3.7830123485489,Category 3,Category 2,Category 1 - 2,O1,N1,P1,T0,EMF27-Base-FullTech,Policy
+MESSAGE V.4,EMF27-550-LimBio,Forcing (MAGICC6),3.7709450989007,Category 3,Category 3,Category 1 - 2,O1,N1,P1,T2,EMF27-Base-LimBio,Policy
+MESSAGE V.4,EMF27-550-LimSW,Forcing (MAGICC6),3.8072912810369,Category 3,Category 2,Category 1 - 2,O1,N1,P1,T2,EMF27-Base-LimSW,Policy
+MESSAGE V.4,EMF27-550-LowEI,Forcing (MAGICC6),3.7683438252802,Category 3,Category 3,Category 2 - 4,O1,N1,P1,T0,EMF27-Base-LowEI,Policy
+MESSAGE V.4,EMF27-550-NoCCS,Forcing (MAGICC6),3.7517254301276,Category 3,Category 3,Category 3 - 4,O1,N1,P1,T3,EMF27-Base-FullTech,Policy
+MESSAGE V.4,EMF27-550-NucOff,Forcing (MAGICC6),3.7957610958858,Category 3,Category 2,Category 1 - 2,O1,N1,P1,T2,EMF27-Base-NucOff,Policy
+MESSAGE V.4,LIMITS-450,Forcing (MAGICC6),2.87028507779,Category 1,Category 1,Category 1 - 2,O2,N1,P1,T0,LIMITS-Base,Policy
+MESSAGE V.4,LIMITS-500,Forcing (MAGICC6),3.2583743162579,Category 2,Category 2,Category 2 - 4,O2,N1,P1,T0,LIMITS-Base,Policy
+MESSAGE V.4,LIMITS-RefPol,Forcing (MAGICC6),5.885132271639,Category 6,Category 6,Category 6,O1,N1,P6,T0,LIMITS-Base,Policy
+MESSAGE V.4,LIMITS-RefPol-450,Forcing (MAGICC6),2.8488883243913,Category 1,Category 1,Category 1 - 2,O2,N1,P2,T0,LIMITS-Base,Policy
+MESSAGE V.4,LIMITS-RefPol-450-EE,Forcing (MAGICC6),2.8480488446146,Category 1,Category 1,Category 1 - 2,O2,N1,P2,T0,LIMITS-Base,Policy
+MESSAGE V.4,LIMITS-RefPol-450-PC,Forcing (MAGICC6),2.8492069217125,Category 1,Category 1,Category 1 - 2,O2,N1,P2,T0,LIMITS-Base,Policy
+MESSAGE V.4,LIMITS-RefPol-500,Forcing (MAGICC6),3.2376521619539,Category 2,Category 2,Category 2 - 4,O2,N1,P2,T0,LIMITS-Base,Policy
+MESSAGE V.4,LIMITS-RefPol2030-500,Forcing (MAGICC6),3.2224081915081,Category 2,Category 2,N/A,O2,N1,P3,T0,LIMITS-Base,Policy
+MESSAGE V.4,LIMITS-StrPol,Forcing (MAGICC6),5.4185011060399,Category 6,Category 6,Category 4 - 6,O1,N1,P6,T0,LIMITS-Base,Policy
+MESSAGE V.4,LIMITS-StrPol-450,Forcing (MAGICC6),2.8518423215256,Category 1,Category 1,Category 1 - 2,O2,N1,P2,T0,LIMITS-Base,Policy
+MESSAGE V.4,LIMITS-StrPol-500,Forcing (MAGICC6),3.2420673252345,Category 2,Category 2,Category 2 - 4,O2,N1,P2,T0,LIMITS-Base,Policy
+MiniCAM_EMF22,EMF22 2.6 NTE,Forcing Kyoto Gases (MAGICC6),3.001689189584,Category 1,Category 1,Category 1,O1,N1,P1,T0,EMF22 Reference,Policy
+MiniCAM_EMF22,EMF22 2.6 OS,Forcing Kyoto Gases (MAGICC6),3.0364019364382,Category 1,Category 2,Category 1 - 2,O2,N1,P1,T0,EMF22 Reference,Policy
+MiniCAM_EMF22,EMF22 2.6 OS Lo Tech,Forcing Kyoto Gases (MAGICC6),3.0191208487392,Category 1,Category 1,Category 1,O1,N1,P1,T3,N/A,Policy
+MiniCAM_EMF22,EMF22 2.6 OS w Delay,Forcing Kyoto Gases (MAGICC6),3.0481206177271,Category 1,Category 2,N/A,O2,N1,P5,T0,EMF22 Reference,Policy
+MiniCAM_EMF22,EMF22 3.7 NTE,Forcing Kyoto Gases (MAGICC6),4.0407596275963,Category 3,Category 4,Category 2 - 4,O1,N1,P1,T0,EMF22 Reference,Policy
+MiniCAM_EMF22,EMF22 3.7 NTE Lo Tech,Forcing Kyoto Gases (MAGICC6),4.0334159649691,Category 3,Category 4,Category 3 - 4,O1,N1,P1,T3,N/A,Policy
+MiniCAM_EMF22,EMF22 3.7 OS,Forcing Kyoto Gases (MAGICC6),4.0389462394848,Category 3,Category 4,Category 4 - 6,O1,N1,P1,T0,EMF22 Reference,Policy
+MiniCAM_EMF22,EMF22 3.7 OS Lo Tech,Forcing Kyoto Gases (MAGICC6),4.0334159649691,Category 3,Category 4,Category 3 - 4,O1,N1,P1,T3,N/A,Policy
+MiniCAM_EMF22,EMF22 3.7 OS w Delay,Forcing Kyoto Gases (MAGICC6),4.0361371448242,Category 3,Category 4,N/A,O1,N1,P5,T0,EMF22 Reference,Policy
+MiniCAM_EMF22,EMF22 3.7 OS w Delay Lo Tech,Forcing Kyoto Gases (MAGICC6),3.9511484556674,Category 3,Category 4,N/A,O1,N1,P5,T3,N/A,Policy
+MiniCAM_EMF22,EMF22 4.5 NTE,Forcing Kyoto Gases (MAGICC6),4.8035529924525,Category 5,Category 5,Category 4 - 6,O1,N1,P1,T0,EMF22 Reference,Policy
+MiniCAM_EMF22,EMF22 4.5 NTE Lo Tech,Forcing Kyoto Gases (MAGICC6),4.7446491525346,Category 5,Category 5,Category 5 - 6,O1,N1,P1,T3,N/A,Policy
+MiniCAM_EMF22,EMF22 4.5 NTE w Delay,Forcing Kyoto Gases (MAGICC6),4.7532337006604,Category 5,Category 5,N/A,O1,N1,P5,T0,EMF22 Reference,Policy
+MiniCAM_EMF22,EMF22 4.5 NTE w Delay Lo Tech,Forcing Kyoto Gases (MAGICC6),4.734875125135,Category 5,Category 5,N/A,O1,N1,P5,T3,N/A,Policy
+POLES AMPERE,AMPERE2-450-Conv-HST,Carbon Budget 2100,1153642.3921875,Category 2,Category 2,N/A,N/A,N1,P3,T2,AMPERE2-Base-Conv-OPT,Policy
+POLES AMPERE,AMPERE2-450-Conv-LST,Carbon Budget 2100,1131203.755625,Category 2,Category 2,N/A,N/A,N1,P3,T2,AMPERE2-Base-Conv-OPT,Policy
+POLES AMPERE,AMPERE2-450-Conv-OPT,Carbon Budget 2100,1103583.9425,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T2,AMPERE2-Base-Conv-OPT,Policy
+POLES AMPERE,AMPERE2-450-EERE-OPT,Carbon Budget 2100,1102397.9175,Category 2,Category 2,Category 2,N/A,N1,P1,T3,AMPERE2-Base-EERE-OPT,Policy
+POLES AMPERE,AMPERE2-450-FullTech-HST,Carbon Budget 2100,1121547.800625,Category 2,Category 2,N/A,N/A,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+POLES AMPERE,AMPERE2-450-FullTech-LST,Carbon Budget 2100,1112293.4407812,Category 2,Category 2,N/A,N/A,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+POLES AMPERE,AMPERE2-450-FullTech-OPT,Carbon Budget 2100,1089769.7657568,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T0,AMPERE2-Base-FullTech-OPT,Policy
+POLES AMPERE,AMPERE2-450-LimBio-HST,Carbon Budget 2100,1144114.2425,Category 2,Category 2,N/A,N/A,N1,P3,T2,AMPERE2-Base-LimBio-OPT,Policy
+POLES AMPERE,AMPERE2-450-LimBio-LST,Carbon Budget 2100,1130231.230625,Category 2,Category 2,N/A,N/A,N1,P3,T2,AMPERE2-Base-LimBio-OPT,Policy
+POLES AMPERE,AMPERE2-450-LimBio-OPT,Carbon Budget 2100,1100216.9957813,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T2,AMPERE2-Base-LimBio-OPT,Policy
+POLES AMPERE,AMPERE2-450-LimSW-HST,Carbon Budget 2100,1124436.8009375,Category 2,Category 2,N/A,N/A,N1,P3,T2,AMPERE2-Base-LimSW-OPT,Policy
+POLES AMPERE,AMPERE2-450-LimSW-LST,Carbon Budget 2100,1114037.035625,Category 2,Category 2,N/A,N/A,N1,P3,T2,AMPERE2-Base-LimSW-OPT,Policy
+POLES AMPERE,AMPERE2-450-LimSW-OPT,Carbon Budget 2100,1090169.7429688,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T2,AMPERE2-Base-LimSW-OPT,Policy
+POLES AMPERE,AMPERE2-450-LowEI-HST,Carbon Budget 2100,1113785.7940625,Category 2,Category 2,N/A,N/A,N1,P3,T0,AMPERE2-Base-LowEI-OPT,Policy
+POLES AMPERE,AMPERE2-450-LowEI-LST,Carbon Budget 2100,1108736.8326563,Category 2,Category 2,N/A,N/A,N1,P3,T0,AMPERE2-Base-LowEI-OPT,Policy
+POLES AMPERE,AMPERE2-450-LowEI-OPT,Carbon Budget 2100,1092860.039375,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T0,AMPERE2-Base-LowEI-OPT,Policy
+POLES AMPERE,AMPERE2-450-NucOff-HST,Carbon Budget 2100,1119410.88125,Category 2,Category 2,N/A,N/A,N1,P3,T2,AMPERE2-Base-NucOff-OPT,Policy
+POLES AMPERE,AMPERE2-450-NucOff-LST,Carbon Budget 2100,1108661.5988281,Category 2,Category 2,N/A,N/A,N1,P3,T2,AMPERE2-Base-NucOff-OPT,Policy
+POLES AMPERE,AMPERE2-450-NucOff-OPT,Carbon Budget 2100,1110624.636875,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T2,AMPERE2-Base-NucOff-OPT,Policy
+POLES AMPERE,AMPERE2-550-Conv-OPT,Carbon Budget 2100,2085364.03,Category 4,Category 4,Category 2 - 4,N/A,N1,P1,T2,AMPERE2-Base-Conv-OPT,Policy
+POLES AMPERE,AMPERE2-550-EERE-OPT,Carbon Budget 2100,2097920.165,Category 4,Category 4,Category 3 - 4,N/A,N1,P1,T3,AMPERE2-Base-EERE-OPT,Policy
+POLES AMPERE,AMPERE2-550-FullTech-HST,Carbon Budget 2100,2086985.2775,Category 4,Category 4,N/A,N/A,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+POLES AMPERE,AMPERE2-550-FullTech-LST,Carbon Budget 2100,2087445.9525,Category 4,Category 4,N/A,N/A,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+POLES AMPERE,AMPERE2-550-FullTech-OPT,Carbon Budget 2100,2085974.91,Category 4,Category 4,Category 2 - 4,N/A,N1,P1,T0,AMPERE2-Base-FullTech-OPT,Policy
+POLES AMPERE,AMPERE2-550-LimBio-OPT,Carbon Budget 2100,2086603.09,Category 4,Category 4,Category 2 - 4,N/A,N1,P1,T2,AMPERE2-Base-LimBio-OPT,Policy
+POLES AMPERE,AMPERE2-550-LimSW-OPT,Carbon Budget 2100,2075352.0075,Category 4,Category 4,Category 2 - 4,N/A,N1,P1,T2,AMPERE2-Base-LimSW-OPT,Policy
+POLES AMPERE,AMPERE2-550-LowEI-OPT,Carbon Budget 2100,2095880.58,Category 4,Category 4,Category 2 - 4,N/A,N1,P1,T0,AMPERE2-Base-LowEI-OPT,Policy
+POLES AMPERE,AMPERE2-550-NoCCS-OPT,Carbon Budget 2100,2099520.935,Category 4,Category 4,Category 3 - 4,N/A,N1,P1,T3,AMPERE2-Base-FullTech-OPT,Policy
+POLES AMPERE,AMPERE2-550-NucOff-OPT,Carbon Budget 2100,2085054.4,Category 4,Category 4,Category 2 - 4,N/A,N1,P1,T2,AMPERE2-Base-NucOff-OPT,Policy
+POLES AMPERE,AMPERE3-450,Carbon Budget 2100,1091080.6916406,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T0,AMPERE3-Base,Policy
+POLES AMPERE,AMPERE3-450P-CE,Carbon Budget 2100,1334580.2596875,Category 2,Category 2,N/A,N/A,N1,P4,T0,AMPERE3-Base,Policy
+POLES AMPERE,AMPERE3-450P-EU,Carbon Budget 2100,1484766.3084375,Category 2,Category 2,N/A,N/A,N1,P4,T0,AMPERE3-Base,Policy
+POLES AMPERE,AMPERE3-550,Carbon Budget 2100,2074361.655,Category 4,Category 4,Category 2 - 4,N/A,N1,P1,T0,AMPERE3-Base,Policy
+POLES AMPERE,AMPERE3-550P-EU,Carbon Budget 2100,2285403.225,Category 4,Category 4,N/A,N/A,N1,P4,T0,AMPERE3-Base,Policy
+POLES AMPERE,AMPERE3-Base-EUback,Carbon Budget 2100,5558645,Category 7,Category 7,Category 6,N/A,N1,P0,T0,AMPERE3-Base,Policy
+POLES AMPERE,AMPERE3-CF450,Carbon Budget 2100,1083885.6523438,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T0,AMPERE3-Base,Policy
+POLES AMPERE,AMPERE3-CF450P-EU,Carbon Budget 2100,1606887.405,Category 3,Category 3,N/A,N/A,N1,P4,T0,AMPERE3-Base,Policy
+POLES AMPERE,AMPERE3-CF550,Carbon Budget 2100,2091485.7875,Category 4,Category 4,Category 2 - 4,N/A,N1,P1,T0,AMPERE3-Base,Policy
+POLES AMPERE,AMPERE3-RefP-CEback,Carbon Budget 2100,3765841.16,Category 6,Category 6,Category 4 - 6,N/A,N1,P6,T0,AMPERE3-Base,Policy
+POLES AMPERE,AMPERE3-RefP-EUback,Carbon Budget 2100,4075099.38,Category 6,Category 6,Category 6,N/A,N1,P6,T0,AMPERE3-Base,Policy
+POLES AMPERE,AMPERE3-RefPol,Carbon Budget 2100,4078078.82,Category 6,Category 6,Category 6,N/A,N1,P6,T0,AMPERE3-Base,Policy
+POLES EMF27,EMF27-450-Conv,Carbon Budget 2100,954748.43515625,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T2,EMF27-Base-Conv,Policy
+POLES EMF27,EMF27-450-EERE,Carbon Budget 2100,969745.1125,Category 2,Category 2,Category 1,N/A,N1,P1,T3,EMF27-Base-EERE,Policy
+POLES EMF27,EMF27-450-FullTech,Carbon Budget 2100,922646.27960938,Category 1,Category 1,Category 1 - 2,N/A,N1,P1,T0,EMF27-Base-FullTech,Policy
+POLES EMF27,EMF27-450-LimBio,Carbon Budget 2100,959060.34214844,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T2,EMF27-Base-LimBio,Policy
+POLES EMF27,EMF27-450-LimSW,Carbon Budget 2100,906024.219375,Category 1,Category 1,Category 1 - 2,N/A,N1,P1,T2,EMF27-Base-LimSW,Policy
+POLES EMF27,EMF27-450-LowEI,Carbon Budget 2100,933119.330625,Category 1,Category 1,Category 1 - 2,N/A,N1,P1,T0,EMF27-Base-LowEI,Policy
+POLES EMF27,EMF27-450-NoCCS,Carbon Budget 2100,945305.4175,Category 1,Category 1,Category 1,N/A,N1,P1,T3,EMF27-Base-FullTech,Policy
+POLES EMF27,EMF27-450-NucOff,Carbon Budget 2100,922040.155625,Category 1,Category 1,Category 1 - 2,N/A,N1,P1,T2,EMF27-Base-NucOff,Policy
+POLES EMF27,EMF27-550-Conv,Carbon Budget 2100,1661629.535,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T2,EMF27-Base-Conv,Policy
+POLES EMF27,EMF27-550-EERE,Carbon Budget 2100,1676325.8725,Category 3,Category 3,Category 2,N/A,N1,P1,T3,EMF27-Base-EERE,Policy
+POLES EMF27,EMF27-550-FullTech,Carbon Budget 2100,1661461.145,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T0,EMF27-Base-FullTech,Policy
+POLES EMF27,EMF27-550-LimBio,Carbon Budget 2100,1656525.0175,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T2,EMF27-Base-LimBio,Policy
+POLES EMF27,EMF27-550-LimSW,Carbon Budget 2100,1650592.355,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T2,EMF27-Base-LimSW,Policy
+POLES EMF27,EMF27-550-LowEI,Carbon Budget 2100,1664832.2875,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T0,EMF27-Base-LowEI,Policy
+POLES EMF27,EMF27-550-NoCCS,Carbon Budget 2100,1674967.625,Category 3,Category 3,Category 2,N/A,N1,P1,T3,EMF27-Base-FullTech,Policy
+POLES EMF27,EMF27-550-NucOff,Carbon Budget 2100,1659907.0375,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T2,EMF27-Base-NucOff,Policy
+POLES EMF27,EMF27-G8-EERE,Carbon Budget 2100,1774258.49,Category 3,Category 3,N/A,N/A,N1,P7,T3,EMF27-Base-EERE,Policy
+POLES EMF27,EMF27-G8-FullTech,Carbon Budget 2100,1987053.09,Category 4,Category 4,N/A,N/A,N1,P7,T0,EMF27-Base-FullTech,Policy
+POLES-AME,AME CO2 price $10 (5% p.a.),Carbon Budget 2050,1476829,Category 4 - 6,N/A,Category 4 - 6,N/A,N/A,P1,T0,AME Reference,Policy
+POLES-AME,AME CO2 price $30 (5% p.a.),Carbon Budget 2050,1212435.5,Category 2 - 4,N/A,Category 2 - 4,N/A,N/A,P1,T0,AME Reference,Policy
+POLES-AME,AME CO2 price $50 (5% p.a.),Carbon Budget 2050,1071353,Category 1 - 2,N/A,Category 1 - 2,N/A,N/A,P1,T0,AME Reference,Policy
+Phoenix 2012.4,AME 3.7 W/m2 NTE,Carbon Budget 2050,814807.30376761,Category 1,N/A,Category 1,N/A,N/A,P1,T1,AME Reference,Policy
+Phoenix 2012.4,AME CO2 price $10 (5% p.a.),Carbon Budget 2050,1248439.9188176,Category 3 - 4,N/A,Category 3 - 4,N/A,N/A,P1,T1,AME Reference,Policy
+Phoenix 2012.4,AME CO2 price $30 (5% p.a.),Carbon Budget 2050,907556.55330466,Category 2,N/A,Category 2,N/A,N/A,P1,T1,AME Reference,Policy
+Phoenix 2012.4,AME CO2 price $50 (5% p.a.),Carbon Budget 2050,745980.02380364,Category 1,N/A,Category 1,N/A,N/A,P1,T1,AME Reference,Policy
+Phoenix 2012.4,EMF27-450-Conv,Carbon Budget 2050,891994.15401984,Category 2,N/A,Category 2,N/A,N/A,P1,T3,EMF27-Base-Conv,Policy
+Phoenix 2012.4,EMF27-450-EERE,Carbon Budget 2050,898592.77190489,Category 2,N/A,Category 2,N/A,N/A,P1,T3,EMF27-Base-EERE,Policy
+Phoenix 2012.4,EMF27-450-FullTech,Carbon Budget 2050,891763.09837685,Category 2,N/A,Category 2,N/A,N/A,P1,T1,EMF27-Base-FullTech,Policy
+Phoenix 2012.4,EMF27-450-LimBio,Carbon Budget 2050,891763.09837685,Category 2,N/A,Category 2,N/A,N/A,P1,T3,EMF27-Base-LimBio,Policy
+Phoenix 2012.4,EMF27-450-LimSW,Carbon Budget 2050,891994.15401984,Category 2,N/A,Category 2,N/A,N/A,P1,T3,EMF27-Base-LimSW,Policy
+Phoenix 2012.4,EMF27-450-LimTech,Carbon Budget 2050,888600.24498007,Category 2,N/A,Category 2,N/A,N/A,P1,T3,EMF27-Base-LimTech,Policy
+Phoenix 2012.4,EMF27-450-LowEI,Carbon Budget 2050,904175.36682625,Category 2,N/A,Category 2,N/A,N/A,P1,T1,EMF27-Base-LowEI,Policy
+Phoenix 2012.4,EMF27-450-NoCCS,Carbon Budget 2050,904153.09714978,Category 2,N/A,Category 2,N/A,N/A,P1,T3,EMF27-Base-FullTech,Policy
+Phoenix 2012.4,EMF27-450-NucOff,Carbon Budget 2050,894376.47342764,Category 2,N/A,Category 2,N/A,N/A,P1,T3,EMF27-Base-NucOff,Policy
+Phoenix 2012.4,EMF27-550-Conv,Carbon Budget 2050,1104709.4113692,Category 2,N/A,Category 2,N/A,N/A,P1,T3,EMF27-Base-Conv,Policy
+Phoenix 2012.4,EMF27-550-EERE,Carbon Budget 2050,1050321.8495889,Category 2,N/A,Category 2,N/A,N/A,P1,T3,EMF27-Base-EERE,Policy
+Phoenix 2012.4,EMF27-550-FullTech,Carbon Budget 2050,1104269.7848515,Category 2,N/A,Category 2,N/A,N/A,P1,T1,EMF27-Base-FullTech,Policy
+Phoenix 2012.4,EMF27-550-LimBio,Carbon Budget 2050,1104709.4113692,Category 2,N/A,Category 2,N/A,N/A,P1,T3,EMF27-Base-LimBio,Policy
+Phoenix 2012.4,EMF27-550-LimSW,Carbon Budget 2050,1104709.4113692,Category 2,N/A,Category 2,N/A,N/A,P1,T3,EMF27-Base-LimSW,Policy
+Phoenix 2012.4,EMF27-550-LimTech,Carbon Budget 2050,1077176.6018485,Category 2,N/A,Category 2,N/A,N/A,P1,T3,EMF27-Base-LimTech,Policy
+Phoenix 2012.4,EMF27-550-LowEI,Carbon Budget 2050,1020282.2371525,Category 2,N/A,Category 2,N/A,N/A,P1,T1,EMF27-Base-LowEI,Policy
+Phoenix 2012.4,EMF27-550-NoCCS,Carbon Budget 2050,1112066.9122785,Category 2,N/A,Category 2,N/A,N/A,P1,T3,EMF27-Base-FullTech,Policy
+Phoenix 2012.4,EMF27-550-NucOff,Carbon Budget 2050,1064633.6473949,Category 2,N/A,Category 2,N/A,N/A,P1,T3,EMF27-Base-NucOff,Policy
+REMIND 1.1,400ppm,Carbon Budget 2100,1163286.0396667,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T0,baseline,Policy
+REMIND 1.1,400ppmbiomax,Carbon Budget 2100,1163286.0404,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T0,baselinebiomax,Policy
+REMIND 1.1,400ppmbiomin,Carbon Budget 2100,1163286.04095,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T2,baselinebiomin,Policy
+REMIND 1.1,400ppmccsmin,Carbon Budget 2100,1163286.0457167,Category 2,Category 2,Category 2,N/A,N1,P1,T3,baseline,Policy
+REMIND 1.1,400ppmnonuke,Carbon Budget 2100,1163286.0438833,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T2,baseline,Policy
+REMIND 1.1,450ppm,Carbon Budget 2100,1561082.71275,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T0,baseline,Policy
+REMIND 1.1,550ppm,Carbon Budget 2100,2137317.7070667,Category 4,Category 4,Category 2 - 4,N/A,N1,P1,T0,baseline,Policy
+REMIND 1.1,550ppmbiomax,Carbon Budget 2100,2137317.70615,Category 4,Category 4,Category 2 - 4,N/A,N1,P1,T2,baselinebiomax,Policy
+REMIND 1.1,550ppmbiomin,Carbon Budget 2100,2137317.7076167,Category 4,Category 4,Category 2 - 4,N/A,N1,P1,T0,baselinebiomin,Policy
+REMIND 1.1,550ppmnoccs,Carbon Budget 2100,2137317.70835,Category 4,Category 4,Category 3 - 4,N/A,N1,P1,T3,baseline,Policy
+REMIND 1.1,550ppmnonuke,Carbon Budget 2100,2137317.7101833,Category 4,Category 4,Category 2 - 4,N/A,N1,P1,T2,baseline,Policy
+REMIND 1.1,550ppmnorenew,Carbon Budget 2100,2137317.70835,Category 4,Category 4,Category 2 - 4,N/A,N1,P1,T2,baseline,Policy
+REMIND 1.2,410CO2os-DEF,Carbon Budget 2100,1320414.3293,Category 2,Category 2,Category 1 - 2,N/A,N1,P1,T0,Baseline,Policy
+REMIND 1.2,450CO2-EUonly,Carbon Budget 2100,1937207.80935,Category 3,Category 3,N/A,N/A,N1,P7,T0,Baseline,Policy
+REMIND 1.2,450CO2-IC+CHN+IND,Carbon Budget 2100,1915225.8247833,Category 3,Category 3,N/A,N/A,N1,P7,T0,Baseline,Policy
+REMIND 1.2,450CO2-IConly,Carbon Budget 2100,1922899.2913167,Category 3,Category 3,N/A,N/A,N1,P7,T0,Baseline,Policy
+REMIND 1.2,450CO2-delay2020,Carbon Budget 2100,1944130.0739667,Category 3,Category 3,N/A,N/A,N1,P7,T0,Baseline,Policy
+REMIND 1.2,450CO2-fixBIO,Carbon Budget 2100,1769375.377,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T2,Baseline,Policy
+REMIND 1.2,450CO2-fixNUC,Carbon Budget 2100,1775428.3174833,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T2,Baseline,Policy
+REMIND 1.2,450CO2-fixRET,Carbon Budget 2100,1767911.0879833,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T2,Baseline,Policy
+REMIND 1.2,450CO2-noCCS,Carbon Budget 2100,1772848.5962,Category 3,Category 3,Category 2,N/A,N1,P1,T3,Baseline,Policy
+REMIND 1.2,450CO2-noCCSfixNUC,Carbon Budget 2100,1771969.9613,Category 3,Category 3,Category 2,N/A,N1,P1,T3,Baseline,Policy
+REMIND 1.2,450CO2nte-DEF,Carbon Budget 2100,1775417.7354833,Category 3,Category 3,Category 1 - 2,N/A,N1,P1,T0,Baseline,Policy
+REMIND 1.2,450CO2os-DEF,Carbon Budget 2100,1907288.9405167,Category 3,Category 3,Category 2 - 4,N/A,N1,P1,T0,Baseline,Policy
+REMIND 1.3,AME 2.6 W/m2 OS,Forcing Kyoto Gases (MAGICC6),3.0607066591627,Category 1,Category 2,Category 1 - 2,O1,N1,P1,T0,AME Reference,Policy
+REMIND 1.3,AME 3.7 W/m2 NTE,Forcing Kyoto Gases (MAGICC6),4.2142432782654,Category 4,Category 4,Category 3 - 5,O1,N1,P1,T0,AME Reference,Policy
+REMIND 1.3,AME CO2 price $10 (5% p.a.),Forcing Kyoto Gases (MAGICC6),4.4003960656121,Category 4,Category 4,Category 6,O1,N1,P1,T0,AME Reference,Policy
+REMIND 1.3,AME CO2 price $30 (5% p.a.),Forcing Kyoto Gases (MAGICC6),3.2813056711875,Category 2,Category 2,Category 2 - 4,O1,N1,P1,T0,AME Reference,Policy
+REMIND 1.3,AME CO2 price $50 (5% p.a.),Forcing Kyoto Gases (MAGICC6),2.8874175175012,Category 1,Category 1,Category 1 - 2,O1,N1,P1,T0,AME Reference,Policy
+REMIND 1.4,ROSE 450 DEF,Forcing (MAGICC6),2.9554775611058,Category 2,Category 2,Category 1 - 2,O2,N1,P1,T0,ROSE BAU DEF,Policy
+REMIND 1.4,ROSE 450 FS Gr,Forcing (MAGICC6),2.9568865807997,Category 2,Category 2,Category 1 - 2,O2,N1,P1,T0,ROSE BAU FS Gr,Policy
+REMIND 1.4,ROSE 450 FS Gr SL Con,Forcing (MAGICC6),2.9589361850329,Category 2,Category 2,Category 1 - 2,O2,N1,P1,T0,ROSE BAU FS Gr SL Con,Policy
+REMIND 1.4,ROSE 450 HI Coal,Forcing (MAGICC6),2.9493158962603,Category 2,Category 2,Category 1 - 2,O2,N1,P1,T0,ROSE BAU HI Coal,Policy
+REMIND 1.4,ROSE 450 HI Fos,Forcing (MAGICC6),2.9574515437288,Category 2,Category 2,Category 1 - 2,O2,N1,P1,T0,ROSE BAU HI Fos,Policy
+REMIND 1.4,ROSE 450 HI Pop,Forcing (MAGICC6),2.9711945106182,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T0,ROSE BAU HI Pop,Policy
+REMIND 1.4,ROSE 450 LO Fos,Forcing (MAGICC6),2.9457239726767,Category 2,Category 2,Category 1 - 2,O2,N1,P1,T0,ROSE BAU LO Fos,Policy
+REMIND 1.4,ROSE 450 LO Oil,Forcing (MAGICC6),2.9539214360347,Category 2,Category 2,Category 1 - 2,O2,N1,P1,T0,ROSE BAU LO Oil,Policy
+REMIND 1.4,ROSE 450 SL Gr,Forcing (MAGICC6),2.9546704932478,Category 2,Category 2,Category 1 - 2,O2,N1,P1,T0,ROSE BAU SL Gr,Policy
+REMIND 1.4,ROSE 550 DEF,Forcing (MAGICC6),3.8677638118401,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,ROSE BAU DEF,Policy
+REMIND 1.4,ROSE 550 FS Gr,Forcing (MAGICC6),3.865238497714,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,ROSE BAU FS Gr,Policy
+REMIND 1.4,ROSE 550 FS Gr SL Con,Forcing (MAGICC6),3.8560842727694,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,ROSE BAU FS Gr SL Con,Policy
+REMIND 1.4,ROSE 550 HI Coal,Forcing (MAGICC6),3.8705085240663,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,ROSE BAU HI Coal,Policy
+REMIND 1.4,ROSE 550 HI Fos,Forcing (MAGICC6),3.8639689847583,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,ROSE BAU HI Fos,Policy
+REMIND 1.4,ROSE 550 HI Gas,Forcing (MAGICC6),3.8503225308512,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,ROSE BAU HI Gas,Policy
+REMIND 1.4,ROSE 550 HI Pop,Forcing (MAGICC6),3.9020698180783,Category 4,Category 4,Category 3 - 5,O1,N1,P1,T0,ROSE BAU HI Pop,Policy
+REMIND 1.4,ROSE 550 LO Fos,Forcing (MAGICC6),3.8918872572734,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,ROSE BAU LO Fos,Policy
+REMIND 1.4,ROSE 550 LO Oil,Forcing (MAGICC6),3.835955262491,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,ROSE BAU LO Oil,Policy
+REMIND 1.4,ROSE 550 SL Gr,Forcing (MAGICC6),3.8719118584203,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,ROSE BAU SL Gr,Policy
+REMIND 1.4,ROSE WEAK-2020 DEF,Forcing (MAGICC6),2.9746503642155,Category 2,Category 2,Category 2 - 4,O2,N1,P2,T0,ROSE BAU DEF,Policy
+REMIND 1.4,ROSE WEAK-2030 DEF,Forcing (MAGICC6),2.9952744810255,Category 2,Category 2,N/A,O2,N1,P3,T0,ROSE BAU DEF,Policy
+REMIND 1.4,ROSE WEAK-POL DEF,Forcing (MAGICC6),6.0872002630325,Category 6,Category 6,Category 7,O1,N1,P6,T0,ROSE BAU DEF,Policy
+REMIND 1.5,AMPERE2-450-Conv-HST,Forcing (MAGICC6),3.0884141387121,Category 2,Category 2,N/A,O2,N1,P3,T2,AMPERE2-Base-Conv-OPT,Policy
+REMIND 1.5,AMPERE2-450-Conv-LST,Forcing (MAGICC6),3.0959060299652,Category 2,Category 2,N/A,O1,N1,P3,T2,AMPERE2-Base-Conv-OPT,Policy
+REMIND 1.5,AMPERE2-450-Conv-OPT,Forcing (MAGICC6),3.1650379533389,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,AMPERE2-Base-Conv-OPT,Policy
+REMIND 1.5,AMPERE2-450-EERE-OPT,Forcing (MAGICC6),3.1944521547463,Category 2,Category 2,Category 2,O1,N1,P1,T3,AMPERE2-Base-EERE-OPT,Policy
+REMIND 1.5,AMPERE2-450-FullTech-HST,Forcing (MAGICC6),3.0833335948722,Category 2,Category 2,N/A,O2,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+REMIND 1.5,AMPERE2-450-FullTech-LST,Forcing (MAGICC6),3.0861489836607,Category 2,Category 2,N/A,O2,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+REMIND 1.5,AMPERE2-450-FullTech-OPT,Forcing (MAGICC6),3.1149546516672,Category 2,Category 2,Category 2 - 4,O1,N1,P1,T0,AMPERE2-Base-FullTech-OPT,Policy
+REMIND 1.5,AMPERE2-450-LimBio-HST,Forcing (MAGICC6),3.088237536028,Category 2,Category 2,N/A,O2,N1,P3,T2,AMPERE2-Base-LimBio-OPT,Policy
+REMIND 1.5,AMPERE2-450-LimBio-LST,Forcing (MAGICC6),3.0897643333209,Category 2,Category 2,N/A,O1,N1,P3,T2,AMPERE2-Base-LimBio-OPT,Policy
+REMIND 1.5,AMPERE2-450-LimBio-OPT,Forcing (MAGICC6),3.1295010484189,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,AMPERE2-Base-LimBio-OPT,Policy
+REMIND 1.5,AMPERE2-450-LimSW-HST,Forcing (MAGICC6),3.0968972265148,Category 2,Category 2,N/A,O2,N1,P3,T2,AMPERE2-Base-LimSW-OPT,Policy
+REMIND 1.5,AMPERE2-450-LimSW-LST,Forcing (MAGICC6),3.1125456545057,Category 2,Category 2,N/A,O2,N1,P3,T2,AMPERE2-Base-LimSW-OPT,Policy
+REMIND 1.5,AMPERE2-450-LimSW-OPT,Forcing (MAGICC6),3.1503005265997,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,AMPERE2-Base-LimSW-OPT,Policy
+REMIND 1.5,AMPERE2-450-LowEI-HST,Forcing (MAGICC6),3.0888937464408,Category 2,Category 2,N/A,O2,N1,P3,T0,AMPERE2-Base-LowEI-OPT,Policy
+REMIND 1.5,AMPERE2-450-LowEI-LST,Forcing (MAGICC6),3.0887847549756,Category 2,Category 2,N/A,O2,N1,P3,T0,AMPERE2-Base-LowEI-OPT,Policy
+REMIND 1.5,AMPERE2-450-LowEI-OPT,Forcing (MAGICC6),3.1143098151971,Category 2,Category 2,Category 2 - 4,O2,N1,P1,T0,AMPERE2-Base-LowEI-OPT,Policy
+REMIND 1.5,AMPERE2-450-NoCCS-OPT,Forcing (MAGICC6),3.1960124089527,Category 2,Category 2,Category 2,O1,N1,P1,T3,AMPERE2-Base-FullTech-OPT,Policy
+REMIND 1.5,AMPERE2-450-NucOff-HST,Forcing (MAGICC6),3.0827889692107,Category 2,Category 2,N/A,O2,N1,P3,T2,AMPERE2-Base-NucOff-OPT,Policy
+REMIND 1.5,AMPERE2-450-NucOff-LST,Forcing (MAGICC6),3.0858422011464,Category 2,Category 2,N/A,O2,N1,P3,T2,AMPERE2-Base-NucOff-OPT,Policy
+REMIND 1.5,AMPERE2-450-NucOff-OPT,Forcing (MAGICC6),3.1137430180135,Category 2,Category 2,Category 2 - 4,O1,N1,P1,T2,AMPERE2-Base-NucOff-OPT,Policy
+REMIND 1.5,AMPERE2-550-Conv-OPT,Forcing (MAGICC6),3.924049920036,Category 4,Category 4,Category 2 - 4,O1,N1,P1,T2,AMPERE2-Base-Conv-OPT,Policy
+REMIND 1.5,AMPERE2-550-EERE-OPT,Forcing (MAGICC6),3.943965927076,Category 4,Category 4,Category 4 - 5,O1,N1,P1,T3,AMPERE2-Base-EERE-OPT,Policy
+REMIND 1.5,AMPERE2-550-FullTech-HST,Forcing (MAGICC6),3.8875286700065,Category 3,Category 4,N/A,O1,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+REMIND 1.5,AMPERE2-550-FullTech-LST,Forcing (MAGICC6),3.9046646493723,Category 4,Category 4,N/A,O1,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+REMIND 1.5,AMPERE2-550-FullTech-OPT,Forcing (MAGICC6),3.9094512093651,Category 4,Category 4,Category 4 - 6,O1,N1,P1,T0,AMPERE2-Base-FullTech-OPT,Policy
+REMIND 1.5,AMPERE2-550-LimBio-OPT,Forcing (MAGICC6),3.9049130922112,Category 4,Category 4,Category 3 - 5,O1,N1,P1,T2,AMPERE2-Base-LimBio-OPT,Policy
+REMIND 1.5,AMPERE2-550-LimSW-OPT,Forcing (MAGICC6),3.9307557898375,Category 4,Category 4,Category 3 - 5,O1,N1,P1,T2,AMPERE2-Base-LimSW-OPT,Policy
+REMIND 1.5,AMPERE2-550-LowEI-OPT,Forcing (MAGICC6),3.930155658944,Category 4,Category 4,Category 4 - 6,O1,N1,P1,T0,AMPERE2-Base-LowEI-OPT,Policy
+REMIND 1.5,AMPERE2-550-NoCCS-OPT,Forcing (MAGICC6),3.9332360368623,Category 4,Category 4,Category 4 - 5,O1,N1,P1,T3,AMPERE2-Base-FullTech-OPT,Policy
+REMIND 1.5,AMPERE2-550-NucOff-OPT,Forcing (MAGICC6),3.9073553074315,Category 4,Category 4,Category 4 - 6,O1,N1,P1,T2,AMPERE2-Base-NucOff-OPT,Policy
+REMIND 1.5,AMPERE3-450,Forcing (MAGICC6),3.0978501323158,Category 2,Category 2,Category 2 - 4,O1,N1,P1,T0,AMPERE3-Base,Policy
+REMIND 1.5,AMPERE3-450P-CE,Forcing (MAGICC6),3.3421058571359,Category 2,Category 2,N/A,O2,N1,P4,T0,AMPERE3-Base,Policy
+REMIND 1.5,AMPERE3-450P-EU,Forcing (MAGICC6),3.4346834368578,Category 2,Category 3,N/A,O2,N1,P4,T0,AMPERE3-Base,Policy
+REMIND 1.5,AMPERE3-550,Forcing (MAGICC6),3.892284762635,Category 3,Category 4,Category 4 - 6,O1,N1,P1,T0,AMPERE3-Base,Policy
+REMIND 1.5,AMPERE3-550P-EU,Forcing (MAGICC6),4.1565113691348,Category 4,Category 4,N/A,O1,N1,P4,T0,AMPERE3-Base,Policy
+REMIND 1.5,AMPERE3-Base-EU,Forcing (MAGICC6),7.3573992279521,Category 7,Category 7,Category 7,O1,N1,P0,T0,AMPERE3-Base,Policy
+REMIND 1.5,AMPERE3-Base-EUback,Forcing (MAGICC6),7.3296123867347,Category 7,Category 7,Category 7,O1,N1,P0,T0,AMPERE3-Base,Policy
+REMIND 1.5,AMPERE3-CF450,Forcing (MAGICC6),3.096248327335,Category 2,Category 2,Category 2 - 4,O1,N1,P1,T0,AMPERE3-Base,Policy
+REMIND 1.5,AMPERE3-CF450P-EU,Forcing (MAGICC6),3.5034063514315,Category 3,Category 3,N/A,O2,N1,P4,T0,AMPERE3-Base,Policy
+REMIND 1.5,AMPERE3-CF550,Forcing (MAGICC6),3.8903102011077,Category 3,Category 4,Category 4 - 6,O1,N1,P1,T0,AMPERE3-Base,Policy
+REMIND 1.5,AMPERE3-RefP-CE,Forcing (MAGICC6),6.1420604403034,Category 6,Category 6,Category 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+REMIND 1.5,AMPERE3-RefP-CEback,Forcing (MAGICC6),6.3595908660135,Category 6,Category 6,Category 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+REMIND 1.5,AMPERE3-RefP-EU,Forcing (MAGICC6),6.3885703060907,Category 6,Category 6,Category 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+REMIND 1.5,AMPERE3-RefP-EUback,Forcing (MAGICC6),6.421440331213,Category 6,Category 6,Category 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+REMIND 1.5,AMPERE3-RefPol,Forcing (MAGICC6),6.4261414425696,Category 6,Category 6,Category 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+REMIND 1.5,EMF27-450-Conv,Forcing (MAGICC6),2.6850066384298,Category 1,Category 1,Category 1,O1,N1,P1,T2,EMF27-Base-Conv,Policy
+REMIND 1.5,EMF27-450-EERE,Forcing (MAGICC6),2.6951935513727,Category 1,Category 1,Category 1,O1,N1,P1,T3,EMF27-Base-EERE,Policy
+REMIND 1.5,EMF27-450-FullTech,Forcing (MAGICC6),2.6886781264223,Category 1,Category 1,Category 1 - 2,O2,N1,P1,T0,EMF27-Base-FullTech,Policy
+REMIND 1.5,EMF27-450-LimBio,Forcing (MAGICC6),2.6899486467392,Category 1,Category 1,Category 1,O1,N1,P1,T2,EMF27-Base-LimBio,Policy
+REMIND 1.5,EMF27-450-LimSW,Forcing (MAGICC6),2.6677608627971,Category 1,Category 1,Category 1 - 2,O2,N1,P1,T2,EMF27-Base-LimSW,Policy
+REMIND 1.5,EMF27-450-LowEI,Forcing (MAGICC6),2.6938009254795,Category 1,Category 1,Category 1 - 2,O2,N1,P1,T0,EMF27-Base-LowEI,Policy
+REMIND 1.5,EMF27-450-NoCCS,Forcing (MAGICC6),2.6954134482096,Category 1,Category 1,Category 1,O1,N1,P1,T3,EMF27-Base-FullTech,Policy
+REMIND 1.5,EMF27-450-NucOff,Forcing (MAGICC6),2.6872251660507,Category 1,Category 1,Category 1 - 2,O2,N1,P1,T2,EMF27-Base-NucOff,Policy
+REMIND 1.5,EMF27-550-Conv,Forcing (MAGICC6),3.4297832127194,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,EMF27-Base-Conv,Policy
+REMIND 1.5,EMF27-550-EERE,Forcing (MAGICC6),3.5171406997168,Category 3,Category 3,Category 3 - 4,O1,N1,P1,T3,EMF27-Base-EERE,Policy
+REMIND 1.5,EMF27-550-FullTech,Forcing (MAGICC6),3.5187146279271,Category 3,Category 3,Category 2 - 4,O1,N1,P1,T0,EMF27-Base-FullTech,Policy
+REMIND 1.5,EMF27-550-LimBio,Forcing (MAGICC6),3.4489710303652,Category 2,Category 3,Category 2 - 4,O1,N1,P1,T2,EMF27-Base-LimBio,Policy
+REMIND 1.5,EMF27-550-LimSW,Forcing (MAGICC6),3.5094712439836,Category 3,Category 3,Category 2 - 4,O1,N1,P1,T2,EMF27-Base-LimSW,Policy
+REMIND 1.5,EMF27-550-LimTech,Forcing (MAGICC6),3.4790439827017,Category 3,Category 3,Category 2,O1,N1,P1,T3,EMF27-Base-LimTech,Policy
+REMIND 1.5,EMF27-550-LowEI,Forcing (MAGICC6),3.5188844489029,Category 3,Category 3,Category 2 - 4,O1,N1,P1,T0,EMF27-Base-LowEI,Policy
+REMIND 1.5,EMF27-550-NoCCS,Forcing (MAGICC6),3.5024450862917,Category 3,Category 3,Category 3 - 4,O1,N1,P1,T3,EMF27-Base-FullTech,Policy
+REMIND 1.5,EMF27-550-NucOff,Forcing (MAGICC6),3.5140133213805,Category 3,Category 3,Category 2 - 4,O1,N1,P1,T2,EMF27-Base-NucOff,Policy
+REMIND 1.5,EMF27-FP-FullTech,Forcing (MAGICC6),5.9365781067307,Category 6,Category 6,Category 6,O1,N1,P6,T0,EMF27-Base-FullTech,Policy
+REMIND 1.5,EMF27-G8-FullTech,Forcing (MAGICC6),3.9512939308288,Category 4,Category 3,N/A,O1,N1,P7,T0,EMF27-Base-FullTech,Policy
+REMIND 1.5,LIMITS-450,Forcing (MAGICC6),2.6756896034398,Category 1,Category 1,Category 1 - 2,O2,N1,P1,T0,LIMITS-Base,Policy
+REMIND 1.5,LIMITS-500,Forcing (MAGICC6),3.0841294312965,Category 2,Category 2,Category 2 - 4,O1,N1,P1,T0,LIMITS-Base,Policy
+REMIND 1.5,LIMITS-RefPol,Forcing (MAGICC6),6.3704716929898,Category 6,Category 6,Category 6,O1,N1,P6,T0,LIMITS-Base,Policy
+REMIND 1.5,LIMITS-RefPol-450,Forcing (MAGICC6),2.6802323460203,Category 1,Category 1,Category 2 - 4,O2,N1,P2,T0,LIMITS-Base,Policy
+REMIND 1.5,LIMITS-RefPol-450-EE,Forcing (MAGICC6),2.6802681564671,Category 1,Category 1,Category 2 - 4,O2,N1,P2,T0,LIMITS-Base,Policy
+REMIND 1.5,LIMITS-RefPol-450-PC,Forcing (MAGICC6),2.6823478279812,Category 1,Category 1,Category 2 - 4,O2,N1,P2,T0,LIMITS-Base,Policy
+REMIND 1.5,LIMITS-RefPol-500,Forcing (MAGICC6),3.0873077681142,Category 2,Category 2,Category 2 - 4,O2,N1,P2,T0,LIMITS-Base,Policy
+REMIND 1.5,LIMITS-RefPol2030-500,Forcing (MAGICC6),3.0977198923169,Category 2,Category 2,N/A,O2,N1,P3,T0,LIMITS-Base,Policy
+REMIND 1.5,LIMITS-StrPol,Forcing (MAGICC6),5.465737188981,Category 6,Category 6,Category 6,O1,N1,P6,T0,LIMITS-Base,Policy
+REMIND 1.5,LIMITS-StrPol-450,Forcing (MAGICC6),2.6808278465951,Category 1,Category 1,Category 1 - 2,O2,N1,P2,T0,LIMITS-Base,Policy
+REMIND 1.5,LIMITS-StrPol-500,Forcing (MAGICC6),3.0832923546521,Category 2,Category 2,Category 2 - 4,O2,N1,P2,T0,LIMITS-Base,Policy
+SGM_EMF22,EMF22 3.7 NTE,Forcing Kyoto Gases (MAGICC6),4.0093573166406,Category 3,Category 3,Category 2,O1,N1,P1,T1,EMF22 Reference,Policy
+SGM_EMF22,EMF22 3.7 NTE w Delay,Forcing Kyoto Gases (MAGICC6),3.9658842608733,Category 3,Category 3,N/A,O1,N1,P5,T1,EMF22 Reference,Policy
+SGM_EMF22,EMF22 3.7 OS,Forcing Kyoto Gases (MAGICC6),3.9957709792516,Category 3,Category 3,Category 2,O1,N1,P1,T1,EMF22 Reference,Policy
+SGM_EMF22,EMF22 3.7 OS w Delay,Forcing Kyoto Gases (MAGICC6),3.9571127412733,Category 3,Category 3,N/A,O1,N1,P5,T1,EMF22 Reference,Policy
+SGM_EMF22,EMF22 4.5 NTE,Forcing Kyoto Gases (MAGICC6),4.7773217314228,Category 5,Category 5,Category 3 - 4,O1,N1,P1,T1,EMF22 Reference,Policy
+SGM_EMF22,EMF22 4.5 NTE w Delay,Forcing Kyoto Gases (MAGICC6),4.8065053681422,Category 5,Category 5,N/A,O1,N1,P5,T1,EMF22 Reference,Policy
+TIAM-ECN,LIMITS-450,Forcing Kyoto Gases (MAGICC6),2.839410438122,Category 1,Category 2,Category 2 - 4,O2,N1,P1,T0,LIMITS-Base,Policy
+TIAM-ECN,LIMITS-500,Forcing Kyoto Gases (MAGICC6),3.3219208655427,Category 2,Category 3,Category 3 - 5,O2,N1,P1,T0,LIMITS-Base,Policy
+TIAM-ECN,LIMITS-RefPol,Forcing Kyoto Gases (MAGICC6),5.5103672631076,Category 6,Category 6,Category 6,O1,N1,P6,T0,LIMITS-Base,Policy
+TIAM-ECN,LIMITS-RefPol-450,Forcing Kyoto Gases (MAGICC6),2.8411110806897,Category 1,Category 2,Category 2 - 4,O2,N1,P2,T0,LIMITS-Base,Policy
+TIAM-ECN,LIMITS-RefPol-450-EE,Forcing Kyoto Gases (MAGICC6),2.841395971782,Category 1,Category 2,Category 2 - 4,O2,N1,P2,T0,LIMITS-Base,Policy
+TIAM-ECN,LIMITS-RefPol-450-PC,Forcing Kyoto Gases (MAGICC6),2.8411922011257,Category 1,Category 2,Category 2 - 4,O2,N1,P2,T0,LIMITS-Base,Policy
+TIAM-ECN,LIMITS-RefPol-500,Forcing Kyoto Gases (MAGICC6),3.3203342643913,Category 2,Category 3,Category 3 - 5,O2,N1,P2,T0,LIMITS-Base,Policy
+TIAM-ECN,LIMITS-RefPol2030-500,Forcing Kyoto Gases (MAGICC6),3.3294972543761,Category 2,Category 3,N/A,O2,N1,P3,T0,LIMITS-Base,Policy
+TIAM-ECN,LIMITS-StrPol,Forcing Kyoto Gases (MAGICC6),4.6750450435231,Category 4,Category 5,Category 4 - 6,O1,N1,P6,T0,LIMITS-Base,Policy
+TIAM-ECN,LIMITS-StrPol-450,Forcing Kyoto Gases (MAGICC6),2.8361468776998,Category 1,Category 2,Category 2 - 4,O2,N1,P2,T0,LIMITS-Base,Policy
+TIAM-ECN,LIMITS-StrPol-500,Forcing Kyoto Gases (MAGICC6),3.3083186967682,Category 2,Category 3,Category 2 - 4,O2,N1,P2,T0,LIMITS-Base,Policy
+TIAM-WORLD 2012.2,EMF27-450-Conv,Forcing Kyoto Gases (MAGICC6),3.139101975596,Category 2,Category 1,Category 1,O1,N1,P1,T2,EMF27-Base-Conv,Policy
+TIAM-WORLD 2012.2,EMF27-450-EERE,Forcing Kyoto Gases (MAGICC6),3.1292319439795,Category 2,Category 2,Category 2,O1,N1,P1,T3,EMF27-Base-EERE,Policy
+TIAM-WORLD 2012.2,EMF27-450-FullTech,Forcing Kyoto Gases (MAGICC6),3.1421012147961,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T0,EMF27-Base-FullTech,Policy
+TIAM-WORLD 2012.2,EMF27-450-LimBio,Forcing Kyoto Gases (MAGICC6),3.1346084458975,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,EMF27-Base-LimBio,Policy
+TIAM-WORLD 2012.2,EMF27-450-LimSW,Forcing Kyoto Gases (MAGICC6),3.1460882740773,Category 2,Category 1,Category 1 - 2,O1,N1,P1,T2,EMF27-Base-LimSW,Policy
+TIAM-WORLD 2012.2,EMF27-450-LowEI,Forcing Kyoto Gases (MAGICC6),3.1405194615544,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T0,EMF27-Base-LowEI,Policy
+TIAM-WORLD 2012.2,EMF27-450-NoCCS,Forcing Kyoto Gases (MAGICC6),3.1288503461894,Category 2,Category 2,Category 2,O1,N1,P1,T3,EMF27-Base-FullTech,Policy
+TIAM-WORLD 2012.2,EMF27-450-NucOff,Forcing Kyoto Gases (MAGICC6),3.1416156673587,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,EMF27-Base-NucOff,Policy
+TIAM-WORLD 2012.2,EMF27-550-Conv,Forcing Kyoto Gases (MAGICC6),4.0056515080267,Category 3,Category 3,Category 2 - 4,O1,N1,P1,T2,EMF27-Base-Conv,Policy
+TIAM-WORLD 2012.2,EMF27-550-EERE,Forcing Kyoto Gases (MAGICC6),4.0008587816845,Category 3,Category 3,Category 3 - 4,O1,N1,P1,T3,EMF27-Base-EERE,Policy
+TIAM-WORLD 2012.2,EMF27-550-FullTech,Forcing Kyoto Gases (MAGICC6),4.0034536028129,Category 3,Category 3,Category 2 - 4,O1,N1,P1,T0,EMF27-Base-FullTech,Policy
+TIAM-WORLD 2012.2,EMF27-550-LimBio,Forcing Kyoto Gases (MAGICC6),4.0012185869799,Category 3,Category 3,Category 2 - 4,O1,N1,P1,T2,EMF27-Base-LimBio,Policy
+TIAM-WORLD 2012.2,EMF27-550-LimSW,Forcing Kyoto Gases (MAGICC6),4.0031695812102,Category 3,Category 3,Category 2 - 4,O1,N1,P1,T2,EMF27-Base-LimSW,Policy
+TIAM-WORLD 2012.2,EMF27-550-LimTech,Forcing Kyoto Gases (MAGICC6),3.993401593012,Category 3,Category 3,Category 2,O1,N1,P1,T3,EMF27-Base-LimTech,Policy
+TIAM-WORLD 2012.2,EMF27-550-LowEI,Forcing Kyoto Gases (MAGICC6),4.0045245671532,Category 3,Category 3,Category 2 - 4,O1,N1,P1,T0,EMF27-Base-LowEI,Policy
+TIAM-WORLD 2012.2,EMF27-550-NoCCS,Forcing Kyoto Gases (MAGICC6),4.0008251876895,Category 3,Category 3,Category 3 - 4,O1,N1,P1,T3,EMF27-Base-FullTech,Policy
+TIAM-WORLD 2012.2,EMF27-550-NucOff,Forcing Kyoto Gases (MAGICC6),4.0041731266703,Category 3,Category 3,Category 2 - 4,O1,N1,P1,T2,EMF27-Base-NucOff,Policy
+TIAM-World_2007_version,EMF22 2.6 NTE,Forcing Kyoto Gases (MAGICC6),3.1587608299802,Category 2,Category 1,Category 1,O1,N1,P1,T0,EMF22 Reference,Policy
+TIAM-World_2007_version,EMF22 2.6 OS,Forcing Kyoto Gases (MAGICC6),3.1037779743519,Category 2,Category 1,Category 1,O1,N1,P1,T0,EMF22 Reference,Policy
+TIAM-World_2007_version,EMF22 2.6 OS w Delay,Forcing Kyoto Gases (MAGICC6),3.2147955261335,Category 2,Category 1,N/A,O1,N1,P5,T0,EMF22 Reference,Policy
+TIAM-World_2007_version,EMF22 3.7 NTE,Forcing Kyoto Gases (MAGICC6),4.4749832309079,Category 4,Category 4,Category 3 - 5,O1,N1,P1,T0,EMF22 Reference,Policy
+TIAM-World_2007_version,EMF22 3.7 NTE w Delay,Forcing Kyoto Gases (MAGICC6),4.4714905937549,Category 4,Category 4,N/A,O1,N1,P5,T0,EMF22 Reference,Policy
+TIAM-World_2007_version,EMF22 3.7 OS,Forcing Kyoto Gases (MAGICC6),4.4196740838104,Category 4,Category 4,Category 3 - 5,O1,N1,P1,T0,EMF22 Reference,Policy
+TIAM-World_2007_version,EMF22 3.7 OS w Delay,Forcing Kyoto Gases (MAGICC6),4.4082562653607,Category 4,Category 4,N/A,O1,N1,P5,T0,EMF22 Reference,Policy
+TIAM-World_2007_version,EMF22 4.5 NTE,Forcing Kyoto Gases (MAGICC6),5.4136021441671,Category 6,Category 6,Category 6,O1,N1,P1,T0,EMF22 Reference,Policy
+TIAM-World_2007_version,EMF22 4.5 NTE w Delay,Forcing Kyoto Gases (MAGICC6),5.4102642440328,Category 6,Category 6,N/A,O1,N1,P5,T0,EMF22 Reference,Policy
+TIAM-World_Mar2012,AME 2.6 W/m2 OS,Forcing Kyoto Gases (MAGICC6),3.2519842416061,Category 2,Category 2,Category 2 - 4,O2,N1,P1,T0,AME Reference,Policy
+TIAM-World_Mar2012,AME 3.7 W/m2 NTE,Forcing Kyoto Gases (MAGICC6),4.4911105893966,Category 4,Category 4,Category 3 - 5,O1,N1,P1,T0,AME Reference,Policy
+TIAM-World_Mar2012,AME CO2 price $10 (5% p.a.),Forcing Kyoto Gases (MAGICC6),4.9693000855337,Category 5,Category 5,Category 4 - 6,O1,N1,P1,T0,AME Reference,Policy
+TIAM-World_Mar2012,AME CO2 price $30 (5% p.a.),Forcing Kyoto Gases (MAGICC6),3.67511724571,Category 3,Category 3,Category 2 - 4,O1,N1,P1,T0,AME Reference,Policy
+TIAM-World_Mar2012,AME CO2 price $50 (5% p.a.),Forcing Kyoto Gases (MAGICC6),3.0878863316958,Category 1,Category 2,Category 1 - 2,O2,N1,P1,T0,AME Reference,Policy
+TIMES-VTT-2011,AME 2.6 W/m2 OS,Forcing Kyoto Gases (MAGICC6),3.1145339829316,Category 2,Category 2,Category 1 - 2,O2,N1,P1,T0,AME Reference,Policy
+TIMES-VTT-2011,AME 3.7 W/m2 NTE,Forcing Kyoto Gases (MAGICC6),4.3219355032372,Category 4,Category 4,Category 3 - 5,O1,N1,P1,T0,AME Reference,Policy
+TIMES-VTT-2011,AME CO2 price $10 (5% p.a.),Forcing Kyoto Gases (MAGICC6),4.1222044298058,Category 4,Category 4,Category 3 - 5,O1,N1,P1,T0,AME Reference,Policy
+TIMES-VTT-2011,AME CO2 price $30 (5% p.a.),Forcing Kyoto Gases (MAGICC6),3.3430148561839,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T0,AME Reference,Policy
+TIMES-VTT-2011,AME CO2 price $50 (5% p.a.),Forcing Kyoto Gases (MAGICC6),3.057993162187,Category 1,Category 1,Category 1,O1,N1,P1,T0,AME Reference,Policy
+WITCH_AME,AME 3.7 W/m2 NTE,Forcing Kyoto Gases (MAGICC6),4.2537529556711,Category 4,Category 4,Category 3 - 5,O1,N1,P1,T0,AME Reference,Policy
+WITCH_AME,AME CO2 price $10 (5% p.a.),Forcing Kyoto Gases (MAGICC6),4.9129472184134,Category 5,Category 6,Category 4 - 6,O1,N1,P1,T0,AME Reference,Policy
+WITCH_AME,AME CO2 price $30 (5% p.a.),Forcing Kyoto Gases (MAGICC6),3.8537367616333,Category 3,Category 4,Category 2 - 4,O1,N1,P1,T0,AME Reference,Policy
+WITCH_AME,AME CO2 price $50 (5% p.a.),Forcing Kyoto Gases (MAGICC6),3.5359665007003,Category 2,Category 3,Category 1 - 2,O1,N1,P1,T0,AME Reference,Policy
+WITCH_AMPERE,AMPERE2-450-FullTech-HST,Forcing Kyoto Gases (MAGICC6),3.0520120361032,Category 1,Category 2,N/A,O2,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+WITCH_AMPERE,AMPERE2-450-FullTech-LST,Forcing Kyoto Gases (MAGICC6),3.0654834585103,Category 1,Category 2,N/A,O1,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+WITCH_AMPERE,AMPERE2-450-FullTech-OPT,Forcing Kyoto Gases (MAGICC6),3.0779852148237,Category 1,Category 2,Category 1 - 2,O1,N1,P1,T0,AMPERE2-Base-FullTech-OPT,Policy
+WITCH_AMPERE,AMPERE2-450-LowEI-HST,Forcing Kyoto Gases (MAGICC6),3.0203025394591,Category 1,Category 2,N/A,O2,N1,P3,T0,AMPERE2-Base-LowEI-OPT,Policy
+WITCH_AMPERE,AMPERE2-450-LowEI-LST,Forcing Kyoto Gases (MAGICC6),3.0347412609175,Category 1,Category 2,N/A,O2,N1,P3,T0,AMPERE2-Base-LowEI-OPT,Policy
+WITCH_AMPERE,AMPERE2-450-LowEI-OPT,Forcing Kyoto Gases (MAGICC6),3.1037606556503,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T0,AMPERE2-Base-LowEI-OPT,Policy
+WITCH_AMPERE,AMPERE2-450-NucOff-HST,Forcing Kyoto Gases (MAGICC6),3.0570374454843,Category 1,Category 2,N/A,O2,N1,P3,T2,AMPERE2-Base-NucOff-OPT,Policy
+WITCH_AMPERE,AMPERE2-450-NucOff-LST,Forcing Kyoto Gases (MAGICC6),3.062739315453,Category 1,Category 2,N/A,O1,N1,P3,T2,AMPERE2-Base-NucOff-OPT,Policy
+WITCH_AMPERE,AMPERE2-450-NucOff-OPT,Forcing Kyoto Gases (MAGICC6),3.099510170832,Category 1,Category 2,Category 1 - 2,O1,N1,P1,T2,AMPERE2-Base-NucOff-OPT,Policy
+WITCH_AMPERE,AMPERE2-550-FullTech-HST,Forcing Kyoto Gases (MAGICC6),3.8181267146164,Category 3,Category 4,N/A,O1,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+WITCH_AMPERE,AMPERE2-550-FullTech-LST,Forcing Kyoto Gases (MAGICC6),3.836557573271,Category 3,Category 4,N/A,O1,N1,P3,T0,AMPERE2-Base-FullTech-OPT,Policy
+WITCH_AMPERE,AMPERE2-550-FullTech-OPT,Forcing Kyoto Gases (MAGICC6),3.825952570847,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,AMPERE2-Base-FullTech-OPT,Policy
+WITCH_AMPERE,AMPERE2-550-LowEI-OPT,Forcing Kyoto Gases (MAGICC6),3.8506184131437,Category 3,Category 4,Category 2 - 4,O1,N1,P1,T0,AMPERE2-Base-LowEI-OPT,Policy
+WITCH_AMPERE,AMPERE2-550-NoCCS-OPT,Forcing Kyoto Gases (MAGICC6),3.8509247309336,Category 3,Category 4,Category 3 - 4,O1,N1,P1,T3,AMPERE2-Base-FullTech-OPT,Policy
+WITCH_AMPERE,AMPERE2-550-NucOff-OPT,Forcing Kyoto Gases (MAGICC6),3.8468700929181,Category 3,Category 4,Category 2 - 4,O1,N1,P1,T2,AMPERE2-Base-NucOff-OPT,Policy
+WITCH_AMPERE,AMPERE3-450,Forcing Kyoto Gases (MAGICC6),3.083815311785,Category 1,Category 2,Category 1 - 2,O1,N1,P1,T0,AMPERE3-Base,Policy
+WITCH_AMPERE,AMPERE3-450P-CE,Forcing Kyoto Gases (MAGICC6),3.2968676613574,Category 2,Category 2,N/A,O1,N1,P4,T0,AMPERE3-Base,Policy
+WITCH_AMPERE,AMPERE3-450P-EU,Forcing Kyoto Gases (MAGICC6),3.3910076329784,Category 2,Category 3,N/A,O1,N1,P4,T0,AMPERE3-Base,Policy
+WITCH_AMPERE,AMPERE3-550,Forcing Kyoto Gases (MAGICC6),3.8274587586128,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,AMPERE3-Base,Policy
+WITCH_AMPERE,AMPERE3-550P-EU,Forcing Kyoto Gases (MAGICC6),3.9094885973066,Category 3,Category 4,N/A,O1,N1,P4,T0,AMPERE3-Base,Policy
+WITCH_AMPERE,AMPERE3-Base-EU,Forcing Kyoto Gases (MAGICC6),7.6202759138398,Category 7,Category 7,Category 7,O1,N1,P0,T0,AMPERE3-Base,Policy
+WITCH_AMPERE,AMPERE3-Base-EUback,Forcing Kyoto Gases (MAGICC6),7.8430816920768,Category 7,Category 7,Category 7,O1,N1,P0,T0,AMPERE3-Base,Policy
+WITCH_AMPERE,AMPERE3-CF450,Forcing Kyoto Gases (MAGICC6),3.0767492692608,Category 1,Category 2,Category 1 - 2,O1,N1,P1,T0,AMPERE3-Base,Policy
+WITCH_AMPERE,AMPERE3-CF450P-EU,Forcing Kyoto Gases (MAGICC6),3.4621942020683,Category 2,Category 3,N/A,O1,N1,P4,T0,AMPERE3-Base,Policy
+WITCH_AMPERE,AMPERE3-CF550,Forcing Kyoto Gases (MAGICC6),3.8248168513802,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,AMPERE3-Base,Policy
+WITCH_AMPERE,AMPERE3-RefP-CE,Forcing Kyoto Gases (MAGICC6),5.3690043145677,Category 6,Category 6,Category 4 - 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+WITCH_AMPERE,AMPERE3-RefP-CEback,Forcing Kyoto Gases (MAGICC6),5.6695470744095,Category 6,Category 6,Category 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+WITCH_AMPERE,AMPERE3-RefP-EU,Forcing Kyoto Gases (MAGICC6),5.7194242723704,Category 6,Category 6,Category 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+WITCH_AMPERE,AMPERE3-RefP-EUback,Forcing Kyoto Gases (MAGICC6),5.7803194041389,Category 6,Category 6,Category 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+WITCH_AMPERE,AMPERE3-RefPol,Forcing Kyoto Gases (MAGICC6),5.7961991530541,Category 6,Category 6,Category 6,O1,N1,P6,T0,AMPERE3-Base,Policy
+WITCH_EMF22,EMF22 3.7 NTE,Forcing Kyoto Gases (MAGICC6),4.0510316198677,Category 3,Category 4,Category 3 - 4,O1,N1,P1,T1,EMF22 Reference,Policy
+WITCH_EMF22,EMF22 3.7 NTE w Delay,Forcing Kyoto Gases (MAGICC6),4.0790216389046,Category 3,Category 4,N/A,O1,N1,P5,T1,EMF22 Reference,Policy
+WITCH_EMF22,EMF22 3.7 OS,Forcing Kyoto Gases (MAGICC6),4.1060991917738,Category 4,Category 4,Category 4 - 5,O1,N1,P1,T1,EMF22 Reference,Policy
+WITCH_EMF22,EMF22 3.7 OS w Delay,Forcing Kyoto Gases (MAGICC6),4.1529549376593,Category 4,Category 4,N/A,O1,N1,P5,T1,EMF22 Reference,Policy
+WITCH_EMF22,EMF22 4.5 NTE,Forcing Kyoto Gases (MAGICC6),5.0143832430875,Category 5,Category 6,Category 6,O1,N1,P1,T1,EMF22 Reference,Policy
+WITCH_EMF22,EMF22 4.5 NTE w Delay,Forcing Kyoto Gases (MAGICC6),4.9507346650231,Category 5,Category 6,N/A,O1,N1,P5,T1,EMF22 Reference,Policy
+WITCH_EMF27,EMF27-450-Conv,Forcing Kyoto Gases (MAGICC6),3.3085840766522,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,EMF27-Base-Conv,Policy
+WITCH_EMF27,EMF27-450-EERE,Forcing Kyoto Gases (MAGICC6),3.301851829906,Category 2,Category 2,Category 2,O1,N1,P1,T3,EMF27-Base-EERE,Policy
+WITCH_EMF27,EMF27-450-FullTech,Forcing Kyoto Gases (MAGICC6),3.2807075495937,Category 2,Category 2,Category 2 - 4,O1,N1,P1,T0,EMF27-Base-FullTech,Policy
+WITCH_EMF27,EMF27-450-LimBio,Forcing Kyoto Gases (MAGICC6),3.3093830800582,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T2,EMF27-Base-LimBio,Policy
+WITCH_EMF27,EMF27-450-LimSW,Forcing Kyoto Gases (MAGICC6),3.2811758766035,Category 2,Category 2,Category 2 - 4,O1,N1,P1,T2,EMF27-Base-LimSW,Policy
+WITCH_EMF27,EMF27-450-LowEI,Forcing Kyoto Gases (MAGICC6),3.2634955434884,Category 2,Category 2,Category 2 - 4,O1,N1,P1,T0,EMF27-Base-LowEI,Policy
+WITCH_EMF27,EMF27-450-NucOff,Forcing Kyoto Gases (MAGICC6),3.277362504226,Category 2,Category 2,Category 2 - 4,O1,N1,P1,T2,EMF27-Base-NucOff,Policy
+WITCH_EMF27,EMF27-550-Conv,Forcing Kyoto Gases (MAGICC6),4.1255545058354,Category 4,Category 4,Category 3 - 5,O1,N1,P1,T2,EMF27-Base-Conv,Policy
+WITCH_EMF27,EMF27-550-EERE,Forcing Kyoto Gases (MAGICC6),4.1161089333476,Category 4,Category 4,Category 4 - 5,O1,N1,P1,T3,EMF27-Base-EERE,Policy
+WITCH_EMF27,EMF27-550-FullTech,Forcing Kyoto Gases (MAGICC6),4.1255156969722,Category 4,Category 4,Category 3 - 5,O1,N1,P1,T0,EMF27-Base-FullTech,Policy
+WITCH_EMF27,EMF27-550-LimBio,Forcing Kyoto Gases (MAGICC6),4.1240407632111,Category 4,Category 4,Category 3 - 5,O1,N1,P1,T2,EMF27-Base-LimBio,Policy
+WITCH_EMF27,EMF27-550-LimSW,Forcing Kyoto Gases (MAGICC6),4.1271517554176,Category 4,Category 4,Category 3 - 5,O1,N1,P1,T2,EMF27-Base-LimSW,Policy
+WITCH_EMF27,EMF27-550-LimTech,Forcing Kyoto Gases (MAGICC6),4.1242844153525,Category 4,Category 4,Category 4 - 5,O1,N1,P1,T3,EMF27-Base-LimTech,Policy
+WITCH_EMF27,EMF27-550-LowEI,Forcing Kyoto Gases (MAGICC6),4.1089340110439,Category 4,Category 4,Category 3 - 5,O1,N1,P1,T0,EMF27-Base-LowEI,Policy
+WITCH_EMF27,EMF27-550-NoCCS,Forcing Kyoto Gases (MAGICC6),4.1289152728736,Category 4,Category 4,Category 4 - 5,O1,N1,P1,T3,EMF27-Base-FullTech,Policy
+WITCH_EMF27,EMF27-550-NucOff,Forcing Kyoto Gases (MAGICC6),4.1278891665992,Category 4,Category 4,Category 3 - 5,O1,N1,P1,T2,EMF27-Base-NucOff,Policy
+WITCH_EMF27,EMF27-FP-FullTech,Forcing Kyoto Gases (MAGICC6),5.6519691574567,Category 6,Category 6,Category 6,O1,N1,P6,T0,EMF27-Base-FullTech,Policy
+WITCH_EMF27,EMF27-G8-FullTech,Forcing Kyoto Gases (MAGICC6),3.6893524806879,Category 3,Category 3,N/A,O1,N1,P7,T0,EMF27-Base-FullTech,Policy
+WITCH_LIMITS,LIMITS-450,Forcing Kyoto Gases (MAGICC6),3.0058859582721,Category 1,Category 2,Category 1 - 2,O1,N1,P1,T0,LIMITS-Base,Policy
+WITCH_LIMITS,LIMITS-500,Forcing Kyoto Gases (MAGICC6),3.4207226711624,Category 2,Category 3,Category 2 - 4,O1,N1,P1,T0,LIMITS-Base,Policy
+WITCH_LIMITS,LIMITS-RefPol,Forcing Kyoto Gases (MAGICC6),5.7896681431066,Category 6,Category 6,Category 6,O1,N1,P6,T0,LIMITS-Base,Policy
+WITCH_LIMITS,LIMITS-RefPol-450,Forcing Kyoto Gases (MAGICC6),2.9757401782672,Category 1,Category 2,Category 1 - 2,O1,N1,P2,T0,LIMITS-Base,Policy
+WITCH_LIMITS,LIMITS-RefPol-450-EE,Forcing Kyoto Gases (MAGICC6),2.9756721101286,Category 1,Category 2,Category 1 - 2,O1,N1,P2,T0,LIMITS-Base,Policy
+WITCH_LIMITS,LIMITS-RefPol-450-PC,Forcing Kyoto Gases (MAGICC6),2.9760425120739,Category 1,Category 2,Category 1 - 2,O1,N1,P2,T0,LIMITS-Base,Policy
+WITCH_LIMITS,LIMITS-RefPol-500,Forcing Kyoto Gases (MAGICC6),3.3892381154666,Category 2,Category 3,Category 2 - 4,O1,N1,P2,T0,LIMITS-Base,Policy
+WITCH_LIMITS,LIMITS-RefPol2030-500,Forcing Kyoto Gases (MAGICC6),3.3539584753066,Category 2,Category 2,N/A,O1,N1,P3,T0,LIMITS-Base,Policy
+WITCH_LIMITS,LIMITS-StrPol,Forcing Kyoto Gases (MAGICC6),5.036198429829,Category 5,Category 6,Category 6,O1,N1,P6,T0,LIMITS-Base,Policy
+WITCH_LIMITS,LIMITS-StrPol-450,Forcing Kyoto Gases (MAGICC6),2.9789618545763,Category 1,Category 2,Category 1 - 2,O1,N1,P2,T0,LIMITS-Base,Policy
+WITCH_LIMITS,LIMITS-StrPol-500,Forcing Kyoto Gases (MAGICC6),3.39214136626,Category 2,Category 2,Category 2 - 4,O1,N1,P2,T0,LIMITS-Base,Policy
+WITCH_RECIPE,450CO2-fixNUC,Carbon Budget 2100,1747324.25,Category 3,Category 3,Category 2,N/A,N1,P1,T3,N/A,Policy
+WITCH_RECIPE,450CO2-fixRET,Carbon Budget 2100,1760637.95,Category 3,Category 3,Category 2,N/A,N1,P1,T3,N/A,Policy
+WITCH_RECIPE,450CO2-noCCS,Carbon Budget 2100,1766841.85,Category 3,Category 3,Category 2,N/A,N1,P1,T3,N/A,Policy
+WITCH_RECIPE,450CO2-noCCSfixNUC,Carbon Budget 2100,1767346.15,Category 3,Category 3,Category 2,N/A,N1,P1,T3,N/A,Policy
+WITCH_RECIPE,450CO2nte-DEF,Carbon Budget 2100,1744526.65,Category 3,Category 3,Category 2,N/A,N1,P1,T1,N/A,Policy
+WITCH_ROSE,ROSE 450 DEF,Forcing Kyoto Gases (MAGICC6),3.2527996083131,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T0,ROSE BAU DEF,Policy
+WITCH_ROSE,ROSE 450 FS Gr,Forcing Kyoto Gases (MAGICC6),3.2532811543003,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T0,ROSE BAU FS Gr,Policy
+WITCH_ROSE,ROSE 450 FS Gr SL Con,Forcing Kyoto Gases (MAGICC6),3.2567312236195,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T0,ROSE BAU FS Gr SL Con,Policy
+WITCH_ROSE,ROSE 450 HI Coal,Forcing Kyoto Gases (MAGICC6),3.2530455483075,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T0,ROSE BAU HI Coal,Policy
+WITCH_ROSE,ROSE 450 HI Fos,Forcing Kyoto Gases (MAGICC6),3.2529876782223,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T0,ROSE BAU HI Fos,Policy
+WITCH_ROSE,ROSE 450 HI Pop,Forcing Kyoto Gases (MAGICC6),3.2618503871568,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T0,ROSE BAU HI Pop,Policy
+WITCH_ROSE,ROSE 450 LO Fos,Forcing Kyoto Gases (MAGICC6),3.254889800645,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T0,ROSE BAU LO Fos,Policy
+WITCH_ROSE,ROSE 450 LO Oil,Forcing Kyoto Gases (MAGICC6),3.2537451295255,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T0,ROSE BAU LO Oil,Policy
+WITCH_ROSE,ROSE 450 SL Gr,Forcing Kyoto Gases (MAGICC6),3.2630223249582,Category 2,Category 2,Category 1 - 2,O1,N1,P1,T0,ROSE BAU SL Gr,Policy
+WITCH_ROSE,ROSE 550 DEF,Forcing Kyoto Gases (MAGICC6),4.0762899649779,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,ROSE BAU DEF,Policy
+WITCH_ROSE,ROSE 550 FS Gr,Forcing Kyoto Gases (MAGICC6),4.0705121041134,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,ROSE BAU FS Gr,Policy
+WITCH_ROSE,ROSE 550 FS Gr SL Con,Forcing Kyoto Gases (MAGICC6),4.0668703036622,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,ROSE BAU FS Gr SL Con,Policy
+WITCH_ROSE,ROSE 550 HI Coal,Forcing Kyoto Gases (MAGICC6),4.0711533534699,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,ROSE BAU HI Coal,Policy
+WITCH_ROSE,ROSE 550 HI Fos,Forcing Kyoto Gases (MAGICC6),4.0610480068565,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,ROSE BAU HI Fos,Policy
+WITCH_ROSE,ROSE 550 HI Gas,Forcing Kyoto Gases (MAGICC6),4.0760042708319,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,ROSE BAU HI Gas,Policy
+WITCH_ROSE,ROSE 550 HI Pop,Forcing Kyoto Gases (MAGICC6),4.0495744592416,Category 3,Category 4,Category 2 - 4,O1,N1,P1,T0,ROSE BAU HI Pop,Policy
+WITCH_ROSE,ROSE 550 LO Fos,Forcing Kyoto Gases (MAGICC6),4.0705465540879,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,ROSE BAU LO Fos,Policy
+WITCH_ROSE,ROSE 550 LO Oil,Forcing Kyoto Gases (MAGICC6),4.0709387042411,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,ROSE BAU LO Oil,Policy
+WITCH_ROSE,ROSE 550 SL Gr,Forcing Kyoto Gases (MAGICC6),4.0537929566897,Category 3,Category 4,Category 3 - 5,O1,N1,P1,T0,ROSE BAU SL Gr,Policy
+WITCH_ROSE,ROSE WEAK-2020 DEF,Forcing Kyoto Gases (MAGICC6),3.2924970675501,Category 2,Category 2,Category 1 - 2,O1,N1,P2,T0,ROSE BAU DEF,Policy
+WITCH_ROSE,ROSE WEAK-2020 FS Gr,Forcing Kyoto Gases (MAGICC6),3.3353391083592,Category 2,Category 2,Category 2 - 4,O1,N1,P2,T0,ROSE BAU FS Gr,Policy
+WITCH_ROSE,ROSE WEAK-2020 FS Gr SL Con,Forcing Kyoto Gases (MAGICC6),3.2676054697296,Category 2,Category 2,Category 1 - 2,O1,N1,P2,T0,ROSE BAU FS Gr SL Con,Policy
+WITCH_ROSE,ROSE WEAK-2020 SL Gr,Forcing Kyoto Gases (MAGICC6),3.3272034106736,Category 2,Category 2,Category 2 - 4,O1,N1,P2,T0,ROSE BAU SL Gr,Policy
+WITCH_ROSE,ROSE WEAK-2030 DEF,Forcing Kyoto Gases (MAGICC6),3.3563608026956,Category 2,Category 2,N/A,O1,N1,P3,T0,ROSE BAU DEF,Policy
+WITCH_ROSE,ROSE WEAK-2030 FS Gr,Forcing Kyoto Gases (MAGICC6),3.3362247568305,Category 2,Category 2,N/A,O1,N1,P3,T0,ROSE BAU FS Gr,Policy
+WITCH_ROSE,ROSE WEAK-2030 FS Gr SL Con,Forcing Kyoto Gases (MAGICC6),3.3295927551263,Category 2,Category 2,N/A,O1,N1,P3,T0,ROSE BAU FS Gr SL Con,Policy
+WITCH_ROSE,ROSE WEAK-2030 SL Gr,Forcing Kyoto Gases (MAGICC6),3.3330830293034,Category 2,Category 2,N/A,O1,N1,P3,T0,ROSE BAU SL Gr,Policy
+WITCH_ROSE,ROSE WEAK-POL DEF,Forcing Kyoto Gases (MAGICC6),5.8771538708328,Category 6,Category 6,Category 6,O1,N1,P6,T0,ROSE BAU DEF,Policy
+WITCH_ROSE,ROSE WEAK-POL FS Gr,Forcing Kyoto Gases (MAGICC6),6.2304700713959,Category 6,Category 6,Category 6,O1,N1,P6,T0,ROSE BAU FS Gr,Policy
+WITCH_ROSE,ROSE WEAK-POL FS Gr SL Con,Forcing Kyoto Gases (MAGICC6),5.8330186349073,Category 6,Category 6,Category 6,O1,N1,P6,T0,ROSE BAU FS Gr SL Con,Policy
+WITCH_ROSE,ROSE WEAK-POL SL Gr,Forcing Kyoto Gases (MAGICC6),5.7547382514545,Category 6,Category 6,Category 6,O1,N1,P6,T0,ROSE BAU SL Gr,Policy
+WorldScan2,AMPERE3-450,Carbon Budget 2050,1031253.7656983,Category 2,N/A,Category 2,N/A,N/A,P1,T1,AMPERE3-Base,Policy
+WorldScan2,AMPERE3-450P-EU,N/A,,N/A,N/A,N/A,N/A,N/A,P4,T1,AMPERE3-Base,Policy
+WorldScan2,AMPERE3-550,Carbon Budget 2050,1313918.9522317,Category 3 - 4,N/A,Category 3 - 4,N/A,N/A,P1,T1,AMPERE3-Base,Policy
+WorldScan2,AMPERE3-CF450,Carbon Budget 2050,1031253.7656988,Category 2,N/A,Category 2,N/A,N/A,P1,T1,AMPERE3-Base,Policy
+WorldScan2,AMPERE3-CF550,Carbon Budget 2050,1313918.952232,Category 3 - 4,N/A,Category 3 - 4,N/A,N/A,P1,T1,AMPERE3-Base,Policy
+WorldScan2,AMPERE3-RefP-EUback,Carbon Budget 2050,1671597.8470689,Category 6,N/A,Category 6,N/A,N/A,P6,T1,AMPERE3-Base,Policy
+WorldScan2,AMPERE3-RefPol,Carbon Budget 2050,1675408.564796,Category 6,N/A,Category 6,N/A,N/A,P6,T1,AMPERE3-Base,Policy
+iPETS_1.2.0,AME CO2 price $10 (5% p.a.),Carbon Budget 2050,1232574.1668454,Category 3 - 4,N/A,Category 3 - 4,N/A,N/A,P1,T1,AME Reference,Policy
+iPETS_1.2.0,AME CO2 price $30 (5% p.a.),Carbon Budget 2050,979910.1708705,Category 2,N/A,Category 2,N/A,N/A,P1,T1,AME Reference,Policy
+iPETS_1.2.0,AME CO2 price $50 (5% p.a.),Carbon Budget 2050,858666.7624436,Category 2,N/A,Category 2,N/A,N/A,P1,T1,AME Reference,Policy
