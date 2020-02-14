@@ -5,9 +5,9 @@
 # This script runs the comparison of observed
 # and projected Kaya factors described in:
 # Burgess, Ritchie, Shapland, and Pielke Jr.:
-# "Improving Climate Change Scenarios for Science and Policy".
+# "IPCC baseline scenarios over-project CO2 emissions and economic growth".
 # The code generates and stores csv tables used
-# (via JMP) to make Figs. 2, S3, S4, S5.
+# (via JMP) to make Figs. 2 and 3.
 
 ############################
 ########### Code ###########
@@ -161,9 +161,16 @@ ieasummary <- ieadf %>%
 ### growth = (ln(2017) - ln(2005))/12
 obsgrowth <- ieasummary %>%
   mutate(growth0517 = 100*((log(`2017`) - log(`2005`))/12)) %>%
-  select(ipccregion,variable,growth0517) # %>%
-  # spread(key = variable, value = growth0517) # optional for splitting table
+  select(ipccregion,variable,growth0517) 
 
+obsgrowth2 <- obsgrowth %>%
+  spread(key = variable, value = growth0517) %>%
+  mutate(pcgdpmer0517 = gdpmer - pop,
+         pcgdpppp0517 = gdpppp - pop) %>%
+  select(-gdpppp,-gdpmer,-pop,-fossilco2,-energytpes) # get observed pcGDP growth rates for Fig. 3
+
+## Load Christensen et al. 2018 table for comparison
+christensentbl <- read_excel(here("Data", "Christensen-2018-expert-projections.XLS"))
 
 ### Calculate Kaya factor growth errors for AR5 and SSP databases by region
 ### Resulting dfs: Region, MODEL, SCENARIO, Baseline Scenario,('Baseline' or 'Policy'), 
@@ -275,9 +282,6 @@ ar5basekayacatchups <- ar5growth %>%
   mutate(resulttype = "catchuperror")
 
 ar5kaya <- bind_rows(ar5basekayaerrors,ar5basekayacatchups) 
-  
-##### EXPORT CSV FOR FIGS 2, S4 (CREATED IN JMP)
-write_csv(ar5kaya,"ar5kaya.csv")
 
 ### Filter SSP database for key variables:
 ### GDP|PPP, Primary Energy, Population, Coal, Oil, Gas
@@ -373,5 +377,28 @@ sspbasekayacatchups <-sspbasekayacatchups %>%
 
 sspkaya <- bind_rows(sspbasekayaerrors,sspbasekayacatchups) 
 
-##### EXPORT CSV FOR FIGS S3, S5 (CREATED IN JMP)
+##### Combine observed and pcGDP catch-up for Fig. 3
+# compare 2020-2040 catch-up rates to 
+# 2005-2017 observations, 2020-2040 baseline projections,
+# Christensen et al. (2018) (C18) expert range
+
+# for C18 comparison, pair: 
+# MAF & Low Income
+# LAM & Middle Income
+# OECD90 & High Income
+# Asia & China
+# World & world
+
+# calculate growth errors for 2020-2040 projections
+# vs 2005-2017 observed for SSP and AR5
+
+# calculate growth errors for C18 expert projections 
+# vs 2005-2017 observed (for C18 2010-2050)
+
+# merge above with ar5kaya and sspkaya
+
+##### EXPORT CSV FOR FIGS 2a,3a (CREATED IN JMP)
+write_csv(ar5kaya,"ar5kaya.csv")
+
+##### EXPORT CSV FOR FIGS 2b,3b (CREATED IN JMP)
 write_csv(sspkaya,"sspkaya.csv")
