@@ -457,7 +457,10 @@ chrtbl3 <- chrtbl2 %>%
   mutate(DATABASE = "SSPs")
 
 # join gdptbl and chrtbl, and calculated chr pctiles as growth errors
-fig3tbl <- bind_rows(gdptbl,chrtbl2,chrtbl3)
+# remove rows showing growth error and projected 2005-2020 growth
+fig3tbl <- bind_rows(gdptbl,chrtbl2,chrtbl3) %>%
+  filter(growthmeasure != "growtherror",
+         growthmeasure != "growth0520")
 
 ##### EXPORT CSV FOR FIG 2a (CREATED IN JMP)
 write_csv(ar5kaya,"ar5kaya.csv")
