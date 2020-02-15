@@ -172,6 +172,9 @@ obsgrowth2 <- obsgrowth %>%
 ## Load Christensen et al. 2018 table for comparison
 christensentbl <- read_excel(here("Data", "Christensen-2018-expert-projections.XLS"))
 
+## Load region lookup table for comparing Christensen growth rates
+christensenregs <- read_excel(here("Data", "ipcc-christensen-comparison-regions.XLS"))
+
 ### Calculate Kaya factor growth errors for AR5 and SSP databases by region
 ### Resulting dfs: Region, MODEL, SCENARIO, Baseline Scenario,('Baseline' or 'Policy'), 
 ###                Kaya factor, 2002-2020 growth error (growtherror), 
@@ -244,8 +247,8 @@ ar5keyvars <- bind_rows(ar5keyvars,ar5fossilco2)
 
 # add 2005-2020 growth rate column, and baseline scenario column
 # add observed growth rates
-# calculate projected - observed
 # calculate catch-up rate
+# calculate projected - observed (2005-2020, and 2020-2040, vs obs 2005-2017)
 ar5growth <- ar5keyvars %>%
   mutate(growth0520 = 100*((log(`2020`) - log(`2005`))/15),
          growth2040 = 100*((log(`2040`) - log(`2020`))/20),
@@ -255,7 +258,8 @@ ar5growth <- ar5keyvars %>%
   left_join(obsgrowth) %>%
   select(-ipccregion) %>%
   mutate(growtherror = growth0520 - growth0517,
-         catchup40 = growth2040 + (growtherror*0.75))
+         catchup40 = growth2040 + (growtherror*0.75),
+         proj2040vobs = growth2040 - growth0517)
 
 # convert baseline growth errors and catchups into Kaya factors
 ar5basekayaerrors <- ar5growth %>%
@@ -269,7 +273,6 @@ ar5basekayaerrors <- ar5growth %>%
   gather(key = "variable", value = "percent", -MODEL,-SCENARIO,-REGION) %>%
   mutate(resulttype = "growtherror")
 
-
 ar5basekayacatchups <- ar5growth %>%
   filter(`Baseline Scenario` == "Baseline") %>%
   select(MODEL,SCENARIO,REGION,variable,catchup40) %>%
@@ -281,7 +284,20 @@ ar5basekayacatchups <- ar5growth %>%
   gather(key = "variable", value = "percent", -MODEL,-SCENARIO,-REGION) %>%
   mutate(resulttype = "catchuperror")
 
-ar5kaya <- bind_rows(ar5basekayaerrors,ar5basekayacatchups) 
+ar5basekayaproj40vobs <- ar5growth %>%
+  filter(`Baseline Scenario` == "Baseline") %>%
+  select(MODEL,SCENARIO,REGION,variable,proj2040vobs) %>%
+  spread(key = variable, value = proj2040vobs) %>%
+  mutate(pcgdpmer = gdpmer - pop,
+         energyintensity = energytpes - gdpmer,
+         co2intensity = fossilco2 - energytpes) %>%
+  select(-gdpmer,-energytpes) %>%
+  gather(key = "variable", value = "percent", -MODEL,-SCENARIO,-REGION) %>%
+  mutate(resulttype = "proj2040vobs")
+
+ar5kaya <- bind_rows(ar5basekayaerrors,
+                     ar5basekayacatchups,
+                     ar5basekayaproj40vobs) 
 
 ### Filter SSP database for key variables:
 ### GDP|PPP, Primary Energy, Population, Coal, Oil, Gas
@@ -338,50 +354,100 @@ sspbasekeyvars <- bind_rows(sspbasekeyvars,sspfossilco2)
 # add observed growth rates
 # calculate projected - observed
 # calculate catch-up rate
+# calculate projected - observed (2005-2020, and 2020-2040, vs obs 2005-2017)
+
+# rename region variable in obsgrowth to match ssp table
+obsgrowth3 <- obsgrowth %>%
+  rename(REGION = ipccregion)
+
+# calculate SSP growth errors
 sspbasegrowth <- sspbasekeyvars %>%
   mutate(growth0520 = 100*((log(`2020`) - log(`2005`))/15),
          growth2040 = 100*((log(`2040`) - log(`2020`))/20)) %>%
   select(-`2005`,-`2020`,-`2040`) %>%
-  left_join(obsgrowth) %>%
+  left_join(obsgrowth3) %>%
   mutate(growtherror = growth0520 - growth0517,
-         catchup40 = growth2040 + (growtherror*0.75))
+         catchup40 = growth2040 + (growtherror*0.75),
+         proj2040vobs = growth2040 - growth0517)
 
 ## convert baseline growth errors and catchups into Kaya factors
 sspbasekayaerrors <- sspbasegrowth %>%
-  select(MODEL,SCENARIO,REGION,variable,growtherror) 
-sspbasekayaerrors$index <- seq(1:7)
-sspbasekayaerrors <- sspbasekayaerrors %>%
-  mutate(scenindex = paste(MODEL,SCENARIO,index)) %>%
+  select(MODEL,SCENARIO,REGION,variable,growtherror) %>%
   spread(key = variable, value = growtherror) %>%
   mutate(pcgdpppp = gdpppp - pop,
          energyintensity = energytpes - gdpppp,
          co2intensity = fossilco2 - energytpes) %>%
   select(-gdpppp,-energytpes) %>%
   gather(key = "variable", value = "percent", 
-         -MODEL,-SCENARIO,-REGION,-index,-scenindex) %>%
+         -MODEL,-SCENARIO,-REGION) %>%
   mutate(resulttype = "growtherror")
 
 sspbasekayacatchups <- sspbasegrowth %>%
-  select(MODEL,SCENARIO,REGION,variable,catchup40)
-sspbasekayacatchups$index <- seq(1:7)
-sspbasekayacatchups <-sspbasekayacatchups %>%
-  mutate(scenindex = paste(MODEL,SCENARIO,index)) %>%
+  select(MODEL,SCENARIO,REGION,variable,catchup40) %>%
   spread(key = variable, value = catchup40) %>%
   mutate(pcgdpppp = gdpppp - pop,
          energyintensity = energytpes - gdpppp,
          co2intensity = fossilco2 - energytpes) %>%
   select(-gdpppp,-energytpes) %>%
   gather(key = "variable", value = "percent", 
-         -MODEL,-SCENARIO,-REGION,-index,-scenindex) %>%
+         -MODEL,-SCENARIO,-REGION) %>%
   mutate(resulttype = "catchup")
 
-sspkaya <- bind_rows(sspbasekayaerrors,sspbasekayacatchups) 
+sspbasekayaproj40vobs <- sspbasegrowth %>%
+  select(MODEL,SCENARIO,REGION,variable,proj2040vobs) %>%
+  spread(key = variable, value = proj2040vobs) %>%
+  mutate(pcgdpppp = gdpppp - pop,
+         energyintensity = energytpes - gdpppp,
+         co2intensity = fossilco2 - energytpes) %>%
+  select(-gdpppp,-energytpes) %>%
+  gather(key = "variable", value = "percent", 
+         -MODEL,-SCENARIO,-REGION) %>%
+  mutate(resulttype = "proj2040vobs")
+
+sspkaya <- bind_rows(sspbasekayaerrors,
+                     sspbasekayacatchups,
+                     sspbasekayaproj40vobs) 
 
 ##### Combine observed and pcGDP catch-up for Fig. 3
 # compare 2020-2040 catch-up rates to 
 # 2005-2017 observations, 2020-2040 baseline projections,
 # Christensen et al. (2018) (C18) expert range
 
+## calculate growth errors for C18 expert projections 
+## vs 2005-2017 observed (for C18 2010-2050)
+## convert discrete growth (C18) to continuous
+
+# convert ar5growth to table with pcgdp growth only
+ar5pcgdponly <- ar5growth %>%
+  filter(`Baseline Scenario` == "Baseline") %>%
+  select(-`Baseline Scenario`,-UNIT) %>%
+  filter(variable == "gdpmer"
+         | variable == "pop") %>%
+  gather(key = "timeframe", value = "percent", 
+         -MODEL,-SCENARIO,-REGION,-variable) %>%
+    spread(key = variable, value = percent) %>%
+  mutate(pcgdpmer = gdpmer - pop) %>%
+  select(-gdpmer,-pop) %>%
+  spread(key = timeframe, value = pcgdpmer) %>%
+  mutate(variable = "pcgdpmer")
+
+# convert sspbasegrowth to table with pcgdp growth only
+ssppcgdponly <- sspbasegrowth %>%
+  select(-UNIT) %>%
+  filter(variable == "gdpppp"
+         | variable == "pop") %>%
+  gather(key = "timeframe", value = "percent", 
+         -MODEL,-SCENARIO,-REGION,-variable) %>%
+  spread(key = variable, value = percent) %>%
+  mutate(pcgdpppp = gdpppp - pop) %>%
+  select(-gdpppp,-pop) %>%
+  spread(key = timeframe, value = pcgdpppp) %>%
+  mutate(variable = "pcgdpppp")
+
+# merge ar5pcgdponly and ssppcgdponly
+gdptbl <- bind_rows(ar5pcgdponly,ssppcgdponly)
+
+## add in Christensen growth rates
 # for C18 comparison, pair: 
 # MAF & Low Income
 # LAM & Middle Income
@@ -389,16 +455,39 @@ sspkaya <- bind_rows(sspbasekayaerrors,sspbasekayacatchups)
 # Asia & China
 # World & world
 
-# calculate growth errors for 2020-2040 projections
-# vs 2005-2017 observed for SSP and AR5
+## make fig3tbl
+# rename cols for joining, & isolate expert 2010-2050 projections
+# and make percentiles separate columns
+chrregs <- christensenregs %>%
+  rename(REGION = ipccregion)
+chrtbl <- christensentbl %>%
+  rename(christensenregion = region) %>%
+  filter(timeperiod == 1050,
+         source == "expert") %>%
+  select(-timeperiod,-source) %>%
+  spread(key = pctile, value = pcgdpgrowth) %>%
+  rename(chr10th = `10`,
+         chr25th = `25`,
+         chr50th = `50`,
+         chr75th = `75`,
+         chr90th = `90`)
 
-# calculate growth errors for C18 expert projections 
-# vs 2005-2017 observed (for C18 2010-2050)
+# join gdptbl and chrtbl, and calculated chr pctiles as growth errors
+fig3tbl <- gdptbl %>%
+  left_join(chrregs) %>%
+  left_join(chrtbl) %>%
+  select(-christensenregion) %>%
+  mutate(chr10threl = chr10th - growth0517,
+         chr25threl = chr25th - growth0517,
+         chr50threl = chr50th - growth0517,
+         chr75threl = chr75th - growth0517,
+         chr90threl = chr90th - growth0517)
 
-# merge above with ar5kaya and sspkaya
-
-##### EXPORT CSV FOR FIGS 2a,3a (CREATED IN JMP)
+##### EXPORT CSV FOR FIG 2a (CREATED IN JMP)
 write_csv(ar5kaya,"ar5kaya.csv")
 
-##### EXPORT CSV FOR FIGS 2b,3b (CREATED IN JMP)
+##### EXPORT CSV FOR FIG 2b (CREATED IN JMP)
 write_csv(sspkaya,"sspkaya.csv")
+
+##### EXPORT CSV FOR FIG 3 (CREATED IN JMP)
+write_csv(fig3tbl,"fig3tbl.csv")
