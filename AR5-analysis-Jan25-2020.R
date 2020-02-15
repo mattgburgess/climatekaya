@@ -439,6 +439,7 @@ gdptbl <- bind_rows(ar5pcgdponly,ssppcgdponly) %>%
 chrregs <- christensenregs %>%
   rename(REGION = ipccregion)
 chrtbl <- christensentbl %>%
+  mutate(pcgdpgrowth = 100*(log(1+(pcgdpgrowth/100)))) %>%
   rename(christensenregion = region) %>%
   filter(timeperiod == 1050,
          source == "expert") %>%
