@@ -471,3 +471,92 @@ write_csv(sspkaya,"sspkaya.csv")
 
 ##### EXPORT CSV FOR FIG 3 (CREATED IN JMP)
 write_csv(fig3tbl,"fig3tbl.csv")
+
+     #############
+
+##############################################
+##### Sensitivity analysis for economic ###### 
+######### growth in 2009 (Fig. S1) ###########
+##############################################
+
+## Sensitivity test 1: eliminate 2009 and average other 2005-2017 years
+## call (this - unadjusted growth): sensadj1
+
+obsgrowthsens1 <- ieasummary %>%
+  filter(variable != "fossilco2",
+         variable != "energytpes") %>%
+  mutate(adjgrowth0517 = 100*
+           ((
+             (log(`2017`) - log(`2016`)) +
+               (log(`2016`) - log(`2015`)) +
+               (log(`2015`) - log(`2014`)) +
+               (log(`2014`) - log(`2013`)) +
+               (log(`2013`) - log(`2012`)) +
+               (log(`2012`) - log(`2011`)) +
+               (log(`2011`) - log(`2010`)) +
+               (log(`2008`) - log(`2007`)) +
+               (log(`2007`) - log(`2006`)) +
+               (log(`2006`) - log(`2005`)))
+            /10)) %>%
+  select(ipccregion,variable,adjgrowth0517) %>%
+  spread(key = variable, value = adjgrowth0517) %>%
+  mutate(adjpcgdpmer0517 = gdpmer - pop,
+         adjpcgdpppp0517 = gdpppp - pop) %>%
+  select(-gdpppp,-gdpmer,-pop) %>%
+  left_join(obsgrowth2) %>%
+  mutate(pcgdpmer = adjpcgdpmer0517 - pcgdpmer0517,
+         pcgdpppp = adjpcgdpppp0517 - pcgdpppp0517) %>%
+  select(-pcgdpmer0517,-pcgdpppp0517,-adjpcgdpmer0517,-adjpcgdpppp0517) %>%
+  gather(key = "variable", value = "sensadj1", 
+         -ipccregion) %>%
+  rename(REGION = ipccregion)
+  
+
+## Sensitivity test 2: add 3x 2016-2017 growth rate to 2005-2017 averaging, 
+## to adjust for difference in year lengths (relative to 2005-2020),
+## call (this - unadjusted growth): sensadj2
+
+obsgrowthsens2 <- ieasummary %>%
+  filter(variable != "fossilco2",
+         variable != "energytpes") %>%
+  mutate(adjgrowth0517 = 100*
+           ((
+             (log(`2017`) - log(`2005`)) +
+               (3*(log(`2017`) - log(`2016`))))
+            /15)) %>%
+  select(ipccregion,variable,adjgrowth0517) %>%
+  spread(key = variable, value = adjgrowth0517) %>%
+  mutate(adjpcgdpmer0517 = gdpmer - pop,
+         adjpcgdpppp0517 = gdpppp - pop) %>%
+  select(-gdpppp,-gdpmer,-pop) %>%
+  left_join(obsgrowth2) %>%
+  mutate(pcgdpmer = adjpcgdpmer0517 - pcgdpmer0517,
+         pcgdpppp = adjpcgdpppp0517 - pcgdpppp0517) %>%
+  select(-pcgdpmer0517,-pcgdpppp0517,-adjpcgdpmer0517,-adjpcgdpppp0517) %>%
+  gather(key = "variable", value = "sensadj2", 
+         -ipccregion) %>%
+  rename(REGION = ipccregion)
+
+# calculate difference between these growth rates and unadjusted 2005-2017,
+# and subtract this difference from errors shown in Fig. 2
+
+obsgrowthsens <- left_join(obsgrowthsens1,obsgrowthsens2)
+
+ar5sensadjpcgdp <- ar5basekayaerrors %>%
+  filter(variable == "pcgdpmer") %>%
+  left_join(obsgrowthsens) %>%
+  mutate(DATABASE = "AR5",
+         grerrsens1 = percent - sensadj1,
+         grerrsens2 = percent - sensadj2)
+
+sspsensadjpcgdp <- sspbasekayaerrors %>%
+  filter(variable == "pcgdpppp") %>%
+  left_join(obsgrowthsens) %>%
+  mutate(DATABASE = "SSPs",
+         grerrsens1 = percent - sensadj1,
+         grerrsens2 = percent - sensadj2)
+
+figs1tbl <- bind_rows(ar5sensadjpcgdp,sspsensadjpcgdp)
+  
+##### EXPORT CSV FOR FIG S1 (CREATED IN JMP)
+write_csv(figs1tbl,"figs1tbl.csv")
