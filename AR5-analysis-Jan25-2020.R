@@ -7,7 +7,8 @@
 # Burgess, Ritchie, Shapland, and Pielke Jr.:
 # "IPCC baseline scenarios over-project CO2 emissions and economic growth".
 # The code generates and stores csv tables used
-# (via JMP) to make Figs. 2 and 3.
+# (via JMP) to make Figs. 2, 3, and S1. The jsl scripts used to 
+# make these figures are also stored in the github repo.
 
 ############################
 ########### Code ###########
@@ -151,9 +152,10 @@ ieadf <- left_join(x = ieadf,y = ipccregionlookup) %>%
   rename(iearegion = `IEA REGION`,
          ipccregion = `IPCC REGION`)
 
-## Add up variables by IPCC REGION
+## Add up variables by IPCC REGION, remove AG-NA groups
 ieasummary <- ieadf %>%
   select(-iearegion) %>%
+  filter(ipccregion != "AG-NA") %>%
   group_by(variable, ipccregion) %>%
   summarise_all(funs(sum(.,na.rm = T)))
 
@@ -163,17 +165,18 @@ obsgrowth <- ieasummary %>%
   mutate(growth0517 = 100*((log(`2017`) - log(`2005`))/12)) %>%
   select(ipccregion,variable,growth0517) 
 
+# get observed pcGDP growth rates for Fig. 3
 obsgrowth2 <- obsgrowth %>%
   spread(key = variable, value = growth0517) %>%
   mutate(pcgdpmer0517 = gdpmer - pop,
          pcgdpppp0517 = gdpppp - pop) %>%
-  select(-gdpppp,-gdpmer,-pop,-fossilco2,-energytpes) # get observed pcGDP growth rates for Fig. 3
+  select(-gdpppp,-gdpmer,-pop,-fossilco2,-energytpes) 
 
 ## Load Christensen et al. 2018 table for comparison
 christensentbl <- read_excel(here("Data", 
                                   "Christensen-2018-expert-projections.XLS"))
 
-## Load region lookup table for comparing Christensen growth rates
+## Load region lookup table for comparing Christensen growth rates (see Methods section 4)
 christensenregs <- read_excel(here("Data", "ipcc-christensen-comparison-regions.XLS"))
 
 ### Calculate Kaya factor growth errors for AR5 and SSP databases by region
@@ -219,7 +222,6 @@ ar5keyvars <- bind_rows(ar5keyvars,ar5regff)
 
 # define conversion factors for coal, oil, and gas -> CO2 emissions
 # following RD18
-
 epsilon_k <- 94.6 #MtCO2/EJ
 epsilon_g <- 56.1 #MtCO2/EJ
 epsilon_o <- 73.3 #MtCO2/EJ
@@ -281,7 +283,7 @@ ar5basekayacatchups <- ar5growth %>%
          co2intensity = fossilco2 - energytpes) %>%
   select(-gdpmer,-energytpes) %>%
   gather(key = "variable", value = "percent", -MODEL,-SCENARIO,-REGION) %>%
-  mutate(resulttype = "catchuperror")
+  mutate(resulttype = "catchuprate")
 
 ar5kaya <- bind_rows(ar5basekayaerrors,
                      ar5basekayacatchups) 
@@ -376,7 +378,7 @@ sspbasekayacatchups <- sspbasegrowth %>%
   select(-gdpppp,-energytpes) %>%
   gather(key = "variable", value = "percent", 
          -MODEL,-SCENARIO,-REGION) %>%
-  mutate(resulttype = "catchup")
+  mutate(resulttype = "catchuprate")
 
 sspkaya <- bind_rows(sspbasekayaerrors,
                      sspbasekayacatchups) 
