@@ -556,7 +556,10 @@ sspsensadjpcgdp <- sspbasekayaerrors %>%
          grerrsens1 = percent - sensadj1,
          grerrsens2 = percent - sensadj2)
 
-figs1tbl <- bind_rows(ar5sensadjpcgdp,sspsensadjpcgdp)
+figs1tbl <- bind_rows(ar5sensadjpcgdp,sspsensadjpcgdp) %>%
+  select(-sensadj1,-sensadj2,-resulttype) %>%
+  gather(key = "sensitivity", value = "percent", 
+         -REGION,-MODEL,-SCENARIO,-DATABASE,-variable)
   
 ##### EXPORT CSV FOR FIG S1 (CREATED IN JMP)
 write_csv(figs1tbl,"figs1tbl.csv")
