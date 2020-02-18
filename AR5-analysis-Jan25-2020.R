@@ -7,7 +7,7 @@
 # Burgess, Ritchie, Shapland, and Pielke Jr.:
 # "IPCC baseline scenarios over-project CO2 emissions and economic growth".
 # The code generates and stores csv tables used
-# (via JMP) to make Figs. 2, 3, and S1. The jsl scripts used to 
+# (via JMP) to make Figs. 2, 3, S2, and S3. The jsl scripts used to 
 # make these figures are also stored in the github repo.
 
 ############################
@@ -25,6 +25,7 @@ library(tidyverse)
 library(forcats)
 library(here)
 library(readxl)
+library(imputeTS)
 
 #####################################
 ########### LOAD Data ###############
@@ -383,7 +384,7 @@ sspbasekayacatchups <- sspbasegrowth %>%
 sspkaya <- bind_rows(sspbasekayaerrors,
                      sspbasekayacatchups) 
 
-##### Combine observed and pcGDP catch-up for Fig. 3
+##### Combine observed and pcGDP catch-up for Fig. 3a,b
 # compare 2020-2040 catch-up rates to 
 # 2005-2017 observations, 2020-2040 baseline projections,
 # Christensen et al. (2018) (C18) expert range
@@ -461,7 +462,7 @@ chrtbl3 <- chrtbl2 %>%
 
 # join gdptbl and chrtbl, and calculated chr pctiles as growth errors
 # remove rows showing growth error and projected 2005-2020 growth
-fig3tbl <- bind_rows(gdptbl,chrtbl2,chrtbl3) %>%
+fig3abtbl <- bind_rows(gdptbl,chrtbl2,chrtbl3) %>%
   filter(growthmeasure != "growtherror",
          growthmeasure != "growth0520")
 
@@ -471,14 +472,14 @@ write_csv(ar5kaya,"ar5kaya.csv")
 ##### EXPORT CSV FOR FIG 2b (CREATED IN JMP)
 write_csv(sspkaya,"sspkaya.csv")
 
-##### EXPORT CSV FOR FIG 3 (CREATED IN JMP)
-write_csv(fig3tbl,"fig3tbl.csv")
+##### EXPORT CSV FOR FIG 3a,b (CREATED IN JMP)
+write_csv(fig3abtbl,"fig3abtbl.csv")
 
      #############
 
 ##############################################
 ##### Sensitivity analysis for economic ###### 
-######### growth in 2009 (Fig. S1) ###########
+######### growth in 2009 (Fig. S2) ###########
 ##############################################
 
 ## Sensitivity test 1: eliminate 2009 and average other 2005-2017 years
@@ -558,10 +559,122 @@ sspsensadjpcgdp <- sspbasekayaerrors %>%
          grerrsens1 = percent - sensadj1,
          grerrsens2 = percent - sensadj2)
 
-figs1tbl <- bind_rows(ar5sensadjpcgdp,sspsensadjpcgdp) %>%
+figs2tbl <- bind_rows(ar5sensadjpcgdp,sspsensadjpcgdp) %>%
   select(-sensadj1,-sensadj2,-resulttype) %>%
   gather(key = "sensitivity", value = "percent", 
          -REGION,-MODEL,-SCENARIO,-DATABASE,-variable)
   
-##### EXPORT CSV FOR FIG S1 (CREATED IN JMP)
-write_csv(figs1tbl,"figs1tbl.csv")
+##### EXPORT CSV FOR FIG S2 (CREATED IN JMP)
+write_csv(figs2tbl,"figs2tbl.csv")
+
+################################################
+##### Comparison of SSPs and IMF WEO ########### 
+############### (Figs. 3c, S3) #################
+################################################
+
+# Load IMF WEO data
+imfweo <- read_csv(here("Data", "WEOOct2019all.csv"))
+
+# create list of IMF WEO countries, in order to create lookup table
+# with IPCC regions
+# imfcountrylist <- imfweo %>%
+#   group_by(Country) %>%
+#   summarise(mn05 = mean(`2005`)) %>%
+#   select(-mn05)
+
+# write_csv(imfcountrylist, here("Data", "imfcountries.csv")) 
+# I did this once, and then added in lookups for IPCC regions by hand.
+# I named the resulting table "imfregionlookup.csv"
+
+# load IPCC-IMF region lookup table
+imfregionlookup <- read_csv(here("Data", "imfregionlookup.csv"))
+
+# calculate regional GDP per capita (PPP) growth rates from IMF
+imfweotblregion <- imfweo %>%
+  left_join(imfregionlookup) %>% # join region lookup table
+  select(-`Estimates Start After`) %>%
+  filter(is.na(ISO) == F) %>%
+  filter(`WEO Subject Code` == "NGDPRPPPPC"    # select p.-c. GDP constant PPP
+         | `WEO Subject Code` == "NGDP"        # select GDP current local currency
+         | `WEO Subject Code` == "NGDPPC") %>% # select p.-c. GDP current local currency
+  select(-`WEO Country Code`,-`ISO`,-`Subject Descriptor`,
+         -`Subject Notes`,-`Country/Series-specific Notes`) %>%
+  gather(key = "year", value = "value",
+         -`WEO Subject Code`,-REGION,-Country,-Units,-Scale) %>%
+  type_convert(na = c("n/a", "--")) %>%
+  select(-Units,-Scale) %>%
+  rename(series = `WEO Subject Code`) %>%
+  spread(key = series, value = value) %>%
+  mutate(population = NGDP/NGDPPC,                # calculate population (not given) from NGDP / NGDPPC,
+         NGDPRPPP = NGDPRPPPPC * population) %>%  # then multiply by NGDPRPPPPC to get contant PPP GDP (also not given) 
+  group_by(REGION,year) %>%
+  summarise(gdpppp = sum(NGDPRPPP,na.rm = T), # calculate sums of GDP and population by IPCC region
+            population = sum(population,na.rm = T)) %>%
+  group_by(REGION) %>%
+  mutate(pcgdpppp = gdpppp/population) %>%
+  mutate(pcgdpgrowth = 100*(log(pcgdpppp) - log(lag(pcgdpppp))),
+         gdpgrowth = 100*(log(gdpppp) - log(lag(gdpppp))))
+
+# calculate global GDP per capita growth rates from IMF  
+imfweotblworld <- imfweotblregion %>%
+  group_by(year) %>%
+  summarise(gdpppp = sum(gdpppp,na.rm = T), # calculate sums of GDP and population by IPCC region
+            population = sum(population,na.rm = T)) %>%
+  mutate(pcgdpppp = gdpppp/population) %>%
+  mutate(pcgdpgrowth = 100*(log(pcgdpppp) - log(lag(pcgdpppp))),
+         gdpgrowth = 100*(log(gdpppp) - log(lag(gdpppp))),
+         REGION = "World")
+
+# combine global and regional nunbers
+imfweotbl <- bind_rows(imfweotblregion,imfweotblworld) %>%
+  mutate_at(vars(year),as.double) %>%
+  select(REGION, year, pcgdpppp, pcgdpgrowth) %>%
+  mutate(database = "IMF WEO",
+         MODEL = "IMF WEO",
+         SCENARIO = "IMF WEO")
+
+# check IMF numbers against IEA
+ieapcdgpgrowth <- ieadf %>%
+  rename(REGION = ipccregion) %>%
+  filter(REGION != "AG-NA") %>%
+  gather(key = "year", value = "value", -iearegion, -REGION,-variable) %>%
+  spread(key = variable, value = value) %>%
+  group_by(REGION, year) %>%
+  summarise(gdpppp = sum(gdpppp, na.rm = T),
+            pop = sum(pop, na.rm = T)) %>%
+  mutate(pcgdpppp = gdpppp/pop,
+         pcgdpgrowth = 100*(log(pcgdpppp) - log(lag(pcgdpppp))),
+         gdpgrowth = 100*(log(gdpppp) - log(lag(gdpppp)))) %>%
+  mutate_at(vars(year),as.double) %>%
+  select(REGION, year, pcgdpppp, pcgdpgrowth) %>%
+  mutate(database = "IEA",
+         MODEL = "IEA",
+         SCENARIO = "IEA")
+        
+# calculate growth rates in SSP baseline scenarios
+ssppopgdp <- sspbaselinedf %>%
+  filter(VARIABLE == "Population"
+         | VARIABLE == "GDP|PPP") %>%
+  gather(key = "year", value = "value",
+         -MODEL,-SCENARIO,-VARIABLE,-UNIT,-REGION) %>%
+  select(-UNIT) %>%
+  spread(key = VARIABLE, value = value) %>%
+  rename(gdpppp = `GDP|PPP`,
+         population = Population) %>%
+  mutate(pcgdpppp = gdpppp/population) %>%
+  select(-gdpppp,-population) %>%
+  group_by(MODEL,SCENARIO,REGION) %>%
+  mutate_at(vars(year),as.double) %>%
+  mutate(lnpcgdpppp = log(pcgdpppp)) %>% # convert pcgdp to log scale so linear interpolation preserves growth rate.
+  complete(year = full_seq(year, 1),MODEL,SCENARIO,REGION) %>% # expand table to annual
+  arrange(MODEL,SCENARIO,REGION, year) %>% 
+  mutate(inlnpcgdp = na.interpolation(lnpcgdpppp)) %>% # linearly interpolate missing annual values
+  mutate(pcgdpgrowth = 100*(inlnpcgdp - lag(inlnpcgdp))) %>% # calculate imputed annual growth rates
+  mutate(database = "SSPs") 
+
+
+# join IEA, IMF, and SSP tables
+fig3cs3tbl <- bind_rows(ssppopgdp, imfweotbl, ieapcdgpgrowth)
+
+##### EXPORT CSV FOR FIG 3c (CREATED IN JMP)
+write_csv(fig3cs3tbl,"fig3cs3tbl.csv")
