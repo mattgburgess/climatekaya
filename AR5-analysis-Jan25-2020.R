@@ -384,7 +384,7 @@ sspbasekayacatchups <- sspbasegrowth %>%
 sspkaya <- bind_rows(sspbasekayaerrors,
                      sspbasekayacatchups) 
 
-##### Combine observed and pcGDP catch-up for Fig. 3a,b
+##### Combine observed and pcGDP catch-up for Fig. 3b,c
 # compare 2020-2040 catch-up rates to 
 # 2005-2017 observations, 2020-2040 baseline projections,
 # Christensen et al. (2018) (C18) expert range
@@ -435,7 +435,7 @@ gdptbl <- bind_rows(ar5pcgdponly,ssppcgdponly) %>%
 # Asia & China
 # World & world
 
-## make fig3tbl
+## make fig3tbcl
 # rename cols for joining, & isolate expert 2010-2050 projections
 # and make percentiles separate columns 
 # make versions of the Christensen table that pair with each of SSPs and AR5
@@ -462,7 +462,7 @@ chrtbl3 <- chrtbl2 %>%
 
 # join gdptbl and chrtbl, and calculated chr pctiles as growth errors
 # remove rows showing growth error and projected 2005-2020 growth
-fig3abtbl <- bind_rows(gdptbl,chrtbl2,chrtbl3) %>%
+fig3bctbl <- bind_rows(gdptbl,chrtbl2,chrtbl3) %>%
   filter(growthmeasure != "growtherror",
          growthmeasure != "growth0520")
 
@@ -472,8 +472,8 @@ write_csv(ar5kaya,"ar5kaya.csv")
 ##### EXPORT CSV FOR FIG 2b (CREATED IN JMP)
 write_csv(sspkaya,"sspkaya.csv")
 
-##### EXPORT CSV FOR FIG 3a,b (CREATED IN JMP)
-write_csv(fig3abtbl,"fig3abtbl.csv")
+##### EXPORT CSV FOR FIG 3b,c (CREATED IN JMP)
+write_csv(fig3bctbl,"fig3bctbl.csv")
 
      #############
 
@@ -569,7 +569,7 @@ write_csv(figs2tbl,"figs2tbl.csv")
 
 ################################################
 ##### Comparison of SSPs and IMF WEO ########### 
-############### (Figs. 3c, S3) #################
+############### (Figs. 3a, S3) #################
 ################################################
 
 # Load IMF WEO data
@@ -674,7 +674,7 @@ ssppopgdp <- sspbaselinedf %>%
 
 
 # join IEA, IMF, and SSP tables
-fig3cs3tbl <- bind_rows(ssppopgdp, imfweotbl, ieapcdgpgrowth)
+fig3as3tbl <- bind_rows(ssppopgdp, imfweotbl, ieapcdgpgrowth)
 
 ##### EXPORT CSV FOR FIG 3c (CREATED IN JMP)
-write_csv(fig3cs3tbl,"fig3cs3tbl.csv")
+write_csv(fig3as3tbl,"fig3as3tbl.csv")
