@@ -1,0 +1,290 @@
+unregion,REGION
+WORLD,World
+UN development groups,AG-NA
+More developed regions,AG-NA
+Less developed regions,AG-NA
+Least developed countries,AG-NA
+"Less developed regions, excluding least developed countries",AG-NA
+"Less developed regions, excluding China",AG-NA
+Land-locked Developing Countries (LLDC),AG-NA
+Small Island Developing States (SIDS),AG-NA
+World Bank income groups,AG-NA
+High-income countries,AG-NA
+Middle-income countries,AG-NA
+Upper-middle-income countries,AG-NA
+Lower-middle-income countries,AG-NA
+Low-income countries,AG-NA
+No income group available,AG-NA
+Geographic regions,AG-NA
+Africa,AG-NA
+Asia,AG-NA
+Europe,AG-NA
+Latin America and the Caribbean,AG-NA
+Northern America,AG-NA
+Oceania,AG-NA
+Sustainable Development Goal (SDG) regions,AG-NA
+SUB-SAHARAN AFRICA,AG-NA
+Eastern Africa,AG-NA
+Burundi,MAF
+Comoros,MAF
+Djibouti,MAF
+Eritrea,MAF
+Ethiopia,MAF
+Kenya,MAF
+Madagascar,MAF
+Malawi,MAF
+Mauritius,MAF
+Mayotte,MAF
+Mozambique,MAF
+R√©union,MAF
+Rwanda,MAF
+Seychelles,MAF
+Somalia,MAF
+South Sudan,MAF
+Uganda,MAF
+United Republic of Tanzania,MAF
+Zambia,MAF
+Zimbabwe,MAF
+Middle Africa,AG-NA
+Angola,MAF
+Cameroon,MAF
+Central African Republic,MAF
+Chad,MAF
+Congo,MAF
+Democratic Republic of the Congo,MAF
+Equatorial Guinea,MAF
+Gabon,MAF
+Sao Tome and Principe,MAF
+Southern Africa,AG-NA
+Botswana,MAF
+Eswatini,MAF
+Lesotho,MAF
+Namibia,MAF
+South Africa,MAF
+Western Africa,AG-NA
+Benin,MAF
+Burkina Faso,MAF
+Cabo Verde,MAF
+Côte d'Ivoire,MAF
+Gambia,MAF
+Ghana,MAF
+Guinea,MAF
+Guinea-Bissau,MAF
+Liberia,MAF
+Mali,MAF
+Mauritania,MAF
+Niger,MAF
+Nigeria,MAF
+Saint Helena,MAF
+Senegal,MAF
+Sierra Leone,MAF
+Togo,MAF
+NORTHERN AFRICA AND WESTERN ASIA,AG-NA
+Northern Africa,AG-NA
+Algeria,MAF
+Egypt,MAF
+Libya,MAF
+Morocco,MAF
+Sudan,MAF
+Tunisia,MAF
+Western Sahara,MAF
+Western Asia,AG-NA
+Armenia,REF
+Azerbaijan,REF
+Bahrain,MAF
+Cyprus,REF
+Georgia,REF
+Iraq,MAF
+Israel,MAF
+Jordan,MAF
+Kuwait,MAF
+Lebanon,MAF
+Oman,MAF
+Qatar,MAF
+Saudi Arabia,MAF
+State of Palestine,MAF
+Syrian Arab Republic,MAF
+Turkey,OECD90
+United Arab Emirates,MAF
+Yemen,MAF
+CENTRAL AND SOUTHERN ASIA,AG-NA
+Central Asia,AG-NA
+Kazakhstan,REF
+Kyrgyzstan,REF
+Tajikistan,REF
+Turkmenistan,REF
+Uzbekistan,REF
+Southern Asia,AG-NA
+Afghanistan,ASIA
+Bangladesh,ASIA
+Bhutan,ASIA
+India,ASIA
+Iran (Islamic Republic of),MAF
+Maldives,ASIA
+Nepal,ASIA
+Pakistan,ASIA
+Sri Lanka,ASIA
+EASTERN AND SOUTH-EASTERN ASIA,AG-NA
+Eastern Asia,AG-NA
+China,ASIA
+"China, Hong Kong SAR",ASIA
+"China, Macao SAR",ASIA
+"China, Taiwan Province of China",ASIA
+Dem. People's Republic of Korea,ASIA
+Japan,OECD90
+Mongolia,ASIA
+Republic of Korea,ASIA
+South-Eastern Asia,AG-NA
+Brunei Darussalam,ASIA
+Cambodia,ASIA
+Indonesia,ASIA
+Lao People's Democratic Republic,ASIA
+Malaysia,ASIA
+Myanmar,ASIA
+Philippines,ASIA
+Singapore,ASIA
+Thailand,ASIA
+Timor-Leste,ASIA
+Viet Nam,ASIA
+LATIN AMERICA AND THE CARIBBEAN,AG-NA
+Caribbean,AG-NA
+Anguilla,LAM
+Antigua and Barbuda,LAM
+Aruba,LAM
+Bahamas,LAM
+Barbados,LAM
+"Bonaire, Sint Eustatius and Saba",OTHER
+British Virgin Islands,LAM
+Cayman Islands,LAM
+Cuba,LAM
+Curaçao,LAM
+Dominica,LAM
+Dominican Republic,LAM
+Grenada,LAM
+Guadeloupe,LAM
+Haiti,LAM
+Jamaica,LAM
+Martinique,LAM
+Montserrat,LAM
+Puerto Rico,LAM
+Saint Barthélemy,OTHER
+Saint Kitts and Nevis,LAM
+Saint Lucia,LAM
+Saint Martin (French part),LAM
+Saint Vincent and the Grenadines,LAM
+Sint Maarten (Dutch part),LAM
+Trinidad and Tobago,LAM
+Turks and Caicos Islands,LAM
+United States Virgin Islands,LAM
+Central America,AG-NA
+Belize,LAM
+Costa Rica,LAM
+El Salvador,LAM
+Guatemala,LAM
+Honduras,LAM
+Mexico,LAM
+Nicaragua,LAM
+Panama,LAM
+South America,AG-NA
+Argentina,LAM
+Bolivia (Plurinational State of),LAM
+Brazil,LAM
+Chile,LAM
+Colombia,LAM
+Ecuador,LAM
+Falkland Islands (Malvinas),LAM
+French Guiana,LAM
+Guyana,LAM
+Paraguay,LAM
+Peru,LAM
+Suriname,LAM
+Uruguay,LAM
+Venezuela (Bolivarian Republic of),LAM
+AUSTRALIA/NEW ZEALAND,AG-NA
+Australia,OECD90
+New Zealand,OECD90
+OCEANIA (EXCLUDING AUSTRALIA AND NEW ZEALAND),AG-NA
+Melanesia,AG-NA
+Fiji,ASIA
+New Caledonia,ASIA
+Papua New Guinea,ASIA
+Solomon Islands,ASIA
+Vanuatu,ASIA
+Micronesia,AG-NA
+Guam,OECD90
+Kiribati,ASIA
+Marshall Islands,ASIA
+Micronesia (Fed. States of),
+Nauru,ASIA
+Northern Mariana Islands,ASIA
+Palau,ASIA
+Polynesia,AG-NA
+American Samoa,ASIA
+Cook Islands,ASIA
+French Polynesia,ASIA
+Niue,ASIA
+Samoa,ASIA
+Tokelau,ASIA
+Tonga,ASIA
+Tuvalu,ASIA
+Wallis and Futuna Islands,ASIA
+EUROPE AND NORTHERN AMERICA,AG-NA
+EUROPE,AG-NA
+Eastern Europe,AG-NA
+Belarus,REF
+Bulgaria,REF
+Czechia,REF
+Hungary,REF
+Poland,REF
+Republic of Moldova,REF
+Romania,REF
+Russian Federation,REF
+Slovakia,REF
+Ukraine,REF
+Northern Europe,AG-NA
+Channel Islands,OECD90
+Denmark,OECD90
+Estonia,REF
+Faroe Islands,OECD90
+Finland,OECD90
+Iceland,OECD90
+Ireland,OECD90
+Isle of Man,OECD90
+Latvia,REF
+Lithuania,REF
+Norway,OECD90
+Sweden,OECD90
+United Kingdom,OECD90
+Southern Europe,AG-NA
+Albania,REF
+Andorra,OECD90
+Bosnia and Herzegovina,REF
+Croatia,REF
+Gibraltar,OECD90
+Greece,OECD90
+Holy See,OECD90
+Italy,OECD90
+Malta,REF
+Montenegro,REF
+North Macedonia,REF
+Portugal,OECD90
+San Marino,OECD90
+Serbia,REF
+Slovenia,REF
+Spain,OECD90
+Western Europe,AG-NA
+Austria,OECD90
+Belgium,OECD90
+France,OECD90
+Germany,OECD90
+Liechtenstein,OECD90
+Luxembourg,OECD90
+Monaco,OECD90
+Netherlands,OECD90
+Switzerland,OECD90
+NORTHERN AMERICA,AG-NA
+Bermuda,LAM
+Canada,OECD90
+Greenland,OECD90
+Saint Pierre and Miquelon,OECD90
+United States of America,OECD90
