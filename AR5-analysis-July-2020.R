@@ -5,7 +5,7 @@
 # This script runs the comparison of observed
 # and projected Kaya factors described in:
 # Burgess, Ritchie, Shapland, and Pielke Jr.:
-# "IPCC baseline scenarios over-project CO2 emissions and economic growth".
+# "IPCC baseline scenarios have over-projected CO2 emissions and economic growth".
 # The code generates and stores csv tables used
 # (via JMP) to make Figs. 2, 3, 4, S2, and S3. The jsl scripts used to 
 # make these figures are also stored in the github repo.
