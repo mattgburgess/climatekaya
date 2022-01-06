@@ -1,0 +1,241 @@
+Entity,Code,REGION
+Afghanistan,AFG,ASIA
+Africa Eastern and Southern,,AG-NA
+Africa Western and Central,,AG-NA
+Albania,ALB,REF
+Algeria,DZA,MAF
+Angola,AGO,MAF
+Antigua and Barbuda,ATG,LAM
+Arab World,,AG-NA
+Argentina,ARG,LAM
+Armenia,ARM,REF
+Aruba,ABW,LAM
+Australia,AUS,OECD90
+Austria,AUT,OECD90
+Azerbaijan,AZE,REF
+Bahamas,BHS,LAM
+Bahrain,BHR,MAF
+Bangladesh,BGD,ASIA
+Barbados,BRB,LAM
+Belarus,BLR,REF
+Belgium,BEL,OECD90
+Belize,BLZ,LAM
+Benin,BEN,MAF
+Bermuda,BMU,LAM
+Bhutan,BTN,ASIA
+Bolivia,BOL,LAM
+Bosnia and Herzegovina,BIH,REF
+Botswana,BWA,MAF
+Brazil,BRA,LAM
+Brunei,BRN,ASIA
+Bulgaria,BGR,REF
+Burkina Faso,BFA,MAF
+Burundi,BDI,MAF
+Cambodia,KHM,ASIA
+Cameroon,CMR,MAF
+Canada,CAN,OECD90
+Cape Verde,CPV,MAF
+Caribbean Small States,,AG-NA
+Cayman Islands,CYM,LAM
+Central African Republic,CAF,MAF
+Central Europe and the Baltics,,AG-NA
+Chad,TCD,MAF
+Chile,CHL,LAM
+China,CHN,ASIA
+Colombia,COL,LAM
+Comoros,COM,MAF
+Congo,COG,MAF
+Costa Rica,CRI,LAM
+Cote d'Ivoire,CIV,MAF
+Croatia,HRV,REF
+Curacao,CUW,LAM
+Cyprus,CYP,REF
+Czechia,CZE,REF
+Democratic Republic of Congo,COD,MAF
+Denmark,DNK,OECD90
+Djibouti,DJI,MAF
+Dominica,DMA,LAM
+Dominican Republic,DOM,LAM
+Early-demographic dividend,,AG-NA
+East Asia & Pacific,,AG-NA
+East Asia & Pacific (excluding high income),,AG-NA
+East Asia & Pacific (IDA & IBRD),,AG-NA
+Ecuador,ECU,LAM
+Egypt,EGY,MAF
+El Salvador,SLV,LAM
+Equatorial Guinea,GNQ,MAF
+Estonia,EST,REF
+Eswatini,SWZ,MAF
+Ethiopia,ETH,MAF
+Euro area,,AG-NA
+Europe & Central Asia,,AG-NA
+Europe & Central Asia (excluding high income),,AG-NA
+Europe & Central Asia (IDA & IBRD),,AG-NA
+European Union,,AG-NA
+Fiji,FJI,ASIA
+Finland,FIN,OECD90
+France,FRA,OECD90
+Gabon,GAB,MAF
+Gambia,GMB,MAF
+Georgia,GEO,REF
+Germany,DEU,OECD90
+Ghana,GHA,MAF
+Greece,GRC,OECD90
+Grenada,GRD,LAM
+Guatemala,GTM,LAM
+Guinea,GIN,MAF
+Guinea-Bissau,GNB,MAF
+Guyana,GUY,LAM
+Haiti,HTI,LAM
+Heavily indebted poor countries (HIPC),,AG-NA
+High income,,AG-NA
+Honduras,HND,LAM
+Hong Kong,HKG,ASIA
+Hungary,HUN,REF
+IBRD only,,AG-NA
+Iceland,ISL,OECD90
+IDA & IBRD total,,AG-NA
+IDA blend,,AG-NA
+IDA only,,AG-NA
+IDA total,,AG-NA
+India,IND,ASIA
+Indonesia,IDN,ASIA
+Iran,IRN,MAF
+Iraq,IRQ,MAF
+Ireland,IRL,OECD90
+Israel,ISR,MAF
+Italy,ITA,OECD90
+Jamaica,JAM,LAM
+Japan,JPN,OECD90
+Jordan,JOR,MAF
+Kazakhstan,KAZ,REF
+Kenya,KEN,MAF
+Kiribati,KIR,ASIA
+Kosovo,OWID_KOS,REF
+Kuwait,KWT,MAF
+Kyrgyzstan,KGZ,REF
+Laos,LAO,ASIA
+Late-demographic dividend,,AG-NA
+Latin America & Caribbean,,AG-NA
+Latin America & Caribbean (excluding high income),,AG-NA
+Latin America & Caribbean (IDA & IBRD),,AG-NA
+Latvia,LVA,REF
+Least developed countries: UN classification,,AG-NA
+Lebanon,LBN,MAF
+Lesotho,LSO,MAF
+Liberia,LBR,MAF
+Libya,LBY,MAF
+Lithuania,LTU,REF
+Low & middle income,,AG-NA
+Lower middle income,,AG-NA
+Luxembourg,LUX,OECD90
+Macao,MAC,ASIA
+Madagascar,MDG,MAF
+Malawi,MWI,MAF
+Malaysia,MYS,ASIA
+Maldives,MDV,ASIA
+Mali,MLI,MAF
+Malta,MLT,REF
+Marshall Islands,MHL,ASIA
+Mauritania,MRT,MAF
+Mauritius,MUS,MAF
+Mexico,MEX,LAM
+Micronesia (country),FSM,ASIA
+Middle East & North Africa,,AG-NA
+Middle East & North Africa (excluding high income),,AG-NA
+Middle East & North Africa (IDA & IBRD),,AG-NA
+Middle income,,AG-NA
+Moldova,MDA,REF
+Mongolia,MNG,ASIA
+Montenegro,MNE,REF
+Morocco,MAR,MAF
+Mozambique,MOZ,MAF
+Myanmar,MMR,ASIA
+Namibia,NAM,MAF
+Nauru,NRU,ASIA
+Nepal,NPL,ASIA
+Netherlands,NLD,OECD90
+New Zealand,NZL,OECD90
+Nicaragua,NIC,LAM
+Niger,NER,MAF
+Nigeria,NGA,MAF
+North America,,AG-NA
+North Macedonia,MKD,REF
+Norway,NOR,OECD90
+OECD members,,AG-NA
+Oman,OMN,MAF
+Other small states,,AG-NA
+Pacific island small states,,AG-NA
+Pakistan,PAK,ASIA
+Palau,PLW,ASIA
+Palestine,PSE,MAF
+Panama,PAN,LAM
+Papua New Guinea,PNG,ASIA
+Paraguay,PRY,LAM
+Peru,PER,LAM
+Philippines,PHL,ASIA
+Poland,POL,REF
+Portugal,PRT,OECD90
+Post-demographic dividend,,AG-NA
+Pre-demographic dividend,,AG-NA
+Puerto Rico,PRI,LAM
+Qatar,QAT,MAF
+Romania,ROU,REF
+Russia,RUS,REF
+Rwanda,RWA,MAF
+Saint Kitts and Nevis,KNA,LAM
+Saint Lucia,LCA,LAM
+Saint Vincent and the Grenadines,VCT,LAM
+Samoa,WSM,ASIA
+San Marino,SMR,OECD90
+Sao Tome and Principe,STP,MAF
+Saudi Arabia,SAU,MAF
+Senegal,SEN,MAF
+Serbia,SRB,REF
+Seychelles,SYC,MAF
+Sierra Leone,SLE,MAF
+Singapore,SGP,ASIA
+Sint Maarten (Dutch part),SXM,LAM
+Slovakia,SVK,REF
+Slovenia,SVN,REF
+Small states,,AG-NA
+Solomon Islands,SLB,ASIA
+Somalia,SOM,MAF
+South Africa,ZAF,MAF
+South Asia,,AG-NA
+South Asia (IDA & IBRD),,AG-NA
+South Korea,KOR,ASIA
+Spain,ESP,OECD90
+Sri Lanka,LKA,ASIA
+Sub-Saharan Africa,,AG-NA
+Sub-Saharan Africa (excluding high income),,AG-NA
+Sub-Saharan Africa (IDA & IBRD),,AG-NA
+Sudan,SDN,MAF
+Suriname,SUR,LAM
+Sweden,SWE,OECD90
+Switzerland,CHE,OECD90
+Tajikistan,TJK,REF
+Tanzania,TZA,MAF
+Thailand,THA,ASIA
+Timor,TLS,ASIA
+Togo,TGO,MAF
+Tonga,TON,ASIA
+Trinidad and Tobago,TTO,LAM
+Tunisia,TUN,MAF
+Turkey,TUR,OECD90
+Turkmenistan,TKM,REF
+Turks and Caicos Islands,TCA,LAM
+Tuvalu,TUV,ASIA
+Uganda,UGA,MAF
+Ukraine,UKR,REF
+United Arab Emirates,ARE,MAF
+United Kingdom,GBR,OECD90
+United States,USA,OECD90
+Upper middle income,,AG-NA
+Uruguay,URY,LAM
+Uzbekistan,UZB,REF
+Vanuatu,VUT,ASIA
+Vietnam,VNM,ASIA
+World,OWID_WRL,AG-NA
+Zambia,ZMB,MAF
+Zimbabwe,ZWE,MAF

@@ -1,0 +1,78 @@
+Year,CCS (Mt),SCENARIO,MODEL,REGION,VARIABLE,UNIT
+2010,13.339,Operational Capacity,NA,NA,NA,NA
+2011,20.295,Operational Capacity,NA,NA,NA,NA
+2012,20.348,Operational Capacity,NA,NA,NA,NA
+2013,27.212,Operational Capacity,NA,NA,NA,NA
+2014,28.088,Operational Capacity,NA,NA,NA,NA
+2015,29.887,Operational Capacity,NA,NA,NA,NA
+2016,30.628,Operational Capacity,NA,NA,NA,NA
+2017,32.157,Operational Capacity,NA,NA,NA,NA
+2018,32.762,Operational Capacity,NA,NA,NA,NA
+2019,37.601,Operational Capacity,NA,NA,NA,NA
+2020,38.369,Operational Capacity,NA,NA,NA,NA
+2005,NA,SSP4-60,GCAM4,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2005,0,SSP1-19,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2005,0,SSP1-26,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2005,0,SSP2-34,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2005,0,SSP2-45,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2005,0,SSP5-Baseline,REMIND-MAGPIE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2010,1813.315031,SSP4-60,GCAM4,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2010,0,SSP1-19,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2010,0,SSP1-26,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2010,0,SSP2-34,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2010,0,SSP2-45,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2010,0,SSP5-Baseline,REMIND-MAGPIE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2020,2566.11219056133,SSP4-60,GCAM4,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2020,181.46895712096256,SSP1-19,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2020,9.888807584291696e-10,SSP1-26,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2020,6.6,SSP2-34,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2020,0,SSP2-45,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2020,0,SSP5-Baseline,REMIND-MAGPIE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2030,3772.84800919118,SSP4-60,GCAM4,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2030,2510.5134709335657,SSP1-19,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2030,524.0650150463078,SSP1-26,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2030,238.788,SSP2-34,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2030,78.82966666666667,SSP2-45,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2030,0,SSP5-Baseline,REMIND-MAGPIE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2040,4858.99541041641,SSP4-60,GCAM4,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2040,8466.587109199709,SSP1-19,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2040,3298.1668386720976,SSP1-26,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2040,1272.102333333333,SSP2-34,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2040,415.8733333333333,SSP2-45,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2040,0,SSP5-Baseline,REMIND-MAGPIE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2050,5746.96960313833,SSP4-60,GCAM4,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2050,10766.619422472275,SSP1-19,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2050,5549.699387662008,SSP1-26,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2050,3753.273333333333,SSP2-34,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2050,1329.727666666667,SSP2-45,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2050,0,SSP5-Baseline,REMIND-MAGPIE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2060,6634.78177892878,SSP4-60,GCAM4,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2060,12368.708429891503,SSP1-19,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2060,8620.20153569706,SSP1-26,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2060,9559.905666666666,SSP2-34,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2060,3384.5826666666658,SSP2-45,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2060,0,SSP5-Baseline,REMIND-MAGPIE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2070,7221.82736326498,SSP4-60,GCAM4,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2070,14600.111381573797,SSP1-19,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2070,11074.010717513318,SSP1-26,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2070,18223.89433333333,SSP2-34,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2070,7474.463333333334,SSP2-45,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2070,0,SSP5-Baseline,REMIND-MAGPIE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2080,7914.49976997358,SSP4-60,GCAM4,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2080,15589.320966081086,SSP1-19,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2080,14819.45139793363,SSP1-26,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2080,25325.29266666667,SSP2-34,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2080,14496.61766666667,SSP2-45,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2080,0,SSP5-Baseline,REMIND-MAGPIE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2090,8904.43915420615,SSP4-60,GCAM4,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2090,16076.111719188399,SSP1-19,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2090,17942.19308180046,SSP1-26,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2090,28697.32433333333,SSP2-34,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2090,23273.30866666666,SSP2-45,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2090,0,SSP5-Baseline,REMIND-MAGPIE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2100,10428.0454251887,SSP4-60,GCAM4,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2100,17904.460389663374,SSP1-19,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2100,16210.22252697387,SSP1-26,IMAGE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2100,30033.61533333333,SSP2-34,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2100,31789.71033333333,SSP2-45,MESSAGE-GLOBIOM,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
+2100,0,SSP5-Baseline,REMIND-MAGPIE,World,Emissions|CO2|Carbon Capture and Storage,Mt CO2/yr
