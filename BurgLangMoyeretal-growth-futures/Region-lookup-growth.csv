@@ -1,0 +1,241 @@
+Entity,Code,IPCC REGION,TilmanEconomicGroup,OWIDIncomeGrouping,WBEconomicGroup
+Afghanistan,AFG,ASIA,NA,N,Low income
+Africa Eastern and Southern,,AG-NA,NA,N,NA
+Africa Western and Central,,AG-NA,NA,N,NA
+Albania,ALB,REF,NA,N,Upper-middle income
+Algeria,DZA,MAF,D,N,Lower-middle income
+Angola,AGO,MAF,NA,N,Lower-middle income
+Antigua and Barbuda,ATG,LAM,NA,N,High income
+Arab World,,AG-NA,NA,N,NA
+Argentina,ARG,LAM,B,N,Upper-middle income
+Armenia,ARM,REF,NA,N,Upper-middle income
+Aruba,ABW,LAM,NA,N,High income
+Australia,AUS,OECD90,A,N,High income
+Austria,AUT,OECD90,A,N,High income
+Azerbaijan,AZE,REF,NA,N,Upper-middle income
+Bahamas,BHS,LAM,NA,N,High income
+Bahrain,BHR,MAF,NA,N,High income
+Bangladesh,BGD,ASIA,E,N,Lower-middle income
+Barbados,BRB,LAM,NA,N,High income
+Belarus,BLR,REF,NA,N,Upper-middle income
+Belgium,BEL,OECD90,NA,N,High income
+Belize,BLZ,LAM,NA,N,Lower-middle income
+Benin,BEN,MAF,E,N,Lower-middle income
+Bermuda,BMU,LAM,NA,N,High income
+Bhutan,BTN,ASIA,NA,N,Lower-middle income
+Bolivia,BOL,LAM,D,N,Lower-middle income
+Bosnia and Herzegovina,BIH,REF,NA,N,Upper-middle income
+Botswana,BWA,MAF,C,N,Upper-middle income
+Brazil,BRA,LAM,C,N,Upper-middle income
+Brunei,BRN,ASIA,NA,N,High income
+Bulgaria,BGR,REF,NA,N,Upper-middle income
+Burkina Faso,BFA,MAF,F,N,Low income
+Burundi,BDI,MAF,F,N,Low income
+Cambodia,KHM,ASIA,NA,N,Lower-middle income
+Cameroon,CMR,MAF,E,N,Lower-middle income
+Canada,CAN,OECD90,A,N,High income
+Cape Verde,CPV,MAF,NA,N,Lower-middle income
+Caribbean Small States,,AG-NA,NA,N,NA
+Cayman Islands,CYM,LAM,NA,N,High income
+Central African Republic,CAF,MAF,G,N,Low income
+Central Europe and the Baltics,,AG-NA,NA,N,NA
+Chad,TCD,MAF,G,N,Low income
+Chile,CHL,LAM,B,N,High income
+China,CHN,ASIA,C,N,Upper-middle income
+Colombia,COL,LAM,C,N,Upper-middle income
+Comoros,COM,MAF,NA,N,Lower-middle income
+Congo,COG,MAF,NA,N,Lower-middle income
+Costa Rica,CRI,LAM,C,N,Upper-middle income
+Cote d'Ivoire,CIV,MAF,E,N,Lower-middle income
+Croatia,HRV,REF,NA,N,High income
+Curacao,CUW,LAM,NA,N,High income
+Cyprus,CYP,REF,NA,N,High income
+Czechia,CZE,REF,NA,N,High income
+Democratic Republic of Congo,COD,MAF,G,N,Low income
+Denmark,DNK,OECD90,A,N,High income
+Djibouti,DJI,MAF,NA,N,Lower-middle income
+Dominica,DMA,LAM,NA,N,Upper-middle income
+Dominican Republic,DOM,LAM,D,N,Upper-middle income
+Early-demographic dividend,,AG-NA,NA,N,NA
+East Asia & Pacific,,AG-NA,NA,N,NA
+East Asia & Pacific (excluding high income),,AG-NA,NA,N,NA
+East Asia & Pacific (IDA & IBRD),,AG-NA,NA,N,NA
+Ecuador,ECU,LAM,C,N,Upper-middle income
+Egypt,EGY,MAF,D,N,Lower-middle income
+El Salvador,SLV,LAM,D,N,Lower-middle income
+Equatorial Guinea,GNQ,MAF,NA,N,Upper-middle income
+Estonia,EST,REF,NA,N,High income
+Eswatini,SWZ,MAF,D,N,Lower-middle income
+Ethiopia,ETH,MAF,F,N,Low income
+Euro area,,AG-NA,NA,N,NA
+Europe & Central Asia,,AG-NA,NA,N,NA
+Europe & Central Asia (excluding high income),,AG-NA,NA,N,NA
+Europe & Central Asia (IDA & IBRD),,AG-NA,NA,N,NA
+European Union,,AG-NA,NA,N,NA
+Fiji,FJI,ASIA,NA,N,Upper-middle income
+Finland,FIN,OECD90,A,N,High income
+France,FRA,OECD90,A,N,High income
+Gabon,GAB,MAF,NA,N,Upper-middle income
+Gambia,GMB,MAF,F,N,Low income
+Georgia,GEO,REF,NA,N,Upper-middle income
+Germany,DEU,OECD90,A,N,High income
+Ghana,GHA,MAF,E,N,Lower-middle income
+Greece,GRC,OECD90,B,N,High income
+Grenada,GRD,LAM,NA,N,Upper-middle income
+Guatemala,GTM,LAM,C,N,Upper-middle income
+Guinea,GIN,MAF,F,N,Low income
+Guinea-Bissau,GNB,MAF,NA,N,Low income
+Guyana,GUY,LAM,NA,N,Upper-middle income
+Haiti,HTI,LAM,F,N,Lower-middle income
+Heavily indebted poor countries (HIPC),,AG-NA,NA,N,NA
+High income,,AG-NA,NA,Y,NA
+Honduras,HND,LAM,E,N,Lower-middle income
+Hong Kong,HKG,ASIA,NA,N,High income
+Hungary,HUN,REF,NA,N,High income
+IBRD only,,AG-NA,NA,N,NA
+Iceland,ISL,OECD90,NA,N,High income
+IDA & IBRD total,,AG-NA,NA,N,NA
+IDA blend,,AG-NA,NA,N,NA
+IDA only,,AG-NA,NA,N,NA
+IDA total,,AG-NA,NA,N,NA
+India,IND,ASIA,E,N,Lower-middle income
+Indonesia,IDN,ASIA,D,N,Lower-middle income
+Iran,IRN,MAF,C,N,Lower-middle income
+Iraq,IRQ,MAF,NA,N,Upper-middle income
+Ireland,IRL,OECD90,A,N,High income
+Israel,ISR,MAF,B,N,High income
+Italy,ITA,OECD90,B,N,High income
+Jamaica,JAM,LAM,D,N,Upper-middle income
+Japan,JPN,OECD90,A,N,High income
+Jordan,JOR,MAF,C,N,Upper-middle income
+Kazakhstan,KAZ,REF,NA,N,Upper-middle income
+Kenya,KEN,MAF,F,N,Lower-middle income
+Kiribati,KIR,ASIA,NA,N,Lower-middle income
+Kosovo,OWID_KOS,REF,NA,N,Upper-middle income
+Kuwait,KWT,MAF,NA,N,High income
+Kyrgyzstan,KGZ,REF,NA,N,Lower-middle income
+Laos,LAO,ASIA,NA,N,Lower-middle income
+Late-demographic dividend,,AG-NA,NA,N,NA
+Latin America & Caribbean,,AG-NA,NA,N,NA
+Latin America & Caribbean (excluding high income),,AG-NA,NA,N,NA
+Latin America & Caribbean (IDA & IBRD),,AG-NA,NA,N,NA
+Latvia,LVA,REF,NA,N,High income
+Least developed countries: UN classification,,AG-NA,NA,Y,NA
+Lebanon,LBN,MAF,D,N,Upper-middle income
+Lesotho,LSO,MAF,NA,N,Lower-middle income
+Liberia,LBR,MAF,NA,N,Low income
+Libya,LBY,MAF,E,N,Upper-middle income
+Lithuania,LTU,REF,NA,N,High income
+Low & middle income,,AG-NA,NA,N,NA
+Lower middle income,,AG-NA,NA,Y,NA
+Luxembourg,LUX,OECD90,NA,N,High income
+Macao,MAC,ASIA,NA,N,High income
+Madagascar,MDG,MAF,F,N,Low income
+Malawi,MWI,MAF,F,N,Low income
+Malaysia,MYS,ASIA,B,N,Upper-middle income
+Maldives,MDV,ASIA,NA,N,Upper-middle income
+Mali,MLI,MAF,F,N,Low income
+Malta,MLT,REF,NA,N,High income
+Marshall Islands,MHL,ASIA,NA,N,Upper-middle income
+Mauritania,MRT,MAF,NA,N,Lower-middle income
+Mauritius,MUS,MAF,B,N,Upper-middle income
+Mexico,MEX,LAM,C,N,Upper-middle income
+Micronesia (country),FSM,ASIA,NA,N,Lower-middle income
+Middle East & North Africa,,AG-NA,NA,N,NA
+Middle East & North Africa (excluding high income),,AG-NA,NA,N,NA
+Middle East & North Africa (IDA & IBRD),,AG-NA,NA,N,NA
+Middle income,,AG-NA,NA,Y,NA
+Moldova,MDA,REF,NA,N,Upper-middle income
+Mongolia,MNG,ASIA,NA,N,Lower-middle income
+Montenegro,MNE,REF,NA,N,Upper-middle income
+Morocco,MAR,MAF,D,N,Lower-middle income
+Mozambique,MOZ,MAF,E,N,Low income
+Myanmar,MMR,ASIA,E,N,Lower-middle income
+Namibia,NAM,MAF,NA,N,Upper-middle income
+Nauru,NRU,ASIA,NA,N,High income
+Nepal,NPL,ASIA,F,N,Lower-middle income
+Netherlands,NLD,OECD90,A,N,High income
+New Zealand,NZL,OECD90,B,N,High income
+Nicaragua,NIC,LAM,E,N,Lower-middle income
+Niger,NER,MAF,G,N,Low income
+Nigeria,NGA,MAF,E,N,Lower-middle income
+North America,,AG-NA,NA,N,NA
+North Macedonia,MKD,REF,NA,N,Upper-middle income
+Norway,NOR,OECD90,A,N,High income
+OECD members,,AG-NA,NA,N,NA
+Oman,OMN,MAF,NA,N,High income
+Other small states,,AG-NA,NA,N,NA
+Pacific island small states,,AG-NA,NA,N,NA
+Pakistan,PAK,ASIA,E,N,Lower-middle income
+Palau,PLW,ASIA,NA,N,High income
+Palestine,PSE,MAF,NA,N,Lower-middle income
+Panama,PAN,LAM,NA,N,Upper-middle income
+Papua New Guinea,PNG,ASIA,NA,N,Lower-middle income
+Paraguay,PRY,LAM,D,N,Upper-middle income
+Peru,PER,LAM,D,N,Upper-middle income
+Philippines,PHL,ASIA,D,N,Lower-middle income
+Poland,POL,REF,NA,N,High income
+Portugal,PRT,OECD90,B,N,High income
+Post-demographic dividend,,AG-NA,NA,N,NA
+Pre-demographic dividend,,AG-NA,NA,N,NA
+Puerto Rico,PRI,LAM,NA,N,High income
+Qatar,QAT,MAF,NA,N,High income
+Romania,ROU,REF,NA,N,Upper-middle income
+Russia,RUS,REF,NA,N,Upper-middle income
+Rwanda,RWA,MAF,F,N,Low income
+Saint Kitts and Nevis,KNA,LAM,NA,N,High income
+Saint Lucia,LCA,LAM,NA,N,Upper-middle income
+Saint Vincent and the Grenadines,VCT,LAM,NA,N,Upper-middle income
+Samoa,WSM,ASIA,NA,N,Lower-middle income
+San Marino,SMR,OECD90,NA,N,High income
+Sao Tome and Principe,STP,MAF,NA,N,Lower-middle income
+Saudi Arabia,SAU,MAF,B,N,High income
+Senegal,SEN,MAF,E,N,Lower-middle income
+Serbia,SRB,REF,NA,N,Upper-middle income
+Seychelles,SYC,MAF,NA,N,High income
+Sierra Leone,SLE,MAF,G,N,Low income
+Singapore,SGP,ASIA,NA,N,High income
+Sint Maarten (Dutch part),SXM,LAM,NA,N,High income
+Slovakia,SVK,REF,NA,N,High income
+Slovenia,SVN,REF,NA,N,High income
+Small states,,AG-NA,NA,N,NA
+Solomon Islands,SLB,ASIA,NA,N,Lower-middle income
+Somalia,SOM,MAF,NA,N,Low income
+South Africa,ZAF,MAF,C,N,Upper-middle income
+South Asia,,AG-NA,NA,N,NA
+South Asia (IDA & IBRD),,AG-NA,NA,N,NA
+South Korea,KOR,ASIA,B,N,High income
+Spain,ESP,OECD90,B,N,High income
+Sri Lanka,LKA,ASIA,D,N,Lower-middle income
+Sub-Saharan Africa,,AG-NA,NA,N,NA
+Sub-Saharan Africa (excluding high income),,AG-NA,NA,N,NA
+Sub-Saharan Africa (IDA & IBRD),,AG-NA,NA,N,NA
+Sudan,SDN,MAF,F,N,Low income
+Suriname,SUR,LAM,NA,N,Upper-middle income
+Sweden,SWE,OECD90,A,N,High income
+Switzerland,CHE,OECD90,A,N,High income
+Tajikistan,TJK,REF,NA,N,Lower-middle income
+Tanzania,TZA,MAF,F,N,Lower-middle income
+Thailand,THA,ASIA,C,N,Upper-middle income
+Timor,TLS,ASIA,NA,N,Lower-middle income
+Togo,TGO,MAF,F,N,Low income
+Tonga,TON,ASIA,NA,N,Upper-middle income
+Trinidad and Tobago,TTO,LAM,B,N,High income
+Tunisia,TUN,MAF,C,N,Lower-middle income
+Turkey,TUR,OECD90,C,N,Upper-middle income
+Turkmenistan,TKM,REF,NA,N,Upper-middle income
+Turks and Caicos Islands,TCA,LAM,NA,N,High income
+Tuvalu,TUV,ASIA,NA,N,Upper-middle income
+Uganda,UGA,MAF,F,N,Low income
+Ukraine,UKR,REF,NA,N,Lower-middle income
+United Arab Emirates,ARE,MAF,NA,N,High income
+United Kingdom,GBR,OECD90,A,N,High income
+United States,USA,OECD90,A,N,High income
+Upper middle income,,AG-NA,NA,Y,NA
+Uruguay,URY,LAM,B,N,High income
+Uzbekistan,UZB,REF,NA,N,Lower-middle income
+Vanuatu,VUT,ASIA,NA,N,Lower-middle income
+Vietnam,VNM,ASIA,E,N,Lower-middle income
+World,OWID_WRL,AG-NA,NA,N,NA
+Zambia,ZMB,MAF,F,N,Lower-middle income
+Zimbabwe,ZWE,MAF,F,N,Lower-middle income

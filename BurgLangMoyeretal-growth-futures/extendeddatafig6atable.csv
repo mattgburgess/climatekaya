@@ -1,0 +1,701 @@
+database,Entity,Code,Scenario,Year,projectedpcgdpgrowth,EntityScenario,Method,pcgdpgrowth,growtherror
+IMF,High income,WBGroups,1-year projections,2004,1.1173398083681008,High income IMF 1-year projections,IMF,3.0395104559270525,-1.9221706475589517
+IMF,Low income,WBGroups,1-year projections,2004,3.630862955425762,Low income IMF 1-year projections,IMF,2.336618268300224,1.2942446871255382
+IMF,Lower-middle income,WBGroups,1-year projections,2004,1.7384197481989716,Lower-middle income IMF 1-year projections,IMF,5.510016039978116,-3.7715962917791446
+IMF,Upper-middle income,WBGroups,1-year projections,2004,3.347750926990045,Upper-middle income IMF 1-year projections,IMF,7.083146610287772,-3.7353956832977264
+IMF,High income,WBGroups,1-year projections,2005,1.0570700011081513,High income IMF 1-year projections,IMF,2.487670360657024,-1.4306003595488725
+IMF,Low income,WBGroups,1-year projections,2005,2.5166568882143636,Low income IMF 1-year projections,IMF,4.884904341969023,-2.368247453754659
+IMF,Lower-middle income,WBGroups,1-year projections,2005,2.0803565961172055,Lower-middle income IMF 1-year projections,IMF,5.326749277006448,-3.246392680889243
+IMF,Upper-middle income,WBGroups,1-year projections,2005,3.8158607514606757,Upper-middle income IMF 1-year projections,IMF,6.936734254644694,-3.1208735031840185
+IMF,High income,WBGroups,1-year projections,2006,1.4976915798690982,High income IMF 1-year projections,IMF,2.716626068116046,-1.2189344882469477
+IMF,Low income,WBGroups,1-year projections,2006,2.544766773143081,Low income IMF 1-year projections,IMF,4.536190384768866,-1.9914236116257849
+IMF,Lower-middle income,WBGroups,1-year projections,2006,3.0687823354492494,Lower-middle income IMF 1-year projections,IMF,5.892379593341479,-2.8235972578922297
+IMF,Upper-middle income,WBGroups,1-year projections,2006,4.187171410678836,Upper-middle income IMF 1-year projections,IMF,7.718545368956553,-3.531373958277717
+IMF,High income,WBGroups,1-year projections,2007,1.638783778215469,High income IMF 1-year projections,IMF,2.2801266756186767,-0.6413428974032076
+IMF,Low income,WBGroups,1-year projections,2007,3.0963579483194614,Low income IMF 1-year projections,IMF,6.190238329280037,-3.0938803809605755
+IMF,Lower-middle income,WBGroups,1-year projections,2007,3.4086179207530876,Lower-middle income IMF 1-year projections,IMF,6.092930861875612,-2.684312941122524
+IMF,Upper-middle income,WBGroups,1-year projections,2007,5.258064105727023,Upper-middle income IMF 1-year projections,IMF,7.360878456933362,-2.102814351206339
+IMF,High income,WBGroups,1-year projections,2008,1.507430878697491,High income IMF 1-year projections,IMF,0.1596515027172174,1.3477793759802736
+IMF,Low income,WBGroups,1-year projections,2008,4.712363506182982,Low income IMF 1-year projections,IMF,4.547187821213905,0.16517568496907664
+IMF,Lower-middle income,WBGroups,1-year projections,2008,5.36449163367827,Lower-middle income IMF 1-year projections,IMF,4.247147172752852,1.117344460925418
+IMF,Upper-middle income,WBGroups,1-year projections,2008,6.537714140986672,Upper-middle income IMF 1-year projections,IMF,4.2240725448433825,2.31364159614329
+IMF,High income,WBGroups,1-year projections,2009,0.8745547236367557,High income IMF 1-year projections,IMF,-3.435468573952871,4.310023297589627
+IMF,High income,WBGroups,2-year projections,2010,2.0365531987863505,High income IMF 2-year projections,IMF,2.8396334298766757,-0.8030802310903251
+IMF,High income,WBGroups,3-year projections,2011,2.207401396059261,High income IMF 3-year projections,IMF,2.0290460076479278,0.17835538841133314
+IMF,High income,WBGroups,4-year projections,2012,2.2762349938229676,High income IMF 4-year projections,IMF,0.8526729779117392,1.4235620159112283
+IMF,High income,WBGroups,5-year projections,2013,2.1898947298209848,High income IMF 5-year projections,IMF,0.8301676582282536,1.3597270715927312
+IMF,Low income,WBGroups,1-year projections,2009,4.901916216042501,Low income IMF 1-year projections,IMF,3.019297257237874,1.8826189588046272
+IMF,Low income,WBGroups,2-year projections,2010,5.049897344081433,Low income IMF 2-year projections,IMF,3.672194660599443,1.3777026834819903
+IMF,Low income,WBGroups,3-year projections,2011,4.0495962443807265,Low income IMF 3-year projections,IMF,2.665970191549544,1.3836260528311826
+IMF,Low income,WBGroups,4-year projections,2012,3.7304481195969075,Low income IMF 4-year projections,IMF,0.7606235537786193,2.9698245658182882
+IMF,Low income,WBGroups,5-year projections,2013,3.3679755055975313,Low income IMF 5-year projections,IMF,3.901250778391105,-0.5332752727935737
+IMF,Lower-middle income,WBGroups,1-year projections,2009,4.984469201222552,Lower-middle income IMF 1-year projections,IMF,4.500287570839401,0.48418163038315143
+IMF,Lower-middle income,WBGroups,2-year projections,2010,5.0253400697252815,Lower-middle income IMF 2-year projections,IMF,5.59447917691982,-0.5691391071945384
+IMF,Lower-middle income,WBGroups,3-year projections,2011,4.593459970942071,Lower-middle income IMF 3-year projections,IMF,4.233967391517268,0.3594925794248027
+IMF,Lower-middle income,WBGroups,4-year projections,2012,4.998076078261882,Lower-middle income IMF 4-year projections,IMF,2.4876562045639483,2.5104198736979333
+IMF,Lower-middle income,WBGroups,5-year projections,2013,5.216950877420423,Lower-middle income IMF 5-year projections,IMF,3.4146592742746673,1.8022916031457559
+IMF,Upper-middle income,WBGroups,1-year projections,2009,6.255940641192126,Upper-middle income IMF 1-year projections,IMF,1.405000642363241,4.850939998828885
+IMF,Upper-middle income,WBGroups,2-year projections,2010,5.91818874829535,Upper-middle income IMF 2-year projections,IMF,8.141443490621247,-2.2232547423258975
+IMF,Upper-middle income,WBGroups,3-year projections,2011,5.5969202968372045,Upper-middle income IMF 3-year projections,IMF,4.898252279818438,0.6986680170187665
+IMF,Upper-middle income,WBGroups,4-year projections,2012,5.829198673598945,Upper-middle income IMF 4-year projections,IMF,3.7531378310351915,2.076060842563754
+IMF,Upper-middle income,WBGroups,5-year projections,2013,6.0027513702504365,Upper-middle income IMF 5-year projections,IMF,3.56751564659481,2.4352357236556266
+IMF,High income,WBGroups,1-year projections,2010,1.1372305602353805,High income IMF 1-year projections,IMF,2.8396334298766757,-1.7024028696412952
+IMF,High income,WBGroups,2-year projections,2011,1.2628887817037082,High income IMF 2-year projections,IMF,2.0290460076479278,-0.7661572259442195
+IMF,High income,WBGroups,3-year projections,2012,1.871923070684467,High income IMF 3-year projections,IMF,0.8526729779117392,1.0192500927727277
+IMF,High income,WBGroups,4-year projections,2013,2.1710559592287737,High income IMF 4-year projections,IMF,0.8301676582282536,1.3408883010005201
+IMF,High income,WBGroups,5-year projections,2014,1.9565378604685435,High income IMF 5-year projections,IMF,1.3730603162225297,0.5834775442460138
+IMF,Low income,WBGroups,1-year projections,2010,2.9987141762533476,Low income IMF 1-year projections,IMF,3.672194660599443,-0.6734804843460953
+IMF,Low income,WBGroups,2-year projections,2011,2.3477348611319115,Low income IMF 2-year projections,IMF,2.665970191549544,-0.3182353304176324
+IMF,Low income,WBGroups,3-year projections,2012,3.1406267335441385,Low income IMF 3-year projections,IMF,0.7606235537786193,2.3800031797655192
+IMF,Low income,WBGroups,4-year projections,2013,3.364333538466102,Low income IMF 4-year projections,IMF,3.901250778391105,-0.5369172399250028
+IMF,Low income,WBGroups,5-year projections,2014,3.4317299499978304,Low income IMF 5-year projections,IMF,3.7526898021490007,-0.3209598521511703
+IMF,Lower-middle income,WBGroups,1-year projections,2010,3.610921250746202,Lower-middle income IMF 1-year projections,IMF,5.59447917691982,-1.983557926173618
+IMF,Lower-middle income,WBGroups,2-year projections,2011,3.3992486194149407,Lower-middle income IMF 2-year projections,IMF,4.233967391517268,-0.8347187721023275
+IMF,Lower-middle income,WBGroups,3-year projections,2012,4.2385694691068565,Lower-middle income IMF 3-year projections,IMF,2.4876562045639483,1.7509132645429082
+IMF,Lower-middle income,WBGroups,4-year projections,2013,4.893033831143967,Lower-middle income IMF 4-year projections,IMF,3.4146592742746673,1.4783745568692996
+IMF,Lower-middle income,WBGroups,5-year projections,2014,4.893344952463252,Lower-middle income IMF 5-year projections,IMF,4.0741035848879115,0.8192413675753407
+IMF,Upper-middle income,WBGroups,1-year projections,2010,5.114935145783228,Upper-middle income IMF 1-year projections,IMF,8.141443490621247,-3.0265083448380192
+IMF,Upper-middle income,WBGroups,2-year projections,2011,5.086738952598147,Upper-middle income IMF 2-year projections,IMF,4.898252279818438,0.18848667277970854
+IMF,Upper-middle income,WBGroups,3-year projections,2012,5.957276388028454,Upper-middle income IMF 3-year projections,IMF,3.7531378310351915,2.2041385569932626
+IMF,Upper-middle income,WBGroups,4-year projections,2013,6.43824417540646,Upper-middle income IMF 4-year projections,IMF,3.56751564659481,2.87072852881165
+IMF,Upper-middle income,WBGroups,5-year projections,2014,6.288616172325412,Upper-middle income IMF 5-year projections,IMF,2.954630824807003,3.333985347518409
+IMF,High income,WBGroups,1-year projections,2011,0.8903893577636879,High income IMF 1-year projections,IMF,2.0290460076479278,-1.1386566498842399
+IMF,High income,WBGroups,2-year projections,2012,1.504416618620752,High income IMF 2-year projections,IMF,0.8526729779117392,0.6517436407090127
+IMF,High income,WBGroups,3-year projections,2013,1.7634640479876396,High income IMF 3-year projections,IMF,0.8301676582282536,0.933296389759386
+IMF,High income,WBGroups,4-year projections,2014,1.8145928192470961,High income IMF 4-year projections,IMF,1.3730603162225297,0.4415325030245665
+IMF,High income,WBGroups,5-year projections,2015,2.635911024812998,High income IMF 5-year projections,IMF,1.5854653151381903,1.0504457096748077
+IMF,Low income,WBGroups,1-year projections,2011,2.6778498487141533,Low income IMF 1-year projections,IMF,2.665970191549544,0.01187965716460937
+IMF,Low income,WBGroups,2-year projections,2012,3.318292514610821,Low income IMF 2-year projections,IMF,0.7606235537786193,2.557668960832202
+IMF,Low income,WBGroups,3-year projections,2013,3.2754737389891098,Low income IMF 3-year projections,IMF,3.901250778391105,-0.6257770394019952
+IMF,Low income,WBGroups,4-year projections,2014,3.365892743991594,Low income IMF 4-year projections,IMF,3.7526898021490007,-0.3867970581574065
+IMF,Low income,WBGroups,5-year projections,2015,4.314563183315112,Low income IMF 5-year projections,IMF,1.8715118015045773,2.443051381810535
+IMF,Lower-middle income,WBGroups,1-year projections,2011,3.910689145067181,Lower-middle income IMF 1-year projections,IMF,4.233967391517268,-0.3232782464500872
+IMF,Lower-middle income,WBGroups,2-year projections,2012,4.119667679846728,Lower-middle income IMF 2-year projections,IMF,2.4876562045639483,1.6320114752827797
+IMF,Lower-middle income,WBGroups,3-year projections,2013,4.640773952556998,Lower-middle income IMF 3-year projections,IMF,3.4146592742746673,1.2261146782823307
+IMF,Lower-middle income,WBGroups,4-year projections,2014,4.793810800626375,Lower-middle income IMF 4-year projections,IMF,4.0741035848879115,0.7197072157384632
+IMF,Lower-middle income,WBGroups,5-year projections,2015,5.708791249076839,Lower-middle income IMF 5-year projections,IMF,3.8823500914407783,1.8264411576360606
+IMF,Upper-middle income,WBGroups,1-year projections,2011,5.034818406826069,Upper-middle income IMF 1-year projections,IMF,4.898252279818438,0.13656612700763127
+IMF,Upper-middle income,WBGroups,2-year projections,2012,5.41482665004569,Upper-middle income IMF 2-year projections,IMF,3.7531378310351915,1.6616888190104984
+IMF,Upper-middle income,WBGroups,3-year projections,2013,5.747977376912772,Upper-middle income IMF 3-year projections,IMF,3.56751564659481,2.180461730317962
+IMF,Upper-middle income,WBGroups,4-year projections,2014,5.914239083499062,Upper-middle income IMF 4-year projections,IMF,2.954630824807003,2.959608258692059
+IMF,Upper-middle income,WBGroups,5-year projections,2015,6.858129571837068,Upper-middle income IMF 5-year projections,IMF,1.8660897363004914,4.992039835536577
+IMF,High income,WBGroups,1-year projections,2012,0.5182516296882156,High income IMF 1-year projections,IMF,0.8526729779117392,-0.33442134822352365
+IMF,High income,WBGroups,2-year projections,2013,0.7310357509688004,High income IMF 2-year projections,IMF,0.8301676582282536,-0.0991319072594532
+IMF,High income,WBGroups,3-year projections,2014,1.0911050616561724,High income IMF 3-year projections,IMF,1.3730603162225297,-0.2819552545663573
+IMF,High income,WBGroups,4-year projections,2015,2.3077435019635217,High income IMF 4-year projections,IMF,1.5854653151381903,0.7222781868253314
+IMF,High income,WBGroups,5-year projections,2016,2.551372100752225,High income IMF 5-year projections,IMF,0.8373419284703587,1.7140301722818663
+IMF,Low income,WBGroups,1-year projections,2012,1.5234473571726248,Low income IMF 1-year projections,IMF,0.7606235537786193,0.7628238033940055
+IMF,Low income,WBGroups,2-year projections,2013,1.6967968970093672,Low income IMF 2-year projections,IMF,3.901250778391105,-2.204453881381738
+IMF,Low income,WBGroups,3-year projections,2014,1.961859535235444,Low income IMF 3-year projections,IMF,3.7526898021490007,-1.7908302669135567
+IMF,Low income,WBGroups,4-year projections,2015,3.401713230527026,Low income IMF 4-year projections,IMF,1.8715118015045773,1.5302014290224486
+IMF,Low income,WBGroups,5-year projections,2016,3.8022832628204384,Low income IMF 5-year projections,IMF,1.4021534146751835,2.400129848145255
+IMF,Lower-middle income,WBGroups,1-year projections,2012,3.4518092850918336,Lower-middle income IMF 1-year projections,IMF,2.4876562045639483,0.9641530805278853
+IMF,Lower-middle income,WBGroups,2-year projections,2013,3.6302961759590247,Lower-middle income IMF 2-year projections,IMF,3.4146592742746673,0.21563690168435734
+IMF,Lower-middle income,WBGroups,3-year projections,2014,4.0050820372945495,Lower-middle income IMF 3-year projections,IMF,4.0741035848879115,-0.06902154759336199
+IMF,Lower-middle income,WBGroups,4-year projections,2015,5.20206627529749,Lower-middle income IMF 4-year projections,IMF,3.8823500914407783,1.3197161838567117
+IMF,Lower-middle income,WBGroups,5-year projections,2016,5.477506043801839,Lower-middle income IMF 5-year projections,IMF,3.817988936387673,1.6595171074141657
+IMF,Upper-middle income,WBGroups,1-year projections,2012,4.724177400439977,Upper-middle income IMF 1-year projections,IMF,3.7531378310351915,0.9710395694047858
+IMF,Upper-middle income,WBGroups,2-year projections,2013,4.8481571159006975,Upper-middle income IMF 2-year projections,IMF,3.56751564659481,1.2806414693058876
+IMF,Upper-middle income,WBGroups,3-year projections,2014,5.022819672152323,Upper-middle income IMF 3-year projections,IMF,2.954630824807003,2.0681888473453203
+IMF,Upper-middle income,WBGroups,4-year projections,2015,6.194185889907544,Upper-middle income IMF 4-year projections,IMF,1.8660897363004914,4.328096153607053
+IMF,Upper-middle income,WBGroups,5-year projections,2016,6.5213844433419155,Upper-middle income IMF 5-year projections,IMF,-0.15540252154631062,6.676786964888226
+IMF,High income,WBGroups,1-year projections,2013,0.5594702122294848,High income IMF 1-year projections,IMF,0.8301676582282536,-0.27069744599876877
+IMF,High income,WBGroups,2-year projections,2014,1.2717343043510354,High income IMF 2-year projections,IMF,1.3730603162225297,-0.10132601187149426
+IMF,High income,WBGroups,3-year projections,2015,2.610836364949165,High income IMF 3-year projections,IMF,1.5854653151381903,1.0253710498109747
+IMF,High income,WBGroups,4-year projections,2016,2.8904874607713182,High income IMF 4-year projections,IMF,0.8373419284703587,2.0531455323009595
+IMF,High income,WBGroups,5-year projections,2017,2.272352555442403,High income IMF 5-year projections,IMF,1.8490068871193088,0.42334566832309406
+IMF,Low income,WBGroups,1-year projections,2013,3.0709049579435543,Low income IMF 1-year projections,IMF,3.901250778391105,-0.8303458204475507
+IMF,Low income,WBGroups,2-year projections,2014,2.5497142599959055,Low income IMF 2-year projections,IMF,3.7526898021490007,-1.2029755421530952
+IMF,Low income,WBGroups,3-year projections,2015,3.9950598271702553,Low income IMF 3-year projections,IMF,1.8715118015045773,2.123548025665678
+IMF,Low income,WBGroups,4-year projections,2016,4.262334589301808,Low income IMF 4-year projections,IMF,1.4021534146751835,2.860181174626625
+IMF,Low income,WBGroups,5-year projections,2017,3.706366604258804,Low income IMF 5-year projections,IMF,1.970015337998443,1.7363512662603608
+IMF,Lower-middle income,WBGroups,1-year projections,2013,3.0449578607083083,Lower-middle income IMF 1-year projections,IMF,3.4146592742746673,-0.369701413566359
+IMF,Lower-middle income,WBGroups,2-year projections,2014,3.4280543571085786,Lower-middle income IMF 2-year projections,IMF,4.0741035848879115,-0.6460492277793328
+IMF,Lower-middle income,WBGroups,3-year projections,2015,4.752971736418665,Lower-middle income IMF 3-year projections,IMF,3.8823500914407783,0.870621644977887
+IMF,Lower-middle income,WBGroups,4-year projections,2016,5.104271610368372,Lower-middle income IMF 4-year projections,IMF,3.817988936387673,1.2862826739806987
+IMF,Lower-middle income,WBGroups,5-year projections,2017,4.543659736997263,Lower-middle income IMF 5-year projections,IMF,3.951853818239859,0.5918059187574043
+IMF,Upper-middle income,WBGroups,1-year projections,2013,4.883153789304018,Upper-middle income IMF 1-year projections,IMF,3.56751564659481,1.3156381427092079
+IMF,Upper-middle income,WBGroups,2-year projections,2014,5.09775903309162,Upper-middle income IMF 2-year projections,IMF,2.954630824807003,2.143128208284617
+IMF,Upper-middle income,WBGroups,3-year projections,2015,6.167007544202896,Upper-middle income IMF 3-year projections,IMF,1.8660897363004914,4.300917807902405
+IMF,Upper-middle income,WBGroups,4-year projections,2016,6.423845781502457,Upper-middle income IMF 4-year projections,IMF,-0.15540252154631062,6.579248303048768
+IMF,Upper-middle income,WBGroups,5-year projections,2017,5.845132333552172,Upper-middle income IMF 5-year projections,IMF,1.6494209000249338,4.195711433527238
+IMF,High income,WBGroups,1-year projections,2014,1.3207639397494475,High income IMF 1-year projections,IMF,1.3730603162225297,-0.05229637647308216
+IMF,High income,WBGroups,2-year projections,2015,2.9445852086491087,High income IMF 2-year projections,IMF,1.5854653151381903,1.3591198935109183
+IMF,High income,WBGroups,3-year projections,2016,3.1014680964402075,High income IMF 3-year projections,IMF,0.8373419284703587,2.264126167969849
+IMF,High income,WBGroups,4-year projections,2017,2.2509595341833943,High income IMF 4-year projections,IMF,1.8490068871193088,0.4019526470640855
+IMF,High income,WBGroups,5-year projections,2018,1.6140531576352757,High income IMF 5-year projections,IMF,1.7789275333970789,-0.1648743757618032
+IMF,Low income,WBGroups,1-year projections,2014,4.218241138840373,Low income IMF 1-year projections,IMF,3.7526898021490007,0.46555133669137216
+IMF,Low income,WBGroups,2-year projections,2015,4.774423527137461,Low income IMF 2-year projections,IMF,1.8715118015045773,2.902911725632884
+IMF,Low income,WBGroups,3-year projections,2016,4.28048072644609,Low income IMF 3-year projections,IMF,1.4021534146751835,2.8783273117709065
+IMF,Low income,WBGroups,4-year projections,2017,3.660502603001081,Low income IMF 4-year projections,IMF,1.970015337998443,1.6904872650026381
+IMF,Low income,WBGroups,5-year projections,2018,3.1034680730877895,Low income IMF 5-year projections,IMF,0.8679734097518821,2.235494663335907
+IMF,Lower-middle income,WBGroups,1-year projections,2014,2.8339293259902476,Lower-middle income IMF 1-year projections,IMF,4.0741035848879115,-1.2401742588976639
+IMF,Lower-middle income,WBGroups,2-year projections,2015,4.701470206132363,Lower-middle income IMF 2-year projections,IMF,3.8823500914407783,0.819120114691585
+IMF,Lower-middle income,WBGroups,3-year projections,2016,4.83768174730308,Lower-middle income IMF 3-year projections,IMF,3.817988936387673,1.0196928109154069
+IMF,Lower-middle income,WBGroups,4-year projections,2017,4.103532172005053,Lower-middle income IMF 4-year projections,IMF,3.951853818239859,0.15167835376519445
+IMF,Lower-middle income,WBGroups,5-year projections,2018,3.651560209068805,Lower-middle income IMF 5-year projections,IMF,3.49396882256936,0.15759138649944493
+IMF,Upper-middle income,WBGroups,1-year projections,2014,4.351670416046005,Upper-middle income IMF 1-year projections,IMF,2.954630824807003,1.3970395912390021
+IMF,Upper-middle income,WBGroups,2-year projections,2015,5.674647108811293,Upper-middle income IMF 2-year projections,IMF,1.8660897363004914,3.8085573725108013
+IMF,Upper-middle income,WBGroups,3-year projections,2016,5.750040983207683,Upper-middle income IMF 3-year projections,IMF,-0.15540252154631062,5.905443504753993
+IMF,Upper-middle income,WBGroups,4-year projections,2017,4.9228554183800455,Upper-middle income IMF 4-year projections,IMF,1.6494209000249338,3.2734345183551117
+IMF,Upper-middle income,WBGroups,5-year projections,2018,4.41969424411468,Upper-middle income IMF 5-year projections,IMF,2.1960526601461527,2.2236415839685275
+IMF,High income,WBGroups,1-year projections,2015,2.7281142789071566,High income IMF 1-year projections,IMF,1.5854653151381903,1.1426489637689663
+IMF,High income,WBGroups,2-year projections,2016,2.8591085040927666,High income IMF 2-year projections,IMF,0.8373419284703587,2.021766575622408
+IMF,High income,WBGroups,3-year projections,2017,2.19257597557867,High income IMF 3-year projections,IMF,1.8490068871193088,0.3435690884593612
+IMF,High income,WBGroups,4-year projections,2018,1.6324533213992964,High income IMF 4-year projections,IMF,1.7789275333970789,-0.14647421199778243
+IMF,High income,WBGroups,5-year projections,2019,2.177493429000066,High income IMF 5-year projections,IMF,1.2001546977453703,0.9773387312546955
+IMF,Low income,WBGroups,1-year projections,2015,4.396392566925478,Low income IMF 1-year projections,IMF,1.8715118015045773,2.5248807654209005
+IMF,Low income,WBGroups,2-year projections,2016,4.663468964457618,Low income IMF 2-year projections,IMF,1.4021534146751835,3.2613155497824344
+IMF,Low income,WBGroups,3-year projections,2017,3.8789025195646865,Low income IMF 3-year projections,IMF,1.970015337998443,1.9088871815662434
+IMF,Low income,WBGroups,4-year projections,2018,3.159492996567881,Low income IMF 4-year projections,IMF,0.8679734097518821,2.2915195868159985
+IMF,Low income,WBGroups,5-year projections,2019,3.5875921945637934,Low income IMF 5-year projections,IMF,1.679180812559422,1.9084113820043713
+IMF,Lower-middle income,WBGroups,1-year projections,2015,4.630601517888877,Lower-middle income IMF 1-year projections,IMF,3.8823500914407783,0.7482514264480988
+IMF,Lower-middle income,WBGroups,2-year projections,2016,4.842517430488691,Lower-middle income IMF 2-year projections,IMF,3.817988936387673,1.024528494101018
+IMF,Lower-middle income,WBGroups,3-year projections,2017,4.2981871704006025,Lower-middle income IMF 3-year projections,IMF,3.951853818239859,0.3463333521607437
+IMF,Lower-middle income,WBGroups,4-year projections,2018,3.860852798685066,Lower-middle income IMF 4-year projections,IMF,3.49396882256936,0.3668839761157061
+IMF,Lower-middle income,WBGroups,5-year projections,2019,4.442950520724054,Lower-middle income IMF 5-year projections,IMF,2.1314517037442915,2.3114988169797623
+IMF,Upper-middle income,WBGroups,1-year projections,2015,4.753293247834378,Upper-middle income IMF 1-year projections,IMF,1.8660897363004914,2.8872035115338868
+IMF,Upper-middle income,WBGroups,2-year projections,2016,5.092957061284942,Upper-middle income IMF 2-year projections,IMF,-0.15540252154631062,5.248359582831252
+IMF,Upper-middle income,WBGroups,3-year projections,2017,4.413843576407039,Upper-middle income IMF 3-year projections,IMF,1.6494209000249338,2.7644226763821056
+IMF,Upper-middle income,WBGroups,4-year projections,2018,3.8972669117294245,Upper-middle income IMF 4-year projections,IMF,2.1960526601461527,1.7012142515832718
+IMF,Upper-middle income,WBGroups,5-year projections,2019,4.511202523410596,Upper-middle income IMF 5-year projections,IMF,3.210679351900758,1.3005231715098375
+IMF,High income,WBGroups,1-year projections,2016,1.8594828151289988,High income IMF 1-year projections,IMF,0.8373419284703587,1.0221408866586401
+IMF,High income,WBGroups,2-year projections,2017,1.6148107775812548,High income IMF 2-year projections,IMF,1.8490068871193088,-0.23419610953805403
+IMF,High income,WBGroups,3-year projections,2018,1.3611266941406797,High income IMF 3-year projections,IMF,1.7789275333970789,-0.4178008392563992
+IMF,High income,WBGroups,4-year projections,2019,1.9958376588565585,High income IMF 4-year projections,IMF,1.2001546977453703,0.7956829611111882
+IMF,High income,WBGroups,5-year projections,2020,1.6702912730364616,High income IMF 5-year projections,IMF,-3.1033493321284578,4.773640605164919
+IMF,Low income,WBGroups,1-year projections,2016,2.9583312422482244,Low income IMF 1-year projections,IMF,1.4021534146751835,1.556177827573041
+IMF,Low income,WBGroups,2-year projections,2017,3.402996517623258,Low income IMF 2-year projections,IMF,1.970015337998443,1.4329811796248149
+IMF,Low income,WBGroups,3-year projections,2018,3.120575872915321,Low income IMF 3-year projections,IMF,0.8679734097518821,2.2526024631634387
+IMF,Low income,WBGroups,4-year projections,2019,4.083397065526828,Low income IMF 4-year projections,IMF,1.679180812559422,2.404216252967406
+IMF,Low income,WBGroups,5-year projections,2020,4.214068998325082,Low income IMF 5-year projections,IMF,-1.5306751277281205,5.744744126053202
+IMF,Lower-middle income,WBGroups,1-year projections,2016,4.4049992523477854,Lower-middle income IMF 1-year projections,IMF,3.817988936387673,0.5870103159601125
+IMF,Lower-middle income,WBGroups,2-year projections,2017,4.296920915548874,Lower-middle income IMF 2-year projections,IMF,3.951853818239859,0.3450670973090153
+IMF,Lower-middle income,WBGroups,3-year projections,2018,4.212820332145029,Lower-middle income IMF 3-year projections,IMF,3.49396882256936,0.7188515095756687
+IMF,Lower-middle income,WBGroups,4-year projections,2019,5.043906114953423,Lower-middle income IMF 4-year projections,IMF,2.1314517037442915,2.912454411209131
+IMF,Lower-middle income,WBGroups,5-year projections,2020,4.870450593758413,Lower-middle income IMF 5-year projections,IMF,-5.6396796164671414,10.510130210225554
+IMF,Upper-middle income,WBGroups,1-year projections,2016,3.3472616412293377,Upper-middle income IMF 1-year projections,IMF,-0.15540252154631062,3.5026641627756483
+IMF,Upper-middle income,WBGroups,2-year projections,2017,3.564397478597847,Upper-middle income IMF 2-year projections,IMF,1.6494209000249338,1.9149765785729134
+IMF,Upper-middle income,WBGroups,3-year projections,2018,3.485257148657084,Upper-middle income IMF 3-year projections,IMF,2.1960526601461527,1.289204488510931
+IMF,Upper-middle income,WBGroups,4-year projections,2019,4.4111885536331386,Upper-middle income IMF 4-year projections,IMF,3.210679351900758,1.2005092017323804
+IMF,Upper-middle income,WBGroups,5-year projections,2020,4.243882617049977,Upper-middle income IMF 5-year projections,IMF,-1.5959587971159817,5.839841414165958
+IMF,High income,WBGroups,1-year projections,2017,1.555243614165036,High income IMF 1-year projections,IMF,1.8490068871193088,-0.29376327295427274
+IMF,High income,WBGroups,2-year projections,2018,1.3100478525279513,High income IMF 2-year projections,IMF,1.7789275333970789,-0.46887968086912757
+IMF,High income,WBGroups,3-year projections,2019,1.8044388768929664,High income IMF 3-year projections,IMF,1.2001546977453703,0.6042841791475961
+IMF,High income,WBGroups,4-year projections,2020,1.3773539296362713,High income IMF 4-year projections,IMF,-3.1033493321284578,4.480703261764729
+IMF,High income,WBGroups,5-year projections,2021,1.3561773986916492,High income IMF 5-year projections,IMF,NA,NA
+IMF,Low income,WBGroups,1-year projections,2017,2.245493495164652,Low income IMF 1-year projections,IMF,1.970015337998443,0.27547815716620905
+IMF,Low income,WBGroups,2-year projections,2018,2.452196612833113,Low income IMF 2-year projections,IMF,0.8679734097518821,1.5842232030812309
+IMF,Low income,WBGroups,3-year projections,2019,3.297029954712105,Low income IMF 3-year projections,IMF,1.679180812559422,1.617849142152683
+IMF,Low income,WBGroups,4-year projections,2020,2.894365697144785,Low income IMF 4-year projections,IMF,-1.5306751277281205,4.425040824872905
+IMF,Low income,WBGroups,5-year projections,2021,2.961357203827397,Low income IMF 5-year projections,IMF,NA,NA
+IMF,Lower-middle income,WBGroups,1-year projections,2017,4.382555215100581,Lower-middle income IMF 1-year projections,IMF,3.951853818239859,0.43070139686072206
+IMF,Lower-middle income,WBGroups,2-year projections,2018,4.271325420827488,Lower-middle income IMF 2-year projections,IMF,3.49396882256936,0.7773565982581276
+IMF,Lower-middle income,WBGroups,3-year projections,2019,5.053924223021866,Lower-middle income IMF 3-year projections,IMF,2.1314517037442915,2.9224725192775747
+IMF,Lower-middle income,WBGroups,4-year projections,2020,4.881559864602991,Lower-middle income IMF 4-year projections,IMF,-5.6396796164671414,10.521239481070133
+IMF,Lower-middle income,WBGroups,5-year projections,2021,4.930882690457672,Lower-middle income IMF 5-year projections,IMF,NA,NA
+IMF,Upper-middle income,WBGroups,1-year projections,2017,3.7762231373291044,Upper-middle income IMF 1-year projections,IMF,1.6494209000249338,2.1268022373041706
+IMF,Upper-middle income,WBGroups,2-year projections,2018,3.563937470832279,Upper-middle income IMF 2-year projections,IMF,2.1960526601461527,1.3678848106861263
+IMF,Upper-middle income,WBGroups,3-year projections,2019,4.292196840871654,Upper-middle income IMF 3-year projections,IMF,3.210679351900758,1.0815174889708956
+IMF,Upper-middle income,WBGroups,4-year projections,2020,4.017487842390111,Upper-middle income IMF 4-year projections,IMF,-1.5959587971159817,5.613446639506092
+IMF,Upper-middle income,WBGroups,5-year projections,2021,3.9998098791873105,Upper-middle income IMF 5-year projections,IMF,NA,NA
+IMF,High income,WBGroups,1-year projections,2018,1.5697124666958828,High income IMF 1-year projections,IMF,1.7789275333970789,-0.20921506670119605
+IMF,High income,WBGroups,2-year projections,2019,1.3737865378562475,High income IMF 2-year projections,IMF,1.2001546977453703,0.17363184011087718
+IMF,High income,WBGroups,3-year projections,2020,1.2809235699119625,High income IMF 3-year projections,IMF,-3.1033493321284578,4.38427290204042
+IMF,High income,WBGroups,4-year projections,2021,1.296972406675856,High income IMF 4-year projections,IMF,NA,NA
+IMF,High income,WBGroups,5-year projections,2022,1.2635448279818107,High income IMF 5-year projections,IMF,NA,NA
+IMF,Low income,WBGroups,1-year projections,2018,2.447921006077536,Low income IMF 1-year projections,IMF,0.8679734097518821,1.5799475963256537
+IMF,Low income,WBGroups,2-year projections,2019,2.6780683133084793,Low income IMF 2-year projections,IMF,1.679180812559422,0.9988875007490572
+IMF,Low income,WBGroups,3-year projections,2020,2.967320600676082,Low income IMF 3-year projections,IMF,-1.5306751277281205,4.497995728404202
+IMF,Low income,WBGroups,4-year projections,2021,3.0288311423092296,Low income IMF 4-year projections,IMF,NA,NA
+IMF,Low income,WBGroups,5-year projections,2022,3.2638668500736934,Low income IMF 5-year projections,IMF,NA,NA
+IMF,Lower-middle income,WBGroups,1-year projections,2018,4.067465950178217,Lower-middle income IMF 1-year projections,IMF,3.49396882256936,0.5734971276088574
+IMF,Lower-middle income,WBGroups,2-year projections,2019,4.372150204202185,Lower-middle income IMF 2-year projections,IMF,2.1314517037442915,2.240698500457894
+IMF,Lower-middle income,WBGroups,3-year projections,2020,4.483311099688336,Lower-middle income IMF 3-year projections,IMF,-5.6396796164671414,10.122990716155478
+IMF,Lower-middle income,WBGroups,4-year projections,2021,4.6281195754298565,Lower-middle income IMF 4-year projections,IMF,NA,NA
+IMF,Lower-middle income,WBGroups,5-year projections,2022,4.689772202679698,Lower-middle income IMF 5-year projections,IMF,NA,NA
+IMF,Upper-middle income,WBGroups,1-year projections,2018,3.843254435421528,Upper-middle income IMF 1-year projections,IMF,2.1960526601461527,1.6472017752753754
+IMF,Upper-middle income,WBGroups,2-year projections,2019,3.8039213167449404,Upper-middle income IMF 2-year projections,IMF,3.210679351900758,0.5932419648441822
+IMF,Upper-middle income,WBGroups,3-year projections,2020,3.846505249201293,Upper-middle income IMF 3-year projections,IMF,-1.5959587971159817,5.442464046317275
+IMF,Upper-middle income,WBGroups,4-year projections,2021,3.7968666577111065,Upper-middle income IMF 4-year projections,IMF,NA,NA
+IMF,Upper-middle income,WBGroups,5-year projections,2022,3.693470733537829,Upper-middle income IMF 5-year projections,IMF,NA,NA
+IMF,High income,WBGroups,1-year projections,2019,1.716782796781402,High income IMF 1-year projections,IMF,1.2001546977453703,0.5166280990360317
+IMF,High income,WBGroups,2-year projections,2020,1.3247164816043266,High income IMF 2-year projections,IMF,-3.1033493321284578,4.428065813732784
+IMF,High income,WBGroups,3-year projections,2021,1.3117926685186632,High income IMF 3-year projections,IMF,NA,NA
+IMF,High income,WBGroups,4-year projections,2022,1.1765477826196857,High income IMF 4-year projections,IMF,NA,NA
+IMF,High income,WBGroups,5-year projections,2023,1.1268610922980926,High income IMF 5-year projections,IMF,NA,NA
+IMF,Low income,WBGroups,1-year projections,2019,1.71093394548123,Low income IMF 1-year projections,IMF,1.679180812559422,0.031753132921807925
+IMF,Low income,WBGroups,2-year projections,2020,2.076896429182984,Low income IMF 2-year projections,IMF,-1.5306751277281205,3.6075715569111044
+IMF,Low income,WBGroups,3-year projections,2021,2.1378298270667173,Low income IMF 3-year projections,IMF,NA,NA
+IMF,Low income,WBGroups,4-year projections,2022,2.2087707867958883,Low income IMF 4-year projections,IMF,NA,NA
+IMF,Low income,WBGroups,5-year projections,2023,2.6685852505691443,Low income IMF 5-year projections,IMF,NA,NA
+IMF,Lower-middle income,WBGroups,1-year projections,2019,3.7090189026224962,Lower-middle income IMF 1-year projections,IMF,2.1314517037442915,1.5775671988782047
+IMF,Lower-middle income,WBGroups,2-year projections,2020,4.158593467967009,Lower-middle income IMF 2-year projections,IMF,-5.6396796164671414,9.79827308443415
+IMF,Lower-middle income,WBGroups,3-year projections,2021,4.248702852654418,Lower-middle income IMF 3-year projections,IMF,NA,NA
+IMF,Lower-middle income,WBGroups,4-year projections,2022,4.289730185996277,Lower-middle income IMF 4-year projections,IMF,NA,NA
+IMF,Lower-middle income,WBGroups,5-year projections,2023,4.345223944859988,Lower-middle income IMF 5-year projections,IMF,NA,NA
+IMF,Upper-middle income,WBGroups,1-year projections,2019,3.731913641343354,Upper-middle income IMF 1-year projections,IMF,3.210679351900758,0.5212342894425959
+IMF,Upper-middle income,WBGroups,2-year projections,2020,3.949860409518813,Upper-middle income IMF 2-year projections,IMF,-1.5959587971159817,5.545819206634794
+IMF,Upper-middle income,WBGroups,3-year projections,2021,3.8522530340820538,Upper-middle income IMF 3-year projections,IMF,NA,NA
+IMF,Upper-middle income,WBGroups,4-year projections,2022,3.761129590318113,Upper-middle income IMF 4-year projections,IMF,NA,NA
+IMF,Upper-middle income,WBGroups,5-year projections,2023,3.876007750543309,Upper-middle income IMF 5-year projections,IMF,NA,NA
+IMF,High income,WBGroups,1-year projections,2020,1.2879669130134275,High income IMF 1-year projections,IMF,-3.1033493321284578,4.391316245141885
+IMF,High income,WBGroups,2-year projections,2021,1.2574620917055412,High income IMF 2-year projections,IMF,NA,NA
+IMF,High income,WBGroups,3-year projections,2022,1.1888155792041388,High income IMF 3-year projections,IMF,NA,NA
+IMF,High income,WBGroups,4-year projections,2023,1.1895579850341065,High income IMF 4-year projections,IMF,NA,NA
+IMF,High income,WBGroups,5-year projections,2024,1.2213661538922338,High income IMF 5-year projections,IMF,NA,NA
+IMF,Low income,WBGroups,1-year projections,2020,1.9683592784006443,Low income IMF 1-year projections,IMF,-1.5306751277281205,3.499034406128765
+IMF,Low income,WBGroups,2-year projections,2021,1.9603788181612458,Low income IMF 2-year projections,IMF,NA,NA
+IMF,Low income,WBGroups,3-year projections,2022,2.4179609653649514,Low income IMF 3-year projections,IMF,NA,NA
+IMF,Low income,WBGroups,4-year projections,2023,2.6547147600261667,Low income IMF 4-year projections,IMF,NA,NA
+IMF,Low income,WBGroups,5-year projections,2024,3.0571403133016872,Low income IMF 5-year projections,IMF,NA,NA
+IMF,Lower-middle income,WBGroups,1-year projections,2020,3.7698178066360555,Lower-middle income IMF 1-year projections,IMF,-5.6396796164671414,9.409497423103197
+IMF,Lower-middle income,WBGroups,2-year projections,2021,4.071703839722041,Lower-middle income IMF 2-year projections,IMF,NA,NA
+IMF,Lower-middle income,WBGroups,3-year projections,2022,4.19831026685813,Lower-middle income IMF 3-year projections,IMF,NA,NA
+IMF,Lower-middle income,WBGroups,4-year projections,2023,4.2616962815829496,Lower-middle income IMF 4-year projections,IMF,NA,NA
+IMF,Lower-middle income,WBGroups,5-year projections,2024,4.219632227364656,Lower-middle income IMF 5-year projections,IMF,NA,NA
+IMF,Upper-middle income,WBGroups,1-year projections,2020,3.6633499403846415,Upper-middle income IMF 1-year projections,IMF,-1.5959587971159817,5.259308737500623
+IMF,Upper-middle income,WBGroups,2-year projections,2021,3.8863696246194124,Upper-middle income IMF 2-year projections,IMF,NA,NA
+IMF,Upper-middle income,WBGroups,3-year projections,2022,3.8523797781014224,Upper-middle income IMF 3-year projections,IMF,NA,NA
+IMF,Upper-middle income,WBGroups,4-year projections,2023,3.9031430253530175,Upper-middle income IMF 4-year projections,IMF,NA,NA
+IMF,Upper-middle income,WBGroups,5-year projections,2024,3.8576895731941008,Upper-middle income IMF 5-year projections,IMF,NA,NA
+NA,High income,WBGroups,1-year projections,2004,1.7151956379887867,High income Kuznets,Kuznets,3.0395104559270525,-1.3243148179382658
+NA,High income,WBGroups,1-year projections,2005,1.7056402717942731,High income Kuznets,Kuznets,2.487670360657024,-0.7820300888627507
+NA,High income,WBGroups,1-year projections,2006,1.6959250905987489,High income Kuznets,Kuznets,2.716626068116046,-1.020700977517297
+NA,High income,WBGroups,1-year projections,2007,1.684469784638365,High income Kuznets,Kuznets,2.2801266756186767,-0.5956568909803117
+NA,High income,WBGroups,1-year projections,2008,1.6627346420938771,High income Kuznets,Kuznets,0.1596515027172174,1.5030831393766597
+NA,High income,WBGroups,1-year projections,2009,1.5904390249682265,High income Kuznets,Kuznets,-3.435468573952871,5.025907598921098
+NA,High income,WBGroups,1-year projections,2010,1.452794402676405,High income Kuznets,Kuznets,2.8396334298766757,-1.3868390272002706
+NA,High income,WBGroups,1-year projections,2011,1.4466003106900605,High income Kuznets,Kuznets,2.0290460076479278,-0.5824456969578673
+NA,High income,WBGroups,1-year projections,2012,1.4196294395477427,High income Kuznets,Kuznets,0.8526729779117392,0.5669564616360034
+NA,High income,WBGroups,1-year projections,2013,1.3805829811867287,High income Kuznets,Kuznets,0.8301676582282536,0.5504153229584752
+NA,High income,WBGroups,1-year projections,2014,1.3360812520567755,High income Kuznets,Kuznets,1.3730603162225297,-0.03697906416575414
+NA,High income,WBGroups,1-year projections,2015,1.2914524215683176,High income Kuznets,Kuznets,1.5854653151381903,-0.2940128935698727
+NA,High income,WBGroups,1-year projections,2016,1.2462161213251832,High income Kuznets,Kuznets,0.8373419284703587,0.4088741928548245
+NA,High income,WBGroups,1-year projections,2017,1.1837853289542455,High income Kuznets,Kuznets,1.8490068871193088,-0.6652215581650633
+NA,High income,WBGroups,1-year projections,2018,1.1438705723400666,High income Kuznets,Kuznets,1.7789275333970789,-0.6350569610570123
+NA,High income,WBGroups,1-year projections,2019,1.1120074773164568,High income Kuznets,Kuznets,1.2001546977453703,-0.08814722042891354
+NA,High income,WBGroups,1-year projections,2020,1.0866987740388634,High income Kuznets,Kuznets,-3.1033493321284578,4.190048106167321
+NA,Low income,WBGroups,1-year projections,2004,3.520547855851898,Low income Kuznets,Kuznets,2.336618268300224,1.183929587551674
+NA,Low income,WBGroups,1-year projections,2005,3.5469548132199105,Low income Kuznets,Kuznets,4.884904341969023,-1.337949528749112
+NA,Low income,WBGroups,1-year projections,2006,3.600402695702974,Low income Kuznets,Kuznets,4.536190384768866,-0.9357876890658918
+NA,Low income,WBGroups,1-year projections,2007,3.635995568381794,Low income Kuznets,Kuznets,6.190238329280037,-2.554242760898243
+NA,Low income,WBGroups,1-year projections,2008,3.6840637301472507,Low income Kuznets,Kuznets,4.547187821213905,-0.8631240910666542
+NA,Low income,WBGroups,1-year projections,2009,3.7180517724986624,Low income Kuznets,Kuznets,3.019297257237874,0.6987545152607884
+NA,Low income,WBGroups,1-year projections,2010,3.739559401070358,Low income Kuznets,Kuznets,3.672194660599443,0.06736474047091523
+NA,Low income,WBGroups,1-year projections,2011,3.7695125047830653,Low income Kuznets,Kuznets,2.665970191549544,1.1035423132335214
+NA,Low income,WBGroups,1-year projections,2012,3.7907989304956287,Low income Kuznets,Kuznets,0.7606235537786193,3.0301753767170094
+NA,Low income,WBGroups,1-year projections,2013,3.7870902994059015,Low income Kuznets,Kuznets,3.901250778391105,-0.11416047898520354
+NA,Low income,WBGroups,1-year projections,2014,3.8229178967596837,Low income Kuznets,Kuznets,3.7526898021490007,0.07022809461068302
+NA,Low income,WBGroups,1-year projections,2015,3.857835310329205,Low income Kuznets,Kuznets,1.8715118015045773,1.9863235088246278
+NA,Low income,WBGroups,1-year projections,2016,3.8680930919239964,Low income Kuznets,Kuznets,1.4021534146751835,2.465939677248813
+NA,Low income,WBGroups,1-year projections,2017,3.87199852333564,Low income Kuznets,Kuznets,1.970015337998443,1.9019831853371971
+NA,Low income,WBGroups,1-year projections,2018,3.8815814129501023,Low income Kuznets,Kuznets,0.8679734097518821,3.01360800319822
+NA,Low income,WBGroups,1-year projections,2019,3.8772365784554785,Low income Kuznets,Kuznets,1.679180812559422,2.1980557658960564
+NA,Low income,WBGroups,1-year projections,2020,3.8807155207059294,Low income Kuznets,Kuznets,-1.5306751277281205,5.41139064843405
+NA,Lower-middle income,WBGroups,1-year projections,2004,3.8751616173706926,Lower-middle income Kuznets,Kuznets,5.510016039978116,-1.6348544226074235
+NA,Lower-middle income,WBGroups,1-year projections,2005,3.9610239179748374,Lower-middle income Kuznets,Kuznets,5.326749277006448,-1.365725359031611
+NA,Lower-middle income,WBGroups,1-year projections,2006,4.0390731604381225,Lower-middle income Kuznets,Kuznets,5.892379593341479,-1.8533064329033566
+NA,Lower-middle income,WBGroups,1-year projections,2007,4.130825735078858,Lower-middle income Kuznets,Kuznets,6.092930861875612,-1.9621051267967538
+NA,Lower-middle income,WBGroups,1-year projections,2008,4.2210419127651555,Lower-middle income Kuznets,Kuznets,4.247147172752852,-0.026105259987696527
+NA,Lower-middle income,WBGroups,1-year projections,2009,4.258175643230611,Lower-middle income Kuznets,Kuznets,4.500287570839401,-0.2421119276087902
+NA,Lower-middle income,WBGroups,1-year projections,2010,4.2828649866759605,Lower-middle income Kuznets,Kuznets,5.59447917691982,-1.3116141902438594
+NA,Lower-middle income,WBGroups,1-year projections,2011,4.35541186142776,Lower-middle income Kuznets,Kuznets,4.233967391517268,0.12144446991049218
+NA,Lower-middle income,WBGroups,1-year projections,2012,4.374436935087989,Lower-middle income Kuznets,Kuznets,2.4876562045639483,1.8867807305240403
+NA,Lower-middle income,WBGroups,1-year projections,2013,4.361824017712679,Lower-middle income Kuznets,Kuznets,3.4146592742746673,0.9471647434380115
+NA,Lower-middle income,WBGroups,1-year projections,2014,4.3632606656268,Lower-middle income Kuznets,Kuznets,4.0741035848879115,0.2891570807388888
+NA,Lower-middle income,WBGroups,1-year projections,2015,4.362029081528829,Lower-middle income Kuznets,Kuznets,3.8823500914407783,0.4796789900880505
+NA,Lower-middle income,WBGroups,1-year projections,2016,4.34129606840421,Lower-middle income Kuznets,Kuznets,3.817988936387673,0.5233071320165372
+NA,Lower-middle income,WBGroups,1-year projections,2017,4.301913220292253,Lower-middle income Kuznets,Kuznets,3.951853818239859,0.35005940205239394
+NA,Lower-middle income,WBGroups,1-year projections,2018,4.273480281360786,Lower-middle income Kuznets,Kuznets,3.49396882256936,0.7795114587914265
+NA,Lower-middle income,WBGroups,1-year projections,2019,4.242238839745194,Lower-middle income Kuznets,Kuznets,2.1314517037442915,2.1107871360009023
+NA,Lower-middle income,WBGroups,1-year projections,2020,4.214103081731446,Lower-middle income Kuznets,Kuznets,-5.6396796164671414,9.853782698198588
+NA,Upper-middle income,WBGroups,1-year projections,2004,3.9239887588993216,Upper-middle income Kuznets,Kuznets,7.083146610287772,-3.15915785138845
+NA,Upper-middle income,WBGroups,1-year projections,2005,3.96876948658047,Upper-middle income Kuznets,Kuznets,6.936734254644694,-2.967964768064224
+NA,Upper-middle income,WBGroups,1-year projections,2006,3.989638822114383,Upper-middle income Kuznets,Kuznets,7.718545368956553,-3.72890654684217
+NA,Upper-middle income,WBGroups,1-year projections,2007,4.0196641602663785,Upper-middle income Kuznets,Kuznets,7.360878456933362,-3.3412142966669833
+NA,Upper-middle income,WBGroups,1-year projections,2008,4.035767840475524,Upper-middle income Kuznets,Kuznets,4.2240725448433825,-0.18830470436785873
+NA,Upper-middle income,WBGroups,1-year projections,2009,4.003777506256601,Upper-middle income Kuznets,Kuznets,1.405000642363241,2.5987768638933595
+NA,Upper-middle income,WBGroups,1-year projections,2010,3.9478635912428395,Upper-middle income Kuznets,Kuznets,8.141443490621247,-4.193579899378408
+NA,Upper-middle income,WBGroups,1-year projections,2011,3.9393470233825223,Upper-middle income Kuznets,Kuznets,4.898252279818438,-0.9589052564359157
+NA,Upper-middle income,WBGroups,1-year projections,2012,3.899907179452766,Upper-middle income Kuznets,Kuznets,3.7531378310351915,0.14676934841757472
+NA,Upper-middle income,WBGroups,1-year projections,2013,3.8352888734440427,Upper-middle income Kuznets,Kuznets,3.56751564659481,0.26777322684923277
+NA,Upper-middle income,WBGroups,1-year projections,2014,3.778016171191556,Upper-middle income Kuznets,Kuznets,2.954630824807003,0.8233853463845531
+NA,Upper-middle income,WBGroups,1-year projections,2015,3.733563461472178,Upper-middle income Kuznets,Kuznets,1.8660897363004914,1.8674737251716866
+NA,Upper-middle income,WBGroups,1-year projections,2016,3.694417558473395,Upper-middle income Kuznets,Kuznets,-0.15540252154631062,3.8498200800197058
+NA,Upper-middle income,WBGroups,1-year projections,2017,3.6578251161826447,Upper-middle income Kuznets,Kuznets,1.6494209000249338,2.008404216157711
+NA,Upper-middle income,WBGroups,1-year projections,2018,3.6246311186237,Upper-middle income Kuznets,Kuznets,2.1960526601461527,1.4285784584775474
+NA,Upper-middle income,WBGroups,1-year projections,2019,3.5854624160876813,Upper-middle income Kuznets,Kuznets,3.210679351900758,0.3747830641869232
+NA,Upper-middle income,WBGroups,1-year projections,2020,3.527525601221404,Upper-middle income Kuznets,Kuznets,-1.5959587971159817,5.123484398337386
+NA,High income,WBGroups,1-year projections,2004,1.9890574327633193,High income Kuznets_Asymptoting,Kuznets_Asymptoting,3.0395104559270525,-1.0504530231637332
+NA,High income,WBGroups,1-year projections,2005,2.0319752745832087,High income Kuznets_Asymptoting,Kuznets_Asymptoting,2.487670360657024,-0.45569508607381515
+NA,High income,WBGroups,1-year projections,2006,2.062953461034045,High income Kuznets_Asymptoting,Kuznets_Asymptoting,2.716626068116046,-0.6536726070820009
+NA,High income,WBGroups,1-year projections,2007,2.097551125600683,High income Kuznets_Asymptoting,Kuznets_Asymptoting,2.2801266756186767,-0.18257555001799375
+NA,High income,WBGroups,1-year projections,2008,2.1169789365060865,High income Kuznets_Asymptoting,Kuznets_Asymptoting,0.1596515027172174,1.957327433788869
+NA,High income,WBGroups,1-year projections,2009,2.0953046096429784,High income Kuznets_Asymptoting,Kuznets_Asymptoting,-3.435468573952871,5.53077318359585
+NA,High income,WBGroups,1-year projections,2010,2.057173684874103,High income Kuznets_Asymptoting,Kuznets_Asymptoting,2.8396334298766757,-0.7824597450025728
+NA,High income,WBGroups,1-year projections,2011,2.0871352780917896,High income Kuznets_Asymptoting,Kuznets_Asymptoting,2.0290460076479278,0.05808927044386181
+NA,High income,WBGroups,1-year projections,2012,2.0793781329154104,High income Kuznets_Asymptoting,Kuznets_Asymptoting,0.8526729779117392,1.2267051550036712
+NA,High income,WBGroups,1-year projections,2013,2.060202833811964,High income Kuznets_Asymptoting,Kuznets_Asymptoting,0.8301676582282536,1.2300351755837102
+NA,High income,WBGroups,1-year projections,2014,2.0323898574631905,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.3730603162225297,0.6593295412406608
+NA,High income,WBGroups,1-year projections,2015,2.004592841395736,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.5854653151381903,0.41912752625754557
+NA,High income,WBGroups,1-year projections,2016,1.9755724752390957,High income Kuznets_Asymptoting,Kuznets_Asymptoting,0.8373419284703587,1.138230546768737
+NA,High income,WBGroups,1-year projections,2017,1.9340779121094442,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.8490068871193088,0.08507102499013541
+NA,High income,WBGroups,1-year projections,2018,1.9060251116961524,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.7789275333970789,0.12709757829907353
+NA,High income,WBGroups,1-year projections,2019,1.8856396918387475,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.2001546977453703,0.6854849940933772
+NA,High income,WBGroups,1-year projections,2020,1.863478983079725,High income Kuznets_Asymptoting,Kuznets_Asymptoting,-3.1033493321284578,4.966828315208183
+NA,Low income,WBGroups,1-year projections,2004,3.344287548092928,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,2.336618268300224,1.007669279792704
+NA,Low income,WBGroups,1-year projections,2005,3.3991554640198194,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,4.884904341969023,-1.4857488779492032
+NA,Low income,WBGroups,1-year projections,2006,3.471456425611721,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,4.536190384768866,-1.0647339591571452
+NA,Low income,WBGroups,1-year projections,2007,3.512733834070678,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,6.190238329280037,-2.6775044952093587
+NA,Low income,WBGroups,1-year projections,2008,3.567111466999104,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,4.547187821213905,-0.980076354214801
+NA,Low income,WBGroups,1-year projections,2009,3.626407758551273,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,3.019297257237874,0.6071105013133988
+NA,Low income,WBGroups,1-year projections,2010,3.697703671344277,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,3.672194660599443,0.025509010744833915
+NA,Low income,WBGroups,1-year projections,2011,3.7295834019527465,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,2.665970191549544,1.0636132104032026
+NA,Low income,WBGroups,1-year projections,2012,3.761428143024528,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,0.7606235537786193,3.000804589245909
+NA,Low income,WBGroups,1-year projections,2013,3.764545869145808,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,3.901250778391105,-0.1367049092452972
+NA,Low income,WBGroups,1-year projections,2014,3.8341785460734497,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,3.7526898021490007,0.08148874392444894
+NA,Low income,WBGroups,1-year projections,2015,3.902898728627929,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,1.8715118015045773,2.031386927123352
+NA,Low income,WBGroups,1-year projections,2016,3.9318610866066583,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,1.4021534146751835,2.529707671931475
+NA,Low income,WBGroups,1-year projections,2017,3.9597752353623337,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,1.970015337998443,1.9897598973638906
+NA,Low income,WBGroups,1-year projections,2018,3.9882109106934847,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,0.8679734097518821,3.1202375009416023
+NA,Low income,WBGroups,1-year projections,2019,3.9889071237626803,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,1.679180812559422,2.309726311203258
+NA,Low income,WBGroups,1-year projections,2020,4.006410199201821,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,-1.5306751277281205,5.537085326929942
+NA,Lower-middle income,WBGroups,1-year projections,2004,4.058871193167102,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,5.510016039978116,-1.4511448468110144
+NA,Lower-middle income,WBGroups,1-year projections,2005,4.122061008363653,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,5.326749277006448,-1.204688268642795
+NA,Lower-middle income,WBGroups,1-year projections,2006,4.176670978406305,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,5.892379593341479,-1.7157086149351741
+NA,Lower-middle income,WBGroups,1-year projections,2007,4.2452870661964015,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,6.092930861875612,-1.8476437956792102
+NA,Lower-middle income,WBGroups,1-year projections,2008,4.307534219214593,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,4.247147172752852,0.060387046461740645
+NA,Lower-middle income,WBGroups,1-year projections,2009,4.302955665251762,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,4.500287570839401,-0.1973319055876388
+NA,Lower-middle income,WBGroups,1-year projections,2010,4.241038137258446,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,5.59447917691982,-1.3534410396613739
+NA,Lower-middle income,WBGroups,1-year projections,2011,4.293968291757166,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,4.233967391517268,0.060000900239898236
+NA,Lower-middle income,WBGroups,1-year projections,2012,4.296157882768825,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,2.4876562045639483,1.8085016782048768
+NA,Lower-middle income,WBGroups,1-year projections,2013,4.2673898776004915,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.4146592742746673,0.8527306033258242
+NA,Lower-middle income,WBGroups,1-year projections,2014,4.242245694514524,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,4.0741035848879115,0.16814210962661225
+NA,Lower-middle income,WBGroups,1-year projections,2015,4.215472993498626,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.8823500914407783,0.33312290205784745
+NA,Lower-middle income,WBGroups,1-year projections,2016,4.17576051398949,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.817988936387673,0.35777157760181755
+NA,Lower-middle income,WBGroups,1-year projections,2017,4.109966454860947,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.951853818239859,0.15811263662108832
+NA,Lower-middle income,WBGroups,1-year projections,2018,4.065949660806711,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.49396882256936,0.5719808382373515
+NA,Lower-middle income,WBGroups,1-year projections,2019,4.024733384255641,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,2.1314517037442915,1.8932816805113495
+NA,Lower-middle income,WBGroups,1-year projections,2020,3.9894911898301633,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,-5.6396796164671414,9.629170806297305
+NA,Upper-middle income,WBGroups,1-year projections,2004,3.6984979140987972,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,7.083146610287772,-3.3846486961889743
+NA,Upper-middle income,WBGroups,1-year projections,2005,3.7271947827810736,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,6.936734254644694,-3.2095394718636205
+NA,Upper-middle income,WBGroups,1-year projections,2006,3.7344921653308827,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,7.718545368956553,-3.9840532036256704
+NA,Upper-middle income,WBGroups,1-year projections,2007,3.745694189767157,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,7.360878456933362,-3.615184267166205
+NA,Upper-middle income,WBGroups,1-year projections,2008,3.736420930527551,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,4.2240725448433825,-0.4876516143158316
+NA,Upper-middle income,WBGroups,1-year projections,2009,3.6726443327527836,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,1.405000642363241,2.2676436903895425
+NA,Upper-middle income,WBGroups,1-year projections,2010,3.571012067179158,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,8.141443490621247,-4.5704314234420895
+NA,Upper-middle income,WBGroups,1-year projections,2011,3.5571100491171848,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,4.898252279818438,-1.3411422307012533
+NA,Upper-middle income,WBGroups,1-year projections,2012,3.512823389170805,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.7531378310351915,-0.24031444186438655
+NA,Upper-middle income,WBGroups,1-year projections,2013,3.446222607200067,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.56751564659481,-0.12129303939474312
+NA,Upper-middle income,WBGroups,1-year projections,2014,3.377864042615597,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,2.954630824807003,0.423233217808594
+NA,Upper-middle income,WBGroups,1-year projections,2015,3.325075142789835,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,1.8660897363004914,1.4589854064893437
+NA,Upper-middle income,WBGroups,1-year projections,2016,3.2845698689676794,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,-0.15540252154631062,3.43997239051399
+NA,Upper-middle income,WBGroups,1-year projections,2017,3.2434521401319305,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,1.6494209000249338,1.5940312401069967
+NA,Upper-middle income,WBGroups,1-year projections,2018,3.210101025205514,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,2.1960526601461527,1.0140483650593612
+NA,Upper-middle income,WBGroups,1-year projections,2019,3.176487450658838,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.210679351900758,-0.034191901241920064
+NA,Upper-middle income,WBGroups,1-year projections,2020,3.1222621554945817,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,-1.5959587971159817,4.718220952610563
+NA,High income,WBGroups,2-year projections,2010,1.5457438914933341,High income Kuznets,Kuznets,2.8396334298766757,-1.2938895383833415
+NA,High income,WBGroups,2-year projections,2011,1.409174641971278,High income Kuznets,Kuznets,2.0290460076479278,-0.6198713656766497
+NA,High income,WBGroups,2-year projections,2012,1.4029795473898155,High income Kuznets,Kuznets,0.8526729779117392,0.5503065694780762
+NA,High income,WBGroups,2-year projections,2013,1.3768794752604396,High income Kuznets,Kuznets,0.8301676582282536,0.5467118170321861
+NA,High income,WBGroups,2-year projections,2014,1.3389543755368383,High income Kuznets,Kuznets,1.3730603162225297,-0.034105940685691394
+NA,High income,WBGroups,2-year projections,2015,1.2955424018084027,High income Kuznets,Kuznets,1.5854653151381903,-0.2899229133297876
+NA,High income,WBGroups,2-year projections,2016,1.2521060024743402,High income Kuznets,Kuznets,0.8373419284703587,0.4147640740039815
+NA,High income,WBGroups,2-year projections,2017,1.2084319834764656,High income Kuznets,Kuznets,1.8490068871193088,-0.6405749036428432
+NA,High income,WBGroups,2-year projections,2018,1.1477298738058028,High income Kuznets,Kuznets,1.7789275333970789,-0.631197659591276
+NA,High income,WBGroups,2-year projections,2019,1.1090255477251176,High income Kuznets,Kuznets,1.2001546977453703,-0.09112915002025268
+NA,High income,WBGroups,2-year projections,2020,1.0780050822414733,High income Kuznets,Kuznets,-3.1033493321284578,4.181354414369931
+NA,Low income,WBGroups,2-year projections,2010,3.7152841945545134,Low income Kuznets,Kuznets,3.672194660599443,0.043089533955070536
+NA,Low income,WBGroups,2-year projections,2011,3.7418621457465107,Low income Kuznets,Kuznets,2.665970191549544,1.0758919541969667
+NA,Low income,WBGroups,2-year projections,2012,3.778283961841855,Low income Kuznets,Kuznets,0.7606235537786193,3.017660408063236
+NA,Low income,WBGroups,2-year projections,2013,3.8024071576761713,Low income Kuznets,Kuznets,3.901250778391105,-0.09884362071493369
+NA,Low income,WBGroups,2-year projections,2014,3.799114730846212,Low income Kuznets,Kuznets,3.7526898021490007,0.046424928697211154
+NA,Low income,WBGroups,2-year projections,2015,3.837784557260915,Low income Kuznets,Kuznets,1.8715118015045773,1.9662727557563375
+NA,Low income,WBGroups,2-year projections,2016,3.8747238567537368,Low income Kuznets,Kuznets,1.4021534146751835,2.4725704420785535
+NA,Low income,WBGroups,2-year projections,2017,3.8855281839723252,Low income Kuznets,Kuznets,1.970015337998443,1.9155128459738822
+NA,Low income,WBGroups,2-year projections,2018,3.88969931572285,Low income Kuznets,Kuznets,0.8679734097518821,3.0217259059709676
+NA,Low income,WBGroups,2-year projections,2019,3.9004313429826407,Low income Kuznets,Kuznets,1.679180812559422,2.2212505304232186
+NA,Low income,WBGroups,2-year projections,2020,3.8959081535685334,Low income Kuznets,Kuznets,-1.5306751277281205,5.426583281296654
+NA,Lower-middle income,WBGroups,2-year projections,2010,4.263737554298452,Lower-middle income Kuznets,Kuznets,5.59447917691982,-1.3307416226213675
+NA,Lower-middle income,WBGroups,2-year projections,2011,4.284786393529005,Lower-middle income Kuznets,Kuznets,4.233967391517268,0.05081900201173717
+NA,Lower-middle income,WBGroups,2-year projections,2012,4.355897016423094,Lower-middle income Kuznets,Kuznets,2.4876562045639483,1.8682408118591454
+NA,Lower-middle income,WBGroups,2-year projections,2013,4.373461165880399,Lower-middle income Kuznets,Kuznets,3.4146592742746673,0.9588018916057317
+NA,Lower-middle income,WBGroups,2-year projections,2014,4.359649501912788,Lower-middle income Kuznets,Kuznets,4.0741035848879115,0.2855459170248764
+NA,Lower-middle income,WBGroups,2-year projections,2015,4.358980231129617,Lower-middle income Kuznets,Kuznets,3.8823500914407783,0.4766301396888384
+NA,Lower-middle income,WBGroups,2-year projections,2016,4.355502967723535,Lower-middle income Kuznets,Kuznets,3.817988936387673,0.5375140313358617
+NA,Lower-middle income,WBGroups,2-year projections,2017,4.332902984489806,Lower-middle income Kuznets,Kuznets,3.951853818239859,0.3810491662499471
+NA,Lower-middle income,WBGroups,2-year projections,2018,4.288374775837411,Lower-middle income Kuznets,Kuznets,3.49396882256936,0.7944059532680514
+NA,Lower-middle income,WBGroups,2-year projections,2019,4.257064949742828,Lower-middle income Kuznets,Kuznets,2.1314517037442915,2.1256132459985366
+NA,Lower-middle income,WBGroups,2-year projections,2020,4.224400074588419,Lower-middle income Kuznets,Kuznets,-5.6396796164671414,9.864079691055561
+NA,Upper-middle income,WBGroups,2-year projections,2010,3.967243666402087,Upper-middle income Kuznets,Kuznets,8.141443490621247,-4.17419982421916
+NA,Upper-middle income,WBGroups,2-year projections,2011,3.9065625613202926,Upper-middle income Kuznets,Kuznets,4.898252279818438,-0.9916897184981455
+NA,Upper-middle income,WBGroups,2-year projections,2012,3.8893007370474297,Upper-middle income Kuznets,Kuznets,3.7531378310351915,0.13616290601223824
+NA,Upper-middle income,WBGroups,2-year projections,2013,3.8471133027892623,Upper-middle income Kuznets,Kuznets,3.56751564659481,0.2795976561944524
+NA,Upper-middle income,WBGroups,2-year projections,2014,3.781600588591383,Upper-middle income Kuznets,Kuznets,2.954630824807003,0.8269697637843798
+NA,Upper-middle income,WBGroups,2-year projections,2015,3.724335458176986,Upper-middle income Kuznets,Kuznets,1.8660897363004914,1.8582457218764947
+NA,Upper-middle income,WBGroups,2-year projections,2016,3.681654720507632,Upper-middle income Kuznets,Kuznets,-0.15540252154631062,3.837057242053943
+NA,Upper-middle income,WBGroups,2-year projections,2017,3.6433350685508348,Upper-middle income Kuznets,Kuznets,1.6494209000249338,1.993914168525901
+NA,Upper-middle income,WBGroups,2-year projections,2018,3.607123350074426,Upper-middle income Kuznets,Kuznets,2.1960526601461527,1.4110706899282732
+NA,Upper-middle income,WBGroups,2-year projections,2019,3.5744713091808933,Upper-middle income Kuznets,Kuznets,3.210679351900758,0.36379195728013514
+NA,Upper-middle income,WBGroups,2-year projections,2020,3.535852933442696,Upper-middle income Kuznets,Kuznets,-1.5959587971159817,5.1318117305586775
+NA,High income,WBGroups,2-year projections,2010,2.0735608348604995,High income Kuznets_Asymptoting,Kuznets_Asymptoting,2.8396334298766757,-0.7660725950161762
+NA,High income,WBGroups,2-year projections,2011,2.0349304366720222,High income Kuznets_Asymptoting,Kuznets_Asymptoting,2.0290460076479278,0.005884429024094473
+NA,High income,WBGroups,2-year projections,2012,2.0652487177006407,High income Kuznets_Asymptoting,Kuznets_Asymptoting,0.8526729779117392,1.2125757397889014
+NA,High income,WBGroups,2-year projections,2013,2.0580841972313024,High income Kuznets_Asymptoting,Kuznets_Asymptoting,0.8301676582282536,1.2279165390030489
+NA,High income,WBGroups,2-year projections,2014,2.0393774637943007,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.3730603162225297,0.6663171475717711
+NA,High income,WBGroups,2-year projections,2015,2.0120974014287807,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.5854653151381903,0.42663208629059035
+NA,High income,WBGroups,2-year projections,2016,1.984982284280079,High income Kuznets_Asymptoting,Kuznets_Asymptoting,0.8373419284703587,1.1476403558097203
+NA,High income,WBGroups,2-year projections,2017,1.9564606827274122,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.8490068871193088,0.10745379560810342
+NA,High income,WBGroups,2-year projections,2018,1.9155374249626433,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.7789275333970789,0.13660989156556447
+NA,High income,WBGroups,2-year projections,2019,1.8879666053666977,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.2001546977453703,0.6878119076213274
+NA,High income,WBGroups,2-year projections,2020,1.8671235522111918,High income Kuznets_Asymptoting,Kuznets_Asymptoting,-3.1033493321284578,4.9704728843396495
+NA,Low income,WBGroups,2-year projections,2010,3.6357013099938165,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,3.672194660599443,-0.03649335060562642
+NA,Low income,WBGroups,2-year projections,2011,3.7152794106362075,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,2.665970191549544,1.0493092190866635
+NA,Low income,WBGroups,2-year projections,2012,3.7537139089542535,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,0.7606235537786193,2.9930903551756343
+NA,Low income,WBGroups,2-year projections,2013,3.789697070109341,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,3.901250778391105,-0.11155370828176414
+NA,Low income,WBGroups,2-year projections,2014,3.7934443516177807,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,3.7526898021490007,0.04075454946877999
+NA,Low income,WBGroups,2-year projections,2015,3.867962510221118,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,1.8715118015045773,1.9964507087165408
+NA,Low income,WBGroups,2-year projections,2016,3.940177566621755,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,1.4021534146751835,2.538024151946572
+NA,Low income,WBGroups,2-year projections,2017,3.970484851696071,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,1.970015337998443,2.000469513697628
+NA,Low income,WBGroups,2-year projections,2018,3.999282014157224,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,0.8679734097518821,3.1313086044053415
+NA,Low income,WBGroups,2-year projections,2019,4.029358923293996,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,1.679180812559422,2.350178110734574
+NA,Low income,WBGroups,2-year projections,2020,4.030121546935794,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,-1.5306751277281205,5.560796674663914
+NA,Lower-middle income,WBGroups,2-year projections,2010,4.287493308461521,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,5.59447917691982,-1.3069858684582991
+NA,Lower-middle income,WBGroups,2-year projections,2011,4.220185667634002,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,4.233967391517268,-0.01378172388326604
+NA,Lower-middle income,WBGroups,2-year projections,2012,4.271325546513038,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,2.4876562045639483,1.78366934194909
+NA,Lower-middle income,WBGroups,2-year projections,2013,4.271704873472126,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.4146592742746673,0.857045599197459
+NA,Lower-middle income,WBGroups,2-year projections,2014,4.2418851852809025,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,4.0741035848879115,0.16778160039299106
+NA,Lower-middle income,WBGroups,2-year projections,2015,4.214275420736757,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.8823500914407783,0.33192532929597895
+NA,Lower-middle income,WBGroups,2-year projections,2016,4.185078274277831,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.817988936387673,0.3670893378901585
+NA,Lower-middle income,WBGroups,2-year projections,2017,4.143969323421115,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.951853818239859,0.1921155051812562
+NA,Lower-middle income,WBGroups,2-year projections,2018,4.073908409056393,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.49396882256936,0.5799395864870327
+NA,Lower-middle income,WBGroups,2-year projections,2019,4.027616252339206,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,2.1314517037442915,1.8961645485949141
+NA,Lower-middle income,WBGroups,2-year projections,2020,3.985806829493055,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,-5.6396796164671414,9.625486445960195
+NA,Upper-middle income,WBGroups,2-year projections,2010,3.630075937145394,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,8.141443490621247,-4.5113675534758535
+NA,Upper-middle income,WBGroups,2-year projections,2011,3.528599478145411,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,4.898252279818438,-1.369652801673027
+NA,Upper-middle income,WBGroups,2-year projections,2012,3.5095788276095163,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.7531378310351915,-0.24355900342567516
+NA,Upper-middle income,WBGroups,2-year projections,2013,3.464465308084108,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.56751564659481,-0.10305033851070178
+NA,Upper-middle income,WBGroups,2-year projections,2014,3.398897580967608,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,2.954630824807003,0.44426675616060507
+NA,Upper-middle income,WBGroups,2-year projections,2015,3.3321002733835314,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,1.8660897363004914,1.46601053708304
+NA,Upper-middle income,WBGroups,2-year projections,2016,3.2824058997646066,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,-0.15540252154631062,3.4378084213109172
+NA,Upper-middle income,WBGroups,2-year projections,2017,3.2434015762095036,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,1.6494209000249338,1.5939806761845698
+NA,Upper-middle income,WBGroups,2-year projections,2018,3.202783065128756,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,2.1960526601461527,1.0067304049826031
+NA,Upper-middle income,WBGroups,2-year projections,2019,3.1702347713519874,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.210679351900758,-0.04044458054877076
+NA,Upper-middle income,WBGroups,2-year projections,2020,3.1373673089405862,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,-1.5959587971159817,4.733326106056568
+NA,High income,WBGroups,3-year projections,2011,1.502236603907292,High income Kuznets,Kuznets,2.0290460076479278,-0.5268094037406357
+NA,High income,WBGroups,3-year projections,2012,1.3667254671419382,High income Kuznets,Kuznets,0.8526729779117392,0.514052489230199
+NA,High income,WBGroups,3-year projections,2013,1.3605939540954015,High income Kuznets,Kuznets,0.8301676582282536,0.530426295867148
+NA,High income,WBGroups,3-year projections,2014,1.3352526030077083,High income Kuznets,Kuznets,1.3730603162225297,-0.03780771321482135
+NA,High income,WBGroups,3-year projections,2015,1.2983662615769997,High income Kuznets,Kuznets,1.5854653151381903,-0.2870990535611906
+NA,High income,WBGroups,3-year projections,2016,1.256041793902174,High income Kuznets,Kuznets,0.8373419284703587,0.41869986543181525
+NA,High income,WBGroups,3-year projections,2017,1.2139054168710306,High income Kuznets,Kuznets,1.8490068871193088,-0.6351014702482782
+NA,High income,WBGroups,3-year projections,2018,1.171340545567423,High income Kuznets,Kuznets,1.7789275333970789,-0.6075869878296558
+NA,High income,WBGroups,3-year projections,2019,1.112409808311865,High income Kuznets,Kuznets,1.2001546977453703,-0.08774488943350534
+NA,High income,WBGroups,3-year projections,2020,1.0750722946434532,High income Kuznets,Kuznets,-3.1033493321284578,4.178421626771911
+NA,Low income,WBGroups,3-year projections,2011,3.716722895793381,Low income Kuznets,Kuznets,2.665970191549544,1.0507527042438372
+NA,Low income,WBGroups,3-year projections,2012,3.749053518888365,Low income Kuznets,Kuznets,0.7606235537786193,2.988429965109746
+NA,Low income,WBGroups,3-year projections,2013,3.7908228136520616,Low income Kuznets,Kuznets,3.901250778391105,-0.11042796473904337
+NA,Low income,WBGroups,3-year projections,2014,3.8173428636303908,Low income Kuznets,Kuznets,3.7526898021490007,0.06465306148139005
+NA,Low income,WBGroups,3-year projections,2015,3.8143905249745034,Low income Kuznets,Kuznets,1.8715118015045773,1.942878723469926
+NA,Low income,WBGroups,3-year projections,2016,3.855255643974292,Low income Kuznets,Kuznets,1.4021534146751835,2.453102229299109
+NA,Low income,WBGroups,3-year projections,2017,3.895041378211861,Low income Kuznets,Kuznets,1.970015337998443,1.9250260402134178
+NA,Low income,WBGroups,3-year projections,2018,3.906852734996474,Low income Kuznets,Kuznets,0.8679734097518821,3.038879325244592
+NA,Low income,WBGroups,3-year projections,2019,3.910622990430679,Low income Kuznets,Kuznets,1.679180812559422,2.2314421778712568
+NA,Low income,WBGroups,3-year projections,2020,3.920799399069641,Low income Kuznets,Kuznets,-1.5306751277281205,5.451474526797762
+NA,Lower-middle income,WBGroups,3-year projections,2011,4.268066886768729,Lower-middle income Kuznets,Kuznets,4.233967391517268,0.03409949525146061
+NA,Lower-middle income,WBGroups,3-year projections,2012,4.284921566140176,Lower-middle income Kuznets,Kuznets,2.4876562045639483,1.797265361576228
+NA,Lower-middle income,WBGroups,3-year projections,2013,4.354675866799362,Lower-middle income Kuznets,Kuznets,3.4146592742746673,0.940016592524695
+NA,Lower-middle income,WBGroups,3-year projections,2014,4.37056789799426,Lower-middle income Kuznets,Kuznets,4.0741035848879115,0.29646431310634824
+NA,Lower-middle income,WBGroups,3-year projections,2015,4.355519522945417,Lower-middle income Kuznets,Kuznets,3.8823500914407783,0.47316943150463864
+NA,Lower-middle income,WBGroups,3-year projections,2016,4.352715755167691,Lower-middle income Kuznets,Kuznets,3.817988936387673,0.534726818780018
+NA,Lower-middle income,WBGroups,3-year projections,2017,4.34673908647174,Lower-middle income Kuznets,Kuznets,3.951853818239859,0.3948852682318815
+NA,Lower-middle income,WBGroups,3-year projections,2018,4.31918623355485,Lower-middle income Kuznets,Kuznets,3.49396882256936,0.8252174109854904
+NA,Lower-middle income,WBGroups,3-year projections,2019,4.271638951825474,Lower-middle income Kuznets,Kuznets,2.1314517037442915,2.1401872480811823
+NA,Lower-middle income,WBGroups,3-year projections,2020,4.238440138558719,Lower-middle income Kuznets,Kuznets,-5.6396796164671414,9.87811975502586
+NA,Upper-middle income,WBGroups,3-year projections,2011,3.927455916177003,Upper-middle income Kuznets,Kuznets,4.898252279818438,-0.9707963636414352
+NA,Upper-middle income,WBGroups,3-year projections,2012,3.8614526901570745,Upper-middle income Kuznets,Kuznets,3.7531378310351915,0.10831485912188299
+NA,Upper-middle income,WBGroups,3-year projections,2013,3.8369453568352085,Upper-middle income Kuznets,Kuznets,3.56751564659481,0.26942971024039863
+NA,Upper-middle income,WBGroups,3-year projections,2014,3.7932296993060888,Upper-middle income Kuznets,Kuznets,2.954630824807003,0.8385988744990858
+NA,Upper-middle income,WBGroups,3-year projections,2015,3.728432300964446,Upper-middle income Kuznets,Kuznets,1.8660897363004914,1.8623425646639546
+NA,Upper-middle income,WBGroups,3-year projections,2016,3.672808396669236,Upper-middle income Kuznets,Kuznets,-0.15540252154631062,3.8282109182155466
+NA,Upper-middle income,WBGroups,3-year projections,2017,3.6298645143205466,Upper-middle income Kuznets,Kuznets,1.6494209000249338,1.9804436142956128
+NA,Upper-middle income,WBGroups,3-year projections,2018,3.5918278713882756,Upper-middle income Kuznets,Kuznets,2.1960526601461527,1.395775211242123
+NA,Upper-middle income,WBGroups,3-year projections,2019,3.5560176633708362,Upper-middle income Kuznets,Kuznets,3.210679351900758,0.3453383114700781
+NA,Upper-middle income,WBGroups,3-year projections,2020,3.5240010568907465,Upper-middle income Kuznets,Kuznets,-1.5959587971159817,5.119959854006728
+NA,High income,WBGroups,3-year projections,2011,2.0526206469254404,High income Kuznets_Asymptoting,Kuznets_Asymptoting,2.0290460076479278,0.023574639277512688
+NA,High income,WBGroups,3-year projections,2012,2.013777101025971,High income Kuznets_Asymptoting,Kuznets_Asymptoting,0.8526729779117392,1.1611041231142316
+NA,High income,WBGroups,3-year projections,2013,2.044246242963732,High income Kuznets_Asymptoting,Kuznets_Asymptoting,0.8301676582282536,1.2140785847354785
+NA,High income,WBGroups,3-year projections,2014,2.037438470778863,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.3730603162225297,0.6643781545563332
+NA,High income,WBGroups,3-year projections,2015,2.019232461211251,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.5854653151381903,0.43376714607306077
+NA,High income,WBGroups,3-year projections,2016,1.9924826335597778,High income Kuznets_Asymptoting,Kuznets_Asymptoting,0.8373419284703587,1.1551407050894191
+NA,High income,WBGroups,3-year projections,2017,1.965641571697585,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.8490068871193088,0.1166346845782762
+NA,High income,WBGroups,3-year projections,2018,1.937588343582597,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.7789275333970789,0.15866081018551803
+NA,High income,WBGroups,3-year projections,2019,1.8973058587335334,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.2001546977453703,0.6971511609881631
+NA,High income,WBGroups,3-year projections,2020,1.8693476620854632,High income Kuznets_Asymptoting,Kuznets_Asymptoting,-3.1033493321284578,4.972696994213921
+NA,Low income,WBGroups,3-year projections,2011,3.6512920245551306,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,2.665970191549544,0.9853218330055866
+NA,Low income,WBGroups,3-year projections,2012,3.7388546181417377,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,0.7606235537786193,2.9782310643631185
+NA,Low income,WBGroups,3-year projections,2013,3.7827519970030115,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,3.901250778391105,-0.11849878138809355
+NA,Low income,WBGroups,3-year projections,2014,3.822213069282243,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,3.7526898021490007,0.06952326713324242
+NA,Low income,WBGroups,3-year projections,2015,3.8264022214489657,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,1.8715118015045773,1.9548904199443884
+NA,Low income,WBGroups,3-year projections,2016,3.9045739032209816,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,1.4021534146751835,2.5024204885457983
+NA,Low income,WBGroups,3-year projections,2017,3.9806919969593233,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,1.970015337998443,2.01067665896088
+NA,Low income,WBGroups,3-year projections,2018,4.012443902614304,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,0.8679734097518821,3.144470492862422
+NA,Low income,WBGroups,3-year projections,2019,4.041041161376452,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,1.679180812559422,2.3618603488170296
+NA,Low income,WBGroups,3-year projections,2020,4.070791982534338,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,-1.5306751277281205,5.601467110262458
+NA,Lower-middle income,WBGroups,3-year projections,2011,4.270100543453292,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,4.233967391517268,0.03613315193602418
+NA,Lower-middle income,WBGroups,3-year projections,2012,4.197442377254035,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,2.4876562045639483,1.7097861726900865
+NA,Lower-middle income,WBGroups,3-year projections,2013,4.247025826093931,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.4146592742746673,0.8323665518192636
+NA,Lower-middle income,WBGroups,3-year projections,2014,4.2455473567563295,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,4.0741035848879115,0.17144377186841808
+NA,Lower-middle income,WBGroups,3-year projections,2015,4.214772471059591,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.8823500914407783,0.33242237961881305
+NA,Lower-middle income,WBGroups,3-year projections,2016,4.184850719697475,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.817988936387673,0.366861783309802
+NA,Lower-middle income,WBGroups,3-year projections,2017,4.153449103173945,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.951853818239859,0.2015952849340863
+NA,Lower-middle income,WBGroups,3-year projections,2018,4.10802432204791,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.49396882256936,0.6140554994785496
+NA,Lower-middle income,WBGroups,3-year projections,2019,4.035775981747269,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,2.1314517037442915,1.9043242780029779
+NA,Lower-middle income,WBGroups,3-year projections,2020,3.988374940091166,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,-5.6396796164671414,9.628054556558308
+NA,Upper-middle income,WBGroups,3-year projections,2011,3.5865219902474266,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,4.898252279818438,-1.3117302895710115
+NA,Upper-middle income,WBGroups,3-year projections,2012,3.4848357254428475,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.7531378310351915,-0.268302105592344
+NA,Upper-middle income,WBGroups,3-year projections,2013,3.461668901156978,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.56751564659481,-0.10584674543783201
+NA,Upper-middle income,WBGroups,3-year projections,2014,3.4167853718862773,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,2.954630824807003,0.4621545470792743
+NA,Upper-middle income,WBGroups,3-year projections,2015,3.3530361786610285,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,1.8660897363004914,1.4869464423605372
+NA,Upper-middle income,WBGroups,3-year projections,2016,3.2898871724565293,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,-0.15540252154631062,3.44528969400284
+NA,Upper-middle income,WBGroups,3-year projections,2017,3.241617749862691,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,1.6494209000249338,1.592196849837757
+NA,Upper-middle income,WBGroups,3-year projections,2018,3.203225177681812,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,2.1960526601461527,1.0071725175356594
+NA,Upper-middle income,WBGroups,3-year projections,2019,3.1631464124141306,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.210679351900758,-0.04753293948662751
+NA,Upper-middle income,WBGroups,3-year projections,2020,3.1314431968433976,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,-1.5959587971159817,4.727401993959379
+NA,High income,WBGroups,4-year projections,2012,1.459741013975746,High income Kuznets,Kuznets,0.8526729779117392,0.6070680360640068
+NA,High income,WBGroups,4-year projections,2013,1.3256623076011387,High income Kuznets,Kuznets,0.8301676582282536,0.4954946493728851
+NA,High income,WBGroups,4-year projections,2014,1.319396422899688,High income Kuznets,Kuznets,1.3730603162225297,-0.053663893322841716
+NA,High income,WBGroups,4-year projections,2015,1.2946712789786208,High income Kuznets,Kuznets,1.5854653151381903,-0.29079403615956956
+NA,High income,WBGroups,4-year projections,2016,1.2588685601674587,High income Kuznets,Kuznets,0.8373419284703587,0.42152663169710003
+NA,High income,WBGroups,4-year projections,2017,1.2176899098550908,High income Kuznets,Kuznets,1.8490068871193088,-0.631316977264218
+NA,High income,WBGroups,4-year projections,2018,1.17650989120488,High income Kuznets,Kuznets,1.7789275333970789,-0.602417642192199
+NA,High income,WBGroups,4-year projections,2019,1.1351835212101147,High income Kuznets,Kuznets,1.2001546977453703,-0.06497117653525564
+NA,High income,WBGroups,4-year projections,2020,1.0781104212161274,High income Kuznets,Kuznets,-3.1033493321284578,4.181459753344585
+NA,Low income,WBGroups,4-year projections,2012,3.7231338523519537,Low income Kuznets,Kuznets,0.7606235537786193,2.9625102985733345
+NA,Low income,WBGroups,4-year projections,2013,3.7599523939638084,Low income Kuznets,Kuznets,3.901250778391105,-0.14129838442729659
+NA,Low income,WBGroups,4-year projections,2014,3.8065504216701296,Low income Kuznets,Kuznets,3.7526898021490007,0.05386061952112886
+NA,Low income,WBGroups,4-year projections,2015,3.835028883854674,Low income Kuznets,Kuznets,1.8715118015045773,1.963517082350097
+NA,Low income,WBGroups,4-year projections,2016,3.8322731613229024,Low income Kuznets,Kuznets,1.4021534146751835,2.430119746647719
+NA,Low income,WBGroups,4-year projections,2017,3.876144795919428,Low income Kuznets,Kuznets,1.970015337998443,1.906129457920985
+NA,Low income,WBGroups,4-year projections,2018,3.9180596917067434,Low income Kuznets,Kuznets,0.8679734097518821,3.0500862819548615
+NA,Low income,WBGroups,4-year projections,2019,3.9293734632649513,Low income Kuznets,Kuznets,1.679180812559422,2.250192650705529
+NA,Low income,WBGroups,4-year projections,2020,3.9322278653831253,Low income Kuznets,Kuznets,-1.5306751277281205,5.462902993111246
+NA,Lower-middle income,WBGroups,4-year projections,2012,4.270760464231738,Lower-middle income Kuznets,Kuznets,2.4876562045639483,1.7831042596677893
+NA,Lower-middle income,WBGroups,4-year projections,2013,4.28344788466255,Lower-middle income Kuznets,Kuznets,3.4146592742746673,0.8687886103878828
+NA,Lower-middle income,WBGroups,4-year projections,2014,4.351544232234894,Lower-middle income Kuznets,Kuznets,4.0741035848879115,0.2774406473469826
+NA,Lower-middle income,WBGroups,4-year projections,2015,4.365638158553908,Lower-middle income Kuznets,Kuznets,3.8823500914407783,0.4832880671131301
+NA,Lower-middle income,WBGroups,4-year projections,2016,4.349501779161691,Lower-middle income Kuznets,Kuznets,3.817988936387673,0.5315128427740179
+NA,Lower-middle income,WBGroups,4-year projections,2017,4.3440193191972565,Lower-middle income Kuznets,Kuznets,3.951853818239859,0.39216550095739766
+NA,Lower-middle income,WBGroups,4-year projections,2018,4.332544762874879,Lower-middle income Kuznets,Kuznets,3.49396882256936,0.8385759403055193
+NA,Lower-middle income,WBGroups,4-year projections,2019,4.302551080648609,Lower-middle income Kuznets,Kuznets,2.1314517037442915,2.1710993769043174
+NA,Lower-middle income,WBGroups,4-year projections,2020,4.252632149332181,Lower-middle income Kuznets,Kuznets,-5.6396796164671414,9.892311765799322
+NA,Upper-middle income,WBGroups,4-year projections,2012,3.8833472004693004,Upper-middle income Kuznets,Kuznets,3.7531378310351915,0.13020936943410888
+NA,Upper-middle income,WBGroups,4-year projections,2013,3.812426816482173,Upper-middle income Kuznets,Kuznets,3.56751564659481,0.24491116988736295
+NA,Upper-middle income,WBGroups,4-year projections,2014,3.783334314254505,Upper-middle income Kuznets,Kuznets,2.954630824807003,0.828703489447502
+NA,Upper-middle income,WBGroups,4-year projections,2015,3.7400133082653664,Upper-middle income Kuznets,Kuznets,1.8660897363004914,1.873923571964875
+NA,Upper-middle income,WBGroups,4-year projections,2016,3.6772833163784213,Upper-middle income Kuznets,Kuznets,-0.15540252154631062,3.832685837924732
+NA,Upper-middle income,WBGroups,4-year projections,2017,3.6209476202661683,Upper-middle income Kuznets,Kuznets,1.6494209000249338,1.9715267202412345
+NA,Upper-middle income,WBGroups,4-year projections,2018,3.577747759579797,Upper-middle income Kuznets,Kuznets,2.1960526601461527,1.381695099433644
+NA,Upper-middle income,WBGroups,4-year projections,2019,3.5397713896064165,Upper-middle income Kuznets,Kuznets,3.210679351900758,0.3290920377056583
+NA,Upper-middle income,WBGroups,4-year projections,2020,3.5044919436839628,Upper-middle income Kuznets,Kuznets,-1.5959587971159817,5.100450740799944
+NA,High income,WBGroups,4-year projections,2012,2.0323485097439864,High income Kuznets_Asymptoting,Kuznets_Asymptoting,0.8526729779117392,1.1796755318322472
+NA,High income,WBGroups,4-year projections,2013,1.9935620312391045,High income Kuznets_Asymptoting,Kuznets_Asymptoting,0.8301676582282536,1.163394373010851
+NA,High income,WBGroups,4-year projections,2014,2.023879599468703,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.3730603162225297,0.6508192832461734
+NA,High income,WBGroups,4-year projections,2015,2.0173993607368157,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.5854653151381903,0.43193404559862536
+NA,High income,WBGroups,4-year projections,2016,1.9994015828145528,High income Kuznets_Asymptoting,Kuznets_Asymptoting,0.8373419284703587,1.1620596543441941
+NA,High income,WBGroups,4-year projections,2017,1.9729941317645938,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.8490068871193088,0.12398724464528499
+NA,High income,WBGroups,4-year projections,2018,1.946613860174784,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.7789275333970789,0.16768632677770512
+NA,High income,WBGroups,4-year projections,2019,1.9184221159472603,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.2001546977453703,0.71826741820189
+NA,High income,WBGroups,4-year projections,2020,1.8784996529969789,High income Kuznets_Asymptoting,Kuznets_Asymptoting,-3.1033493321284578,4.981848985125437
+NA,Low income,WBGroups,4-year projections,2012,3.6735509696649293,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,0.7606235537786193,2.91292741588631
+NA,Low income,WBGroups,4-year projections,2013,3.766959185421284,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,3.901250778391105,-0.13429159296982096
+NA,Low income,WBGroups,4-year projections,2014,3.8157823405277846,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,3.7526898021490007,0.06309253837878392
+NA,Low income,WBGroups,4-year projections,2015,3.8580709121990853,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,1.8715118015045773,1.986559110694508
+NA,Low income,WBGroups,4-year projections,2016,3.8624503232077947,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,1.4021534146751835,2.4602969085326114
+NA,Low income,WBGroups,4-year projections,2017,3.944606751559837,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,1.970015337998443,1.9745914135613938
+NA,Low income,WBGroups,4-year projections,2018,4.023213354401833,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,0.8679734097518821,3.155239944649951
+NA,Low income,WBGroups,4-year projections,2019,4.054667019693442,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,1.679180812559422,2.3754862071340197
+NA,Low income,WBGroups,4-year projections,2020,4.082234285597552,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,-1.5306751277281205,5.6129094133256725
+NA,Lower-middle income,WBGroups,4-year projections,2012,4.250568063878979,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,2.4876562045639483,1.7629118593150306
+NA,Lower-middle income,WBGroups,4-year projections,2013,4.173167245714704,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.4146592742746673,0.7585079714400367
+NA,Lower-middle income,WBGroups,4-year projections,2014,4.221059812137606,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,4.0741035848879115,0.14695622724969493
+NA,Lower-middle income,WBGroups,4-year projections,2015,4.217764512680833,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.8823500914407783,0.3354144212400545
+NA,Lower-middle income,WBGroups,4-year projections,2016,4.18624318996712,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.817988936387673,0.3682542535794475
+NA,Lower-middle income,WBGroups,4-year projections,2017,4.154060332481713,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.951853818239859,0.20220651424185387
+NA,Lower-middle income,WBGroups,4-year projections,2018,4.117524829390451,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.49396882256936,0.623556006821091
+NA,Lower-middle income,WBGroups,4-year projections,2019,4.070180342337393,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,2.1314517037442915,1.9387286385931013
+NA,Lower-middle income,WBGroups,4-year projections,2020,3.9967033160239973,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,-5.6396796164671414,9.636382932491138
+NA,Upper-middle income,WBGroups,4-year projections,2012,3.540826710770384,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.7531378310351915,-0.21231112026480758
+NA,Upper-middle income,WBGroups,4-year projections,2013,3.4391912153757698,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.56751564659481,-0.12832443121904014
+NA,Upper-middle income,WBGroups,4-year projections,2014,3.414152015840788,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,2.954630824807003,0.45952119103378486
+NA,Upper-middle income,WBGroups,4-year projections,2015,3.3704575163009842,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,1.8660897363004914,1.5043677800004929
+NA,Upper-middle income,WBGroups,4-year projections,2016,3.3107331331449608,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,-0.15540252154631062,3.4661356546912714
+NA,Upper-middle income,WBGroups,4-year projections,2017,3.2492809510494602,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,1.6494209000249338,1.5998600510245264
+NA,Upper-middle income,WBGroups,4-year projections,2018,3.201925692358154,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,2.1960526601461527,1.0058730322120013
+NA,Upper-middle income,WBGroups,4-year projections,2019,3.1643896868588595,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.210679351900758,-0.04628966504189869
+NA,Upper-middle income,WBGroups,4-year projections,2020,3.1248645345950177,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,-1.5959587971159817,4.720823331710999
+NA,High income,WBGroups,5-year projections,2013,1.4182560785072962,High income Kuznets,Kuznets,0.8301676582282536,0.5880884202790426
+NA,High income,WBGroups,5-year projections,2014,1.2857575806181742,High income Kuznets,Kuznets,1.3730603162225297,-0.08730273560435542
+NA,High income,WBGroups,5-year projections,2015,1.279238182425324,High income Kuznets,Kuznets,1.5854653151381903,-0.3062271327128663
+NA,High income,WBGroups,5-year projections,2016,1.2552494262541458,High income Kuznets,Kuznets,0.8373419284703587,0.4179074977837871
+NA,High income,WBGroups,5-year projections,2017,1.2204605278385738,High income Kuznets,Kuznets,1.8490068871193088,-0.628546359280735
+NA,High income,WBGroups,5-year projections,2018,1.1801569880138807,High income Kuznets,Kuznets,1.7789275333970789,-0.5987705453831982
+NA,High income,WBGroups,5-year projections,2019,1.139948065285079,High income Kuznets,Kuznets,1.2001546977453703,-0.06020663246029123
+NA,High income,WBGroups,5-year projections,2020,1.100015307799973,High income Kuznets,Kuznets,-3.1033493321284578,4.203364639928431
+NA,Low income,WBGroups,5-year projections,2013,3.733097521999645,Low income Kuznets,Kuznets,3.901250778391105,-0.16815325639145984
+NA,Low income,WBGroups,5-year projections,2014,3.7740021898161116,Low income Kuznets,Kuznets,3.7526898021490007,0.021312387667110855
+NA,Low income,WBGroups,5-year projections,2015,3.8248012928910446,Low income Kuznets,Kuznets,1.8715118015045773,1.9532894913864673
+NA,Low income,WBGroups,5-year projections,2016,3.8556453782713715,Low income Kuznets,Kuznets,1.4021534146751835,2.4534919635961883
+NA,Low income,WBGroups,5-year projections,2017,3.853431720686462,Low income Kuznets,Kuznets,1.970015337998443,1.883416382688019
+NA,Low income,WBGroups,5-year projections,2018,3.899684835457201,Low income Kuznets,Kuznets,0.8679734097518821,3.0317114257053186
+NA,Low income,WBGroups,5-year projections,2019,3.9416668341097805,Low income Kuznets,Kuznets,1.679180812559422,2.2624860215503584
+NA,Low income,WBGroups,5-year projections,2020,3.9524374200909875,Low income Kuznets,Kuznets,-1.5306751277281205,5.483112547819108
+NA,Lower-middle income,WBGroups,5-year projections,2013,4.2719841616097876,Lower-middle income Kuznets,Kuznets,3.4146592742746673,0.8573248873351202
+NA,Lower-middle income,WBGroups,5-year projections,2014,4.280207188780194,Lower-middle income Kuznets,Kuznets,4.0741035848879115,0.20610360389228255
+NA,Lower-middle income,WBGroups,5-year projections,2015,4.3463851701151635,Lower-middle income Kuznets,Kuznets,3.8823500914407783,0.4640350786743852
+NA,Lower-middle income,WBGroups,5-year projections,2016,4.358885171012927,Lower-middle income Kuznets,Kuznets,3.817988936387673,0.5408962346252544
+NA,Lower-middle income,WBGroups,5-year projections,2017,4.3402481916608115,Lower-middle income Kuznets,Kuznets,3.951853818239859,0.38839437342095273
+NA,Lower-middle income,WBGroups,5-year projections,2018,4.3299149325716435,Lower-middle income Kuznets,Kuznets,3.49396882256936,0.8359461100022836
+NA,Lower-middle income,WBGroups,5-year projections,2019,4.315631837449763,Lower-middle income Kuznets,Kuznets,2.1314517037442915,2.184180133705471
+NA,Lower-middle income,WBGroups,5-year projections,2020,4.283570911174839,Lower-middle income Kuznets,Kuznets,-5.6396796164671414,9.92325052764198
+NA,Upper-middle income,WBGroups,5-year projections,2013,3.836396246122531,Upper-middle income Kuznets,Kuznets,3.56751564659481,0.26888059952772103
+NA,Upper-middle income,WBGroups,5-year projections,2014,3.7611080259865037,Upper-middle income Kuznets,Kuznets,2.954630824807003,0.8064772011795007
+NA,Upper-middle income,WBGroups,5-year projections,2015,3.729598440334758,Upper-middle income Kuznets,Kuznets,1.8660897363004914,1.8635087040342668
+NA,Upper-middle income,WBGroups,5-year projections,2016,3.6887158479110838,Upper-middle income Kuznets,Kuznets,-0.15540252154631062,3.8441183694573944
+NA,Upper-middle income,WBGroups,5-year projections,2017,3.6257013845371944,Upper-middle income Kuznets,Kuznets,1.6494209000249338,1.9762804845122606
+NA,Upper-middle income,WBGroups,5-year projections,2018,3.5687827929931526,Upper-middle income Kuznets,Kuznets,2.1960526601461527,1.3727301328469999
+NA,Upper-middle income,WBGroups,5-year projections,2019,3.524541020181271,Upper-middle income Kuznets,Kuznets,3.210679351900758,0.3138616682805129
+NA,Upper-middle income,WBGroups,5-year projections,2020,3.486481188895363,Upper-middle income Kuznets,Kuznets,-1.5959587971159817,5.0824399860113445
+NA,High income,WBGroups,5-year projections,2013,2.012449769277014,High income Kuznets_Asymptoting,Kuznets_Asymptoting,0.8301676582282536,1.1822821110487602
+NA,High income,WBGroups,5-year projections,2014,1.9740123823107858,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.3730603162225297,0.6009520660882561
+NA,High income,WBGroups,5-year projections,2015,2.0041064000555053,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.5854653151381903,0.418641084917315
+NA,High income,WBGroups,5-year projections,2016,1.9975281651584798,High income Kuznets_Asymptoting,Kuznets_Asymptoting,0.8373419284703587,1.160186236688121
+NA,High income,WBGroups,5-year projections,2017,1.9798742779125078,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.8490068871193088,0.13086739079319898
+NA,High income,WBGroups,5-year projections,2018,1.9537110017319836,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.7789275333970789,0.17478346833490477
+NA,High income,WBGroups,5-year projections,2019,1.92707558489853,High income Kuznets_Asymptoting,Kuznets_Asymptoting,1.2001546977453703,0.7269208871531596
+NA,High income,WBGroups,5-year projections,2020,1.899081103633371,High income Kuznets_Asymptoting,Kuznets_Asymptoting,-3.1033493321284578,5.002430435761829
+NA,Low income,WBGroups,5-year projections,2013,3.7007568642043074,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,3.901250778391105,-0.20049391418679763
+NA,Low income,WBGroups,5-year projections,2014,3.7987203122085758,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,3.7526898021490007,0.046030510059575036
+NA,Low income,WBGroups,5-year projections,2015,3.851822448005798,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,1.8715118015045773,1.9803106465012208
+NA,Low income,WBGroups,5-year projections,2016,3.8971318003226507,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,1.4021534146751835,2.4949783856474674
+NA,Low income,WBGroups,5-year projections,2017,3.9019645135362877,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,1.970015337998443,1.9319491755378446
+NA,Low income,WBGroups,5-year projections,2018,3.986828597283015,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,0.8679734097518821,3.1188551875311328
+NA,Low income,WBGroups,5-year projections,2019,4.065412398152935,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,1.679180812559422,2.386231585593513
+NA,Low income,WBGroups,5-year projections,2020,4.096261959572484,Low income Kuznets_Asymptoting,Kuznets_Asymptoting,-1.5306751277281205,5.626937087300604
+NA,Lower-middle income,WBGroups,5-year projections,2013,4.229253906799824,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.4146592742746673,0.8145946325251563
+NA,Lower-middle income,WBGroups,5-year projections,2014,4.147396464628583,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,4.0741035848879115,0.07329287974067178
+NA,Lower-middle income,WBGroups,5-year projections,2015,4.193504698019068,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.8823500914407783,0.31115460657828997
+NA,Lower-middle income,WBGroups,5-year projections,2016,4.188803322687207,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.817988936387673,0.3708143862995339
+NA,Lower-middle income,WBGroups,5-year projections,2017,4.155717434526318,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.951853818239859,0.20386361628645933
+NA,Lower-middle income,WBGroups,5-year projections,2018,4.1189002761395255,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.49396882256936,0.6249314535701656
+NA,Lower-middle income,WBGroups,5-year projections,2019,4.079875828900548,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,2.1314517037442915,1.9484241251562562
+NA,Lower-middle income,WBGroups,5-year projections,2020,4.031303045095513,Lower-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,-5.6396796164671414,9.670982661562654
+NA,Upper-middle income,WBGroups,5-year projections,2013,3.4938810328460246,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.56751564659481,-0.07363461374878533
+NA,Upper-middle income,WBGroups,5-year projections,2014,3.392869368464435,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,2.954630824807003,0.4382385436574321
+NA,Upper-middle income,WBGroups,5-year projections,2015,3.3675381146763605,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,1.8660897363004914,1.5014483783758692
+NA,Upper-middle income,WBGroups,5-year projections,2016,3.3277083521531026,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,-0.15540252154631062,3.483110873699413
+NA,Upper-middle income,WBGroups,5-year projections,2017,3.270070856966134,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,1.6494209000249338,1.6206499569412003
+NA,Upper-middle income,WBGroups,5-year projections,2018,3.209831588520684,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,2.1960526601461527,1.0137789283745313
+NA,Upper-middle income,WBGroups,5-year projections,2019,3.163085172946678,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,3.210679351900758,-0.047594178954080135
+NA,Upper-middle income,WBGroups,5-year projections,2020,3.1259535881042133,Upper-middle income Kuznets_Asymptoting,Kuznets_Asymptoting,-1.5959587971159817,4.721912385220195
